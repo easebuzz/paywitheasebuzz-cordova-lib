@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *;connect-src *;">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <title>Easebuzz</title>
+        <style>
+            .item-divider{
+                text-align: center;
+                font-weight: 600;
+            }
+            .item-stacked-label{
+                margin: 3px;
+            }
+            span.input-label{
+                width: 30%;
+
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <h3> Easebuzz Cordova Kit </h3>
+            <div id="output" style="display:none;">
+
+                <h1 class="title" id="txnStatus"></h1>
+                <h3>Response:</h3>
+                <p id="resDiv">
+
+                </p>
+                <button id="backPayment" class="button button-block button-positive">
+                        back
+                </button>
+            </div>
+            <div class="list" id="paymentForm" >
+                <div class="item item-divider">
+                    Mandatory Parameters 
+                </div>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">Amount</span>
+                    <input id="amount" type="text" placeholder="1" value="1">
+                </div><br/>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">First Name</span>
+                    <input id="firstname" type="text" placeholder="John" value="John">
+                </div><br/>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">Email</span>
+                    <input id="email" type="text" placeholder="john@suhr.com" value="john@suhr.com">
+                </div><br/>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">Phone Number</span>
+                    <input id="phone" type="text" placeholder="9158520752" value="9158520752">
+                </div><br/>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">Production info</span>
+                    <input id="productinfo" type="text" placeholder="test product" value="test product">
+                </div><br/><br/>
+                <div class="item item-divider">
+                    Optional Parameters
+                </div>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">UDF1</span>
+                    <input id="udf1" type="text" placeholder="xyz" value="xyz">
+                </div><br/>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">UDF2</span>
+                    <input id="udf2" type="text" placeholder="xyz" value="xyz">
+                </div><br/>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">UDF3</span>
+                    <input id="udf3" type="text" placeholder="xyz" value="xyz">
+                </div><br/>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">UDF4</span>
+                    <input id="udf4" type="text" placeholder="xyz" value="xyz">
+                </div><br/>
+                <div class="item item-input item-stacked-label">
+                    <span class="input-label">UDF5</span>
+                    <input id="udf5" type="text" placeholder="xyz" value="xyz">
+                </div><br/>
+                <div class="content padding has-header">
+                    <button id="startPayment" style="width:100%" class="button button-block button-positive">
+                        Pay
+                    </button>
+                    <div id="loading" style="display:none;">
+                        Processing.......
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script src="js/jquery-1.11.1.min.js"></script>
+        <script type="text/javascript" src="js/sha512.js"></script>
+        <script type="text/javascript" src="js/payEasebuzz.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>
