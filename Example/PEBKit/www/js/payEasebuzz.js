@@ -6,9 +6,9 @@ var easebuzz = {
         var hashparam = str.split("|");
         var hashstr = "";
         for (i = 0; i < hashparam.length; i++) {
-            hashstr += params[hashparam[i]] + "|";
+            hashstr += params[hashparam[i]].trim() + "|";
         }
-        hashstr += params["salt"] + "|" + params["key"]
+        hashstr += params["salt"].trim() + "|" + params["key"].trim()
         var shaObj = new jsSHA("SHA-512", "TEXT");
         shaObj.update(hashstr);
         var paymenthash = shaObj.getHash("HEX");
@@ -46,7 +46,7 @@ var easebuzz = {
                 inappEasebuzz = window.open(baseUrl + 'cordova/pay/' + response.data, '_blank', 'hidden=yes,clearsessioncache=yes,location=no,toolbar=no');
                 inappEasebuzz.addEventListener("loadstart", function () {
                     console.log("==========================Resetting Value=====================");
-                    inappEasebuzz.hide();
+                    //inappEasebuzz.hide();
                     inappEasebuzz.executeScript({code: "localStorage.setItem('easebuzzResponse', '')"});
                 });
                 inappEasebuzz.addEventListener("loadstop", function () {
