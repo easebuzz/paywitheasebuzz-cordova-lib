@@ -6,9 +6,9 @@ var easebuzz = {
         var hashparam = str.split("|");
         var hashstr = "";
         for (i = 0; i < hashparam.length; i++) {
-            hashstr += params[hashparam[i]].trim() + "|";
+            hashstr += String(params[hashparam[i]]).trim() + "|";
         }
-        hashstr += params["salt"].trim() + "|" + params["key"].trim()
+        hashstr += String(params["salt"]).trim() + "|" + String(params["key"]).trim()
         var shaObj = new jsSHA("SHA-512", "TEXT");
         shaObj.update(hashstr);
         var paymenthash = shaObj.getHash("HEX");
