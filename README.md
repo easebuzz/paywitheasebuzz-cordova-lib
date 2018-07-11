@@ -20,7 +20,7 @@ Android
     Note: The iOS framework is shipped with simulator architectures , you have to remove them before you archive.
 
 <br />3. Add below meta tag
-  
+ ```javascript 
  <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;"/>
     
 
@@ -83,16 +83,16 @@ Result : To decide payment transaction is successful or failed.
 ```
 
 Value of the result can be :
-<br />“payment_successfull” : result contains this value, if the payment transaction completed successfully.
-<br />“txn_session_timeout “ :  result contains this value, if the payment transaction failed because of the <br />transaction time out.
-<br />“user_cancelled” : result contains this value, if the the user pressed the cancel button during the  payment process.
-<br />“error_server_error” : result contains this value, if the server side error occured during payment process.
-<br />“bank_back_pressed” :  result contains this value if user press the back button on bank page.
-<br />“invalid_input_data” :  result contains this value if payment request input parameters are not valid.
-<br />“payment_failed” :  result contains this value if payment fails from the bank side.
-<br />“error_noretry” : This result can be considered as failed payment.
-<br />“retry_fail_error” : This result can be considered as failed payment.
-<br />“trxn_not_allowed” : This result can be considered as failed payment.
+<br />**“payment_successfull”** : result contains this value, if the payment transaction completed successfully.<br />
+<br />**“txn_session_timeout“** :  result contains this value, if the payment transaction failed because of the <br />transaction time out.<br />
+<br />**“user_cancelled”** : result contains this value, if the the user pressed the cancel button during the  payment process.<br />
+<br />**“error_server_error”** : result contains this value, if the server side error occured during payment process.<br />
+<br />**“bank_back_pressed”** :  result contains this value if user press the back button on bank page.<br />
+<br />**“invalid_input_data”** :  result contains this value if payment request input parameters are not valid.<br />
+<br />**“payment_failed”** :  result contains this value if payment fails from the bank side.<br />
+<br />**“error_noretry”** : This result can be considered as failed payment.<br />
+<br />**“retry_fail_error”** : This result can be considered as failed payment.<br />
+<br />**“trxn_not_allowed”** : This result can be considered as failed payment.<br />
 
 
 <br />To check request parameters click on below link.
