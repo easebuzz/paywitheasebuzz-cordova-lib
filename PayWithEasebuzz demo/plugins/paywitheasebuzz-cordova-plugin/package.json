@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+        "spec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+        "type": "directory"
+      },
+      "/home/srvmedia/Cordova/Library/PayWithEaseBuzz"
+    ]
+  ],
+  "_from": "../easebuzz-cordova-kit",
+  "_id": "paywitheasebuzz-cordova-plugin@0.0.1",
+  "_inCache": true,
+  "_location": "/paywitheasebuzz-cordova-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+    "spec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:../easebuzz-cordova-kit",
+  "_shasum": "c19b7d25f708fac00b7666ccf3471fd9cfdd6964",
+  "_shrinkwrap": null,
+  "_spec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+  "_where": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz",
+  "author": {
+    "name": "Easebuzz",
+    "email": "info@easebuzz.com"
+  },
+  "cordova": {
+    "id": "paywitheasebuzz-cordova-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "A Cordova plugin Easebuzz.",
+  "devDependencies": {},
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "10af121a7a47954bb09c1ffc072f3e43864e8e6d",
+  "homepage": "",
+  "keywords": [
+    "Easebuzz",
+    "payment gateway",
+    "online payment",
+    "cordova sdk"
+  ],
+  "license": "MIT",
+  "name": "paywitheasebuzz-cordova-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/easebuzz-root/easebuzz-android/easebuzz-cordova-kit.git"
+  },
+  "version": "0.0.1"
+}
