@@ -5,22 +5,24 @@
 
 #### Dependencies
 Android
-iOS
+<br />iOS
 
 #### Usage:
 1.Install the plugin
-2.Commands
-    cd your-project-folder
-    $ cordova platform add ios
-    $ cordova platform add android 
-    $ cordova plugin add /path/to/easebuzz-cordova-kit
+<br />2.Commands
+<br />    cd your-project-folder
+<br />    $ cordova platform add ios
+<br />    $ cordova platform add android 
+<br />    $ cordova plugin add /path/to/easebuzz-cordova-kit
 
 #### Note :For iOS
     Note: This release is meant for Xcode 9.4 and above as it uses a framework compiled in Swift 4.1.This will not work in Xcode 9.2 as  you will get a "dlyd error : framework not found error".
     Note: The iOS framework is shipped with simulator architectures , you have to remove them before you archive.
 
-3. Add below meta tag/
-   <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+<br />3. Add below meta tag
+   ```javascript
+      <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+    ```  
 4. Add jquery-1.11.1.min.js and import it before index.js.
 
 #### Integration code :
