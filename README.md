@@ -20,11 +20,10 @@ Android
     Note: The iOS framework is shipped with simulator architectures , you have to remove them before you archive.
 
 <br />3. Add below meta tag
-   ```javascript
-      <meta http-equiv="Content-Security-Policy" content="default-src 
-      'self' data: gap: https://ssl.gstatic com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">.
-    ```
-     
+  
+ <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;"/>
+    
+
 4. Add jquery-1.11.1.min.js and import it before index.js.
 
 #### Integration code :
@@ -84,20 +83,20 @@ Result : To decide payment transaction is successful or failed.
 ```
 
 Value of the result can be :
-“payment_successfull” : result contains this value, if the payment transaction completed successfully.
-“txn_session_timeout “ :  result contains this value, if the payment transaction failed because of the transaction time out.
-“user_cancelled” : result contains this value, if the the user pressed the cancel button during the  payment process.
-“error_server_error” : result contains this value, if the server side error occured during payment process.
-“bank_back_pressed” :  result contains this value if user press the back button on bank page.
-“invalid_input_data” :  result contains this value if payment request input parameters are not valid.
-“payment_failed” :  result contains this value if payment fails from the bank side.
-“error_noretry” : This result can be considered as failed payment.
-“retry_fail_error” : This result can be considered as failed payment.
-“trxn_not_allowed” : This result can be considered as failed payment.
+<br />“payment_successfull” : result contains this value, if the payment transaction completed successfully.
+<br />“txn_session_timeout “ :  result contains this value, if the payment transaction failed because of the <br />transaction time out.
+<br />“user_cancelled” : result contains this value, if the the user pressed the cancel button during the  payment process.
+<br />“error_server_error” : result contains this value, if the server side error occured during payment process.
+<br />“bank_back_pressed” :  result contains this value if user press the back button on bank page.
+<br />“invalid_input_data” :  result contains this value if payment request input parameters are not valid.
+<br />“payment_failed” :  result contains this value if payment fails from the bank side.
+<br />“error_noretry” : This result can be considered as failed payment.
+<br />“retry_fail_error” : This result can be considered as failed payment.
+<br />“trxn_not_allowed” : This result can be considered as failed payment.
 
 
-To check request parameters click on below link.
-    https://docs.easebuzz.in/mobile-integration-android/handle-response
+<br />To check request parameters click on below link.
+    <br />https://docs.easebuzz.in/mobile-integration-android/handle-response
  
-To check sample payment response on below link.
-    https://docs.easebuzz.in/mobile-integration-android/request-response-desc
+<br />To check sample payment response on below link.
+    <br />https://docs.easebuzz.in/mobile-integration-android/request-response-desc
