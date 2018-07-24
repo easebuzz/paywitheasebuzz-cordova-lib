@@ -1,0 +1,11 @@
+framework module Easebuzz {
+  umbrella header "Easebuzz.h"
+
+  export *
+  module * { export * }
+}
+
+module Easebuzz.Swift {
+    header "Easebuzz-Swift.h"
+    requires objc
+}

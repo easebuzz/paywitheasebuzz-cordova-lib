@@ -1,0 +1,33 @@
+{
+  "name": "paywitheasebuzz-cordova-plugin",
+  "version": "0.0.1",
+  "description": "A Cordova plugin Easebuzz.",
+  "cordova": {
+    "id": "paywitheasebuzz-cordova-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/easebuzz-root/easebuzz-android/easebuzz-cordova-kit.git"
+  },
+  "keywords": [
+    "Easebuzz",
+    "payment gateway",
+    "online payment",
+    "cordova sdk"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Easebuzz <info@easebuzz.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

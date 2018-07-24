@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="paywitheasebuzz-cordova-plugin" version="0.0.1">
+    <name>easebuzz-cordova-kit</name>
+
+    <description>A Cordova plugin Easebuzz.</description>
+    <license>MIT</license>
+
+    <keywords>Easebuzz,payment gateway,online payment,cordova sdk</keywords>
+    <repo>https://gitlab.com/easebuzz-root/easebuzz-android/easebuzz-cordova-kit.git</repo>
+  
+    <engines>
+        <engine name="cordova" version=">=3.0.0"/>
+    </engines>
+  
+    <js-module src="www/PayWithEasebuzz.js" name="PayWithEasebuzz">
+        <clobbers target="window.plugins.PayWithEasebuzz" />
+    </js-module>
+
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="PayWithEasebuzz">
+                <param name="android-package" value="com.cordova.easebuzz.plugin.PayWithEasebuzz"/>
+            </feature>
+        </config-file>
+          
+
+
+      <resource-file src="src/android/peb-lib.aar"
+                       target="../../libs/peb-lib.aar"/>
+
+ 
+
+
+        <config-file target="AndroidManifest.xml" parent="/manifest/application">
+              <activity android:name="com.easebuzz.payment.kit.PWECouponsActivity" 
+                android:label="Select Coupons"
+                android:screenOrientation="portrait"
+                android:windowSoftInputMode="adjustPan"
+                android:exported="false" />
+        </config-file>
+
+        <config-file target="AndroidManifest.xml" parent="/manifest/application">
+                     <activity android:name="com.easebuzz.payment.kit.PWEProcessPaymentActivity"
+                               android:screenOrientation="portrait"
+                               android:theme="@style/NoActionBarTheme"
+                               android:exported="false"/>
+        </config-file>
+
+        <framework src="src/android/ebgradle.gradle" custom="true" type="gradleReference"/>
+        <framework src="com.android.support:design:26.1.0"/>
+        <framework src="com.android.support:appcompat-v7:26.1.0"/>
+        <framework src="com.squareup.retrofit2:retrofit:2.3.0"/>
+        <framework src="com.squareup.retrofit2:converter-gson:2.3.0"/>
+        <framework src="com.android.support:cardview-v7:26.1.0"/>
+        <framework src="com.android.support:recyclerview-v7:26.1.0"/>
+
+        <framework src="com.github.bumptech.glide:glide:3.5.2"/>
+        <framework src="com.squareup.okhttp:okhttp:2.0.0"/>
+        <framework src="com.squareup.okhttp:okhttp-urlconnection:1.6.0"/>
+        <framework src="com.google.android.gms:play-services:8.3.0"/>
+         <framework src="com.android.support:multidex:1.0.1"/>
+        <source-file src="src/android/PayWithEasebuzz.java" target-dir="src"/>
+        <dependency id="cordova-plugin-compat" version="^1.0.0"/>
+    </platform>
+    
+    <platform name="ios">
+        <config-file target="config.xml" parent="/widget">
+            <feature name="PayWithEasebuzz">
+                <param name="ios-package" value="Main"/>
+            </feature>
+        </config-file>
+        
+        <header-file src="src/ios/Main.h" target-dir="platforms/ios/Main.h"/>
+        <source-file src="src/ios/Main.m" target-dir="platforms/ios/Main.m"/>
+        <framework src="src/ios/Easebuzz.framework" custom="true" embed="true"/>
+        <framework src="SystemConfiguration.framework" />
+        
+    </platform>
+    
+</plugin>
