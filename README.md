@@ -3,7 +3,7 @@
 
 ## Supported platforms
 
-#### Dependencies
+
 Android
 <br />iOS
 
