@@ -74,7 +74,7 @@ proceedToPayment: function () {
 
 ``` 
 
-### For Typescript(Ionic) :
+##### For Typescript(Ionic) :
 
 ```javascript
         public proceedToPayment() {
