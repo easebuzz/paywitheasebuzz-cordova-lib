@@ -62,7 +62,7 @@
         <framework src="com.google.android.gms:play-services:8.3.0"/>
          <framework src="com.android.support:multidex:1.0.1"/>
         <source-file src="src/android/PayWithEasebuzz.java" target-dir="src"/>
-        <dependency id="cordova-plugin-compat" version="^1.0.0"/>
+        
     </platform>
     
     <platform name="ios">

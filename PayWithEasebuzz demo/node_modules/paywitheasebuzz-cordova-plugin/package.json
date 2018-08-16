@@ -2,15 +2,15 @@
   "_args": [
     [
       {
-        "raw": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+        "raw": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/easebuzz-cordova-kit",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
-        "spec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+        "rawSpec": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/easebuzz-cordova-kit",
+        "spec": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/easebuzz-cordova-kit",
         "type": "directory"
       },
-      "/home/srvmedia/Cordova/Library/PayWithEaseBuzz"
+      "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo"
     ]
   ],
   "_from": "../easebuzz-cordova-kit",
@@ -19,12 +19,12 @@
   "_location": "/paywitheasebuzz-cordova-plugin",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+    "raw": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/easebuzz-cordova-kit",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
-    "spec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
+    "rawSpec": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/easebuzz-cordova-kit",
+    "spec": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/easebuzz-cordova-kit",
     "type": "directory"
   },
   "_requiredBy": [
@@ -32,10 +32,10 @@
     "/"
   ],
   "_resolved": "file:../easebuzz-cordova-kit",
-  "_shasum": "c19b7d25f708fac00b7666ccf3471fd9cfdd6964",
+  "_shasum": "e172beb1df170903a10c6b53481d1acbbf6d5fce",
   "_shrinkwrap": null,
-  "_spec": "/home/srvmedia/Cordova/Library/easebuzz-cordova-kit",
-  "_where": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz",
+  "_spec": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/easebuzz-cordova-kit",
+  "_where": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo",
   "author": {
     "name": "Easebuzz",
     "email": "info@easebuzz.com"
@@ -55,7 +55,6 @@
       "version": ">=3.0.0"
     }
   ],
-  "gitHead": "10af121a7a47954bb09c1ffc072f3e43864e8e6d",
   "homepage": "",
   "keywords": [
     "Easebuzz",

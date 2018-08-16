@@ -18,7 +18,7 @@
   "paywitheasebuzz-cordova-plugin": {
     "source": {
       "type": "local",
-      "path": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/node_modules/paywitheasebuzz-cordova-plugin"
+      "path": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/node_modules/paywitheasebuzz-cordova-plugin"
     },
     "is_top_level": true,
     "variables": {}

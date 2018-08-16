@@ -1,6 +1,96 @@
 {
     "logs": [
         {
+            "outputFile": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "map": [
+                {
+                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "293,407,521,638,753,840",
+                        "endColumns": "113,113,116,114,86,95",
+                        "endOffsets": "402,516,633,748,835,931"
+                    },
+                    "to": {
+                        "startLines": "53,54,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "7202,7316,7430,7547,7662,7749",
+                        "endColumns": "113,113,116,114,86,95",
+                        "endOffsets": "7311,7425,7542,7657,7744,7840"
+                    }
+                },
+                {
+                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/res/values-nl/common_strings.xml",
+                    "from": {
+                        "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "481,2624,2308,4551,2050,1859,1728,838,1598,1142,1371,1015,3617,3492,673,3296,3178,306,170,4954,4830,3806,4075,3950,4346,2420,2180,2952,2814,4454",
+                        "endColumns": "191,189,111,278,129,190,130,176,129,228,226,126,188,124,164,195,117,174,135,173,123,143,270,124,107,203,127,225,137,96",
+                        "endOffsets": "668,2809,2415,4825,2175,2045,1854,1010,1723,1366,1593,1137,3801,3612,833,3487,3291,476,301,5123,4949,3945,4341,4070,4449,2619,2303,3173,2947,4546"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2082,2270,2456,2568,2843,2973,3160,3291,3464,3594,3819,4042,4169,4358,4483,4648,4844,4962,5137,5273,5447,5571,5715,5982,6107,6215,6415,6543,6765,6903",
+                        "endColumns": "187,185,111,274,129,186,130,172,129,224,222,126,188,124,164,195,117,174,135,173,123,143,266,124,107,199,127,221,137,96",
+                        "endOffsets": "2265,2451,2563,2838,2968,3155,3286,3459,3589,3814,4037,4164,4353,4478,4643,4839,4957,5132,5268,5442,5566,5710,5977,6102,6210,6410,6538,6760,6898,6995"
+                    }
+                },
+                {
+                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-base-8.3.0.aar/40c213c73d4788f94288e45b3aa8e58c/res/values-nl/base_strings.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "170,263",
+                        "endColumns": "92,108",
+                        "endOffsets": "258,367"
+                    },
+                    "to": {
+                        "startLines": "51,52",
+                        "startColumns": "4,4",
+                        "startOffsets": "7000,7093",
+                        "endColumns": "92,108",
+                        "endOffsets": "7088,7197"
+                    }
+                },
+                {
+                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,281,404,509,616,702,810,930,1007,1084,1166,1277,1381,1480,1595,1708,1811,1929,2032,2114",
+                        "endColumns": "117,107,122,104,106,85,107,119,76,76,81,110,103,98,114,112,102,117,102,81,100",
+                        "endOffsets": "168,276,399,504,611,697,805,925,1002,1079,1161,1272,1376,1475,1590,1703,1806,1924,2027,2109,2210"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,59,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,223,331,454,559,666,752,860,980,1057,1134,1216,1327,1431,1530,1645,1758,1861,1979,7845,7927",
+                        "endColumns": "117,107,122,104,106,85,107,119,76,76,81,110,103,98,114,112,102,117,102,81,100",
+                        "endOffsets": "218,326,449,554,661,747,855,975,1052,1129,1211,1322,1426,1525,1640,1753,1856,1974,2077,7922,8023"
+                    }
+                },
+                {
+                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/res/values-nl/wallet_strings.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "230",
+                        "endColumns": "105",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "61",
+                        "startColumns": "4",
+                        "startOffsets": "8028",
+                        "endColumns": "105",
+                        "endOffsets": "8129"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
