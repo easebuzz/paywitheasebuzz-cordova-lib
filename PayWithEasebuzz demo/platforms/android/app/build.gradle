@@ -269,7 +269,6 @@ dependencies {
     compile "com.github.bumptech.glide:glide:3.5.2"
     compile "com.squareup.okhttp:okhttp:2.0.0"
     compile "com.squareup.okhttp:okhttp-urlconnection:1.6.0"
-    compile "com.google.android.gms:play-services:8.3.0"
     compile "com.android.support:multidex:1.0.1"
     // SUB-PROJECT DEPENDENCIES END
 }

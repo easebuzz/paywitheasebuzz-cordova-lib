@@ -237,7 +237,6 @@ com/google/android/gms/wearable/CapabilityApi$CapabilityFilterType.class
 android/support/v4/media/AudioAttributesCompatApi21.class
 android/support/v4/app/NotificationBuilderWithBuilderAccessor.class
 android/support/v4/media/AudioAttributesCompat$Builder.class
-com/google/android/gms/R$styleable.class
 android/support/v4/view/ViewCompat$ResolvedLayoutDirectionMode.class
 android/arch/lifecycle/Lifecycle$Event.class
 android/support/v7/widget/LinearLayoutCompat$DividerMode.class
@@ -413,7 +412,6 @@ android/support/v4/content/res/FontResourcesParserCompat$FamilyResourceEntry.cla
 android/support/v4/media/MediaMetadataCompatApi21.class
 android/support/design/widget/BaseTransientBottomBar$11.class
 android/support/v4/content/res/FontResourcesParserCompat$FontFileResourceEntry.class
-com/google/android/gms/R.class
 android/support/annotation/IntegerRes.class
 android/support/design/widget/TabLayout$Tab.class
 android/support/design/widget/BottomSheetBehavior$2.class
@@ -473,7 +471,6 @@ android/support/v4/net/ConnectivityManagerCompat.class
 android/support/v7/app/AppCompatDelegateImplV23.class
 android/support/annotation/RequiresPermission.class
 com/google/android/gms/common/api/Releasable.class
-com/google/android/gms/R$style.class
 android/support/transition/Visibility$Mode.class
 com/google/android/gms/wallet/fragment/WalletFragmentStyle$LogoImageType.class
 com/google/gson/annotations/Until.class
@@ -1065,6 +1062,7 @@ com/google/android/gms/maps/StreetViewPanoramaView.class
 com/google/android/gms/internal/zzjs.class
 okhttp3/OkHttpClient$Builder.class
 org/apache/cordova/CordovaWebView.class
+com/squareup/picasso/Downloader$Response.class
 android/support/v4/print/PrintHelper$Orientation.class
 com/google/android/gms/internal/zzes.class
 com/google/android/gms/appindexing/AppIndexApi.class
@@ -1122,6 +1120,7 @@ com/google/android/gms/internal/zzhu.class
 android/support/v4/view/KeyEventCompat.class
 com/google/android/gms/internal/zzft.class
 com/google/android/gms/location/places/PlaceFilter.class
+com/squareup/picasso/Picasso$Builder.class
 android/support/v4/provider/FontsContractCompat$FontFamilyResult$FontResultStatus.class
 com/google/android/gms/ads/internal/client/SearchAdRequestParcel.class
 com/google/android/gms/ads/internal/zzf.class
@@ -1209,6 +1208,7 @@ com/google/android/gms/internal/zzjm.class
 android/support/v4/app/FragmentManager.class
 com/google/android/gms/internal/zzec.class
 com/google/android/gms/internal/zzcu.class
+com/squareup/picasso/Picasso.class
 com/google/android/gms/ads/search/SearchAdRequest.class
 com/google/android/gms/location/places/internal/PlaceLocalization.class
 okhttp3/ConnectionSpec$Builder.class

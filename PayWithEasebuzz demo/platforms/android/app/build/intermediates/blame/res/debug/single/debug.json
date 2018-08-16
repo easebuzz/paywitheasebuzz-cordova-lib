@@ -97,7 +97,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_remove_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/remove_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/remove_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_dark_focused.9.png.flat",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwedebit_atm_pin.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pwedebit_atm_pin.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pwedebit_atm_pin.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause_dark.png.flat",
@@ -257,7 +257,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_transaction_time_out_expire.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_transaction_time_out_expire.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_transaction_time_out_expire.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -309,7 +309,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_atm_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/atm_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/atm_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
@@ -341,7 +341,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_diners_club_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/diners_club_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/diners_club_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_max_icon_grey.png.flat",
@@ -405,7 +405,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_master_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/master_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/master_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_design_navigation_menu.xml.flat",
@@ -461,11 +461,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_master_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/master_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/master_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_atm_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/atm_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/atm_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
@@ -513,7 +513,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwedebit_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pwedebit_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pwedebit_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -553,7 +553,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_atm_icon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/atm_icon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/atm_icon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_wallet_icon.png.flat",
@@ -593,7 +593,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_debit_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/debit_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/debit_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -617,7 +617,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_freecharge_coup.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/freecharge_coup.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/freecharge_coup.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -649,7 +649,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_wallet_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/wallet_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/wallet_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -733,7 +733,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwedebit_card_small.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwedebit_card_small.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwedebit_card_small.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -741,7 +741,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwecredit_card_small.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwecredit_card_small.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwecredit_card_small.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
@@ -777,7 +777,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_icon_visa_large.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/icon_visa_large.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/icon_visa_large.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_light_pressed.9.png.flat",
@@ -789,7 +789,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_item_spinner_layout.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/item_spinner_layout.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/item_spinner_layout.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable_axis_bank.png.flat",
@@ -817,11 +817,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwenet_banking_small.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwenet_banking_small.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwenet_banking_small.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_remove_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/remove_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/remove_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_common_plus_signin_btn_text_light_disabled.9.png.flat",
@@ -837,7 +837,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_cancel_search_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/cancel_search_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/cancel_search_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -853,7 +853,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_atm_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/atm_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/atm_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -881,7 +881,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwepayment_option.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwepayment_option.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwepayment_option.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_common_google_signin_btn_icon_light_normal.9.png.flat",
@@ -921,7 +921,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_net_bank_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/net_bank_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/net_bank_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_dark_normal.9.png.flat",
@@ -933,7 +933,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwepayment_option.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pwepayment_option.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pwepayment_option.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -941,7 +941,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/menu_saved_card_menu_file.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/menu/saved_card_menu_file.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/menu/saved_card_menu_file.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1065,11 +1065,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_master_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/master_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/master_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_remove_icon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/remove_icon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/remove_icon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1109,7 +1109,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_cancel_search_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/cancel_search_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/cancel_search_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_powered_by_google_light.png.flat",
@@ -1161,7 +1161,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_icon_mastercard_large.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/icon_mastercard_large.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/icon_mastercard_large.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/color_design_error.xml.flat",
@@ -1261,7 +1261,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwewallet.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pwewallet.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pwewallet.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1305,7 +1305,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwedebit_atm_pin.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwedebit_atm_pin.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwedebit_atm_pin.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_dark_disabled.9.png.flat",
@@ -1389,7 +1389,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_item_netbanking_group.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/item_netbanking_group.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/item_netbanking_group.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
@@ -1397,7 +1397,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_item_debit_atm_pin.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/item_debit_atm_pin.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/item_debit_atm_pin.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1597,7 +1597,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwenet_banking.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pwenet_banking.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pwenet_banking.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -1649,7 +1649,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_maximize_image_icon_click_effect.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/maximize_image_icon_click_effect.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/maximize_image_icon_click_effect.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_plusone_standard_off_client.png.flat",
@@ -1705,7 +1705,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_commando_secure_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/commando_secure_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/commando_secure_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_play_dark.png.flat",
@@ -1789,7 +1789,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_cancel_search_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/cancel_search_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/cancel_search_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1845,7 +1845,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_master_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/master_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/master_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_max_icon_grey.png.flat",
@@ -1925,7 +1925,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/menu_menu_pwe_debit_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/menu/menu_pwe_debit_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/menu/menu_pwe_debit_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1953,7 +1953,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_debit_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/debit_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/debit_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_plusone_tall_off_client.png.flat",
@@ -1993,7 +1993,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_max_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/max_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/max_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_powered_by_google_light.png.flat",
@@ -2005,7 +2005,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_master_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/master_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/master_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwe_coupons.xml.flat",
@@ -2133,7 +2133,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_credit_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/credit_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/credit_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
@@ -2205,7 +2205,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_cancellation_reason_layout.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/cancellation_reason_layout.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/cancellation_reason_layout.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -2373,7 +2373,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_placeholder.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/placeholder.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/placeholder.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_dark_focused.9.png.flat",
@@ -2381,7 +2381,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_credit_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/credit_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/credit_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -2401,7 +2401,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pweprocess_payment.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pweprocess_payment.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pweprocess_payment.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_icon_dark_pressed.9.png.flat",
@@ -2457,7 +2457,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_cancel_search_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/cancel_search_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/cancel_search_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_light_pressed.9.png.flat",
@@ -2473,7 +2473,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_credit_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/credit_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/credit_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -2505,7 +2505,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_wallet_icon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/wallet_icon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/wallet_icon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_text_dark_focused.9.png.flat",
@@ -2561,11 +2561,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_master_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/master_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/master_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/menu_menu_pwe_debit_atm_pin.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/menu/menu_pwe_debit_atm_pin.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/menu/menu_pwe_debit_atm_pin.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
@@ -2661,7 +2661,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_discover_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/discover_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/discover_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -2685,7 +2685,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_max_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/max_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/max_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_pause_light.png.flat",
@@ -2769,7 +2769,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwedebit_atm_pin_small.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwedebit_atm_pin_small.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwedebit_atm_pin_small.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_text_dark_normal.9.png.flat",
@@ -2801,7 +2801,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_axis_bank.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/axis_bank.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/axis_bank.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
@@ -2825,7 +2825,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_max_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/max_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/max_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -2897,7 +2897,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_selected_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/selected_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/selected_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
@@ -3045,7 +3045,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/menu_menu_pwe_credit_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/menu/menu_pwe_credit_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/menu/menu_pwe_credit_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
@@ -3145,11 +3145,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwe_coupons.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwe_coupons.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwe_coupons.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_swipe_image_click_effect.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/swipe_image_click_effect.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/swipe_image_click_effect.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -3189,7 +3189,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_master_card_icon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/master_card_icon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/master_card_icon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_mr_ic_audio_vol.png.flat",
@@ -3225,7 +3225,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_layout_payble_amount_cards.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/layout_payble_amount_cards.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/layout_payble_amount_cards.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_icon.png.flat",
@@ -3245,7 +3245,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_custom_coupon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/custom_coupon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/custom_coupon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_powered_by_google_light.png.flat",
@@ -3305,7 +3305,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_wallet_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/wallet_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/wallet_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -3345,7 +3345,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pweprocess_payment.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pweprocess_payment.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pweprocess_payment.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_wallet_icon.png.flat",
@@ -3509,7 +3509,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_item_payment_option.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/item_payment_option.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/item_payment_option.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_dark_normal.9.png.flat",
@@ -3533,7 +3533,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_search_icon_grey.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/search_icon_grey.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/search_icon_grey.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/anim_tooltip_exit.xml.flat",
@@ -3545,7 +3545,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_item_cancellation_reason.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/item_cancellation_reason.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/item_cancellation_reason.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_text_light_focused.9.png.flat",
@@ -3589,7 +3589,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/menu_menu_pwe_pay_opt.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/menu/menu_pwe_pay_opt.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/menu/menu_pwe_pay_opt.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -3617,7 +3617,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_max_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/max_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/max_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -3657,11 +3657,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/menu_menu_pwe_netbanking_activity.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/menu/menu_pwe_netbanking_activity.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/menu/menu_pwe_netbanking_activity.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_item_netbanking_child.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/item_netbanking_child.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/item_netbanking_child.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cast_off_light.png.flat",
@@ -3677,7 +3677,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_search_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/search_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/search_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_dark_disabled.9.png.flat",
@@ -3709,7 +3709,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_debit_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/debit_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/debit_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-tvdpi_ic_plusone_small_off_client.png.flat",
@@ -3753,7 +3753,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_rupay_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/rupay_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/rupay_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_master_card_icon.png.flat",
@@ -3877,7 +3877,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_item_netbanking_group.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/item_netbanking_group.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/item_netbanking_group.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -3897,7 +3897,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_max_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/max_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/max_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_full_open_on_phone.png.flat",
@@ -4009,7 +4009,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_remove_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/remove_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/remove_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
@@ -4021,7 +4021,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_selected_icon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/selected_icon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/selected_icon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -4133,7 +4133,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_upload_image_icon_click_effect.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/upload_image_icon_click_effect.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/upload_image_icon_click_effect.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_icon_dark_focused.9.png.flat",
@@ -4165,11 +4165,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_visa_electron.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/visa_electron.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/visa_electron.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_atm_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/atm_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/atm_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
@@ -4197,7 +4197,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwewallet.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwewallet.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwewallet.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
@@ -4341,7 +4341,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/menu_menu_pwe_wallet.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/menu/menu_pwe_wallet.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/menu/menu_pwe_wallet.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -4349,11 +4349,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_selected_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/selected_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/selected_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_search_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/search_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/search_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_transaction_time_out_expire.xml.flat",
@@ -4373,7 +4373,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_upi_layout.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_upi_layout.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_upi_layout.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility.xml.flat",
@@ -4397,7 +4397,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_credit_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/credit_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/credit_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_navigation_empty_icon.xml.flat",
@@ -4461,7 +4461,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_layout_payable_amount_banking.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/layout_payable_amount_banking.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/layout_payable_amount_banking.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_wallet_icon.png.flat",
@@ -4525,7 +4525,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_item_wallet_cashcard.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/item_wallet_cashcard.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/item_wallet_cashcard.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-land-xxhdpi_screen.png.flat",
@@ -4541,7 +4541,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_item_spinner_layout.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/item_spinner_layout.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/item_spinner_layout.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -4565,7 +4565,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_net_bank_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/net_bank_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/net_bank_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -4597,7 +4597,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_item_netbanking_child.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/item_netbanking_child.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/item_netbanking_child.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -4629,7 +4629,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_search_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/search_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/search_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -4757,7 +4757,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_saved_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_saved_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_saved_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cast_on_0_light.png.flat",
@@ -4781,7 +4781,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_debit_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/debit_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/debit_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/anim_tooltip_enter.xml.flat",
@@ -4853,15 +4853,15 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_wallet_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/wallet_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/wallet_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_dankort_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/dankort_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/dankort_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwecredit_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwecredit_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwecredit_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_media_route_off_mono_dark.png.flat",
@@ -4945,7 +4945,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_layout_payable_amount_banking.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/layout_payable_amount_banking.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/layout_payable_amount_banking.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -4969,7 +4969,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_pci_dss_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/pci_dss_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/pci_dss_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -5005,7 +5005,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_selected_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/selected_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/selected_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_dark_disabled.9.png.flat",
@@ -5025,7 +5025,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_transaction_time_out_expire.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_transaction_time_out_expire.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_transaction_time_out_expire.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
@@ -5041,7 +5041,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_atm_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/atm_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/atm_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
@@ -5137,11 +5137,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwecoupons_detail.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pwecoupons_detail.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pwecoupons_detail.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwenet_banking.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwenet_banking.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwenet_banking.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -5277,7 +5277,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_item_wallet_cashcard.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/item_wallet_cashcard.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/item_wallet_cashcard.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/menu_menu_pwe_netbanking_activity.xml.flat",
@@ -5289,7 +5289,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/menu_menu_pwe_coupons.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/menu/menu_pwe_coupons.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/menu/menu_pwe_coupons.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_plus_signin_btn_text_light_disabled.9.png.flat",
@@ -5297,7 +5297,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwecoupons_detail.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwecoupons_detail.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwecoupons_detail.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_common_plus_signin_btn_icon_light_pressed.9.png.flat",
@@ -5345,7 +5345,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_cancel_search_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/cancel_search_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/cancel_search_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -5361,7 +5361,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_credit_card_icon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/credit_card_icon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/credit_card_icon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_plusone_tall_off_client.png.flat",
@@ -5397,7 +5397,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_search_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/search_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/search_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_plusone_tall_off_client.png.flat",
@@ -5413,7 +5413,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_elo_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/elo_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/elo_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_common_google_signin_btn_icon_dark_disabled.9.png.flat",
@@ -5581,7 +5581,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/anim_popup_show.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/anim/popup_show.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/anim/popup_show.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/raw_gtm_analytics.flat",
@@ -5629,11 +5629,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_net_bank_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/net_bank_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/net_bank_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_search_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/search_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/search_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cast_on_0_light.png.flat",
@@ -5653,11 +5653,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_freecharge_img.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/freecharge_img.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/freecharge_img.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_item_payment_option.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/item_payment_option.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/item_payment_option.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_mr_media_route_controller_material_dialog_b.xml.flat",
@@ -5721,7 +5721,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwedebit_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwedebit_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwedebit_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -5773,7 +5773,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_net_bank_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/net_bank_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/net_bank_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
@@ -5809,7 +5809,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_wallet_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/wallet_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/wallet_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_common_google_signin_btn_text_dark_focused.9.png.flat",
@@ -5853,7 +5853,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_custom_coupon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/custom_coupon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/custom_coupon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
@@ -5977,7 +5977,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_remove_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/remove_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/remove_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable_jcb_icon.png.flat",
@@ -5985,7 +5985,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_max_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/max_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/max_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -5997,7 +5997,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_net_bank_icon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/net_bank_icon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/net_bank_icon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwenet_banking_small.xml.flat",
@@ -6117,7 +6117,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwepayment_option_small.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwepayment_option_small.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwepayment_option_small.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_plus_signin_btn_text_light_focused.9.png.flat",
@@ -6133,11 +6133,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_custom_background_white.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/custom_background_white.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/custom_background_white.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_search_icon_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/search_icon_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/search_icon_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwewallet.xml.flat",
@@ -6145,7 +6145,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwewallet_small.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwewallet_small.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwewallet_small.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_item_netbanking_child.xml.flat",
@@ -6153,7 +6153,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_remove_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/remove_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/remove_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
@@ -6165,11 +6165,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_union_pay_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/union_pay_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/union_pay_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_debit_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-hdpi-v4/debit_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-hdpi-v4/debit_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_cast_ic_notification_1.png.flat",
@@ -6253,7 +6253,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/anim_popup_hide.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/anim/popup_hide.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/anim/popup_hide.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -6289,7 +6289,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pweerror.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pweerror.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pweerror.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_mr_ic_audio_vol.png.flat",
@@ -6337,7 +6337,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwecredit_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_pwecredit_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_pwecredit_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-tvdpi_common_google_signin_btn_text_dark_normal.9.png.flat",
@@ -6365,7 +6365,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_jcb_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/jcb_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/jcb_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -6401,11 +6401,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pweerror.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pweerror.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pweerror.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_ic_upi_menu.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/ic_upi_menu.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/ic_upi_menu.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_item_cancellation_reason.xml.flat",
@@ -6453,11 +6453,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_amex_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/amex_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/amex_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_bottom_sheet_upi.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/bottom_sheet_upi.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/bottom_sheet_upi.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_credit_card_icon.png.flat",
@@ -6481,7 +6481,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_debit_icon.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/debit_icon.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/debit_icon.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
@@ -6509,7 +6509,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_cancel_search_grey.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/cancel_search_grey.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/cancel_search_grey.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable_cast_ic_notification_connecting.xml.flat",
@@ -6517,7 +6517,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_cancel_search_grey.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/cancel_search_grey.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/cancel_search_grey.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -6549,7 +6549,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_custom_shadow.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/custom_shadow.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/custom_shadow.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout_custom_coupon.xml.flat",
@@ -6561,7 +6561,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_max_icon_grey.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-anydpi-v21/max_icon_grey.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-anydpi-v21/max_icon_grey.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_cast_disabled_light.png.flat",
@@ -6589,7 +6589,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_powered_by_eb_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/powered_by_eb_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/powered_by_eb_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -6633,7 +6633,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_net_bank_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/net_bank_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/net_bank_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
@@ -6669,7 +6669,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_bit_ssl.jpg.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/bit_ssl.jpg"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/bit_ssl.jpg"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_cast_on_light.png.flat",
@@ -6705,7 +6705,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_progress.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/progress.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/progress.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -6725,7 +6725,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_credit_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/credit_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/credit_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_pwedebit_atm_pin.xml.flat",
@@ -6737,7 +6737,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_activity_pwe_coupons_small.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/activity_pwe_coupons_small.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/activity_pwe_coupons_small.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -6765,7 +6765,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/anim_no_internet.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/anim/no_internet.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/anim/no_internet.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cast_off_light.png.flat",
@@ -6781,7 +6781,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_net_bank_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/net_bank_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/net_bank_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/color_common_plus_signin_btn_text_light.xml.flat",
@@ -6789,7 +6789,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_atm_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/atm_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/atm_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
@@ -6873,7 +6873,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_activity_saved_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/activity_saved_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/activity_saved_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
@@ -6905,7 +6905,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_debit_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/debit_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/debit_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -6933,7 +6933,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_item_debit_atm_pin.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/item_debit_atm_pin.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/item_debit_atm_pin.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -6981,7 +6981,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_ic_upi_request.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/ic_upi_request.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/ic_upi_request.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_google_signin_btn_icon_light_disabled.9.png.flat",
@@ -7037,7 +7037,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_selected_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/selected_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/selected_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -7081,7 +7081,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_wallet_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxxhdpi-v4/wallet_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxxhdpi-v4/wallet_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/anim_design_snackbar_in.xml.flat",
@@ -7205,11 +7205,11 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_selected_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-mdpi-v4/selected_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-mdpi-v4/selected_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_credit_card_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/credit_card_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/credit_card_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_light_focused.9.png.flat",
@@ -7221,7 +7221,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4_remove_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-ldpi-v4/remove_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-ldpi-v4/remove_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_search_icon_grey.png.flat",
@@ -7281,7 +7281,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_wallet_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xxhdpi-v4/wallet_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xxhdpi-v4/wallet_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_mr_ic_media_route_mono_dark.xml.flat",
@@ -7309,7 +7309,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable_maestro_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable/maestro_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable/maestro_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -7325,7 +7325,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_selected_icon.png.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/drawable-xhdpi-v4/selected_icon.png"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/drawable-xhdpi-v4/selected_icon.png"
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_common_plus_signin_btn_icon_light_disabled.9.png.flat",
@@ -7345,7 +7345,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout-large-v4_layout_payble_amount_cards.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout-large-v4/layout_payble_amount_cards.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout-large-v4/layout_payble_amount_cards.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_design_ic_visibility.png.flat",
@@ -7425,7 +7425,7 @@
     },
     {
         "merged": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/res/merged/debug/layout_item_saved_card.xml.flat",
-        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/res/layout/item_saved_card.xml"
+        "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/layout/item_saved_card.xml"
     },
     {
         "merged": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_atm_icon.png.flat",

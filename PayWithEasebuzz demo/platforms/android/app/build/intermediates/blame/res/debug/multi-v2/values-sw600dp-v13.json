@@ -75,29 +75,12 @@
                         "endOffsets": "110,180,251,323,381,439,545,609,672,854"
                     },
                     "to": {
-                        "startLines": "10,11,12,13,14,15,16,17,19,20",
+                        "startLines": "10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,671,741,812,884,942,1000,1106,1243,1306",
-                        "endLines": "10,11,12,13,14,15,16,17,19,23",
+                        "startOffsets": "611,671,741,812,884,942,1000,1106,1170,1233",
+                        "endLines": "10,11,12,13,14,15,16,17,18,22",
                         "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "666,736,807,879,937,995,1101,1165,1301,1483"
-                    }
-                },
-                {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/res/values-sw600dp/values-sw600dp.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "297",
-                        "endColumns": "72",
-                        "endOffsets": "365"
-                    },
-                    "to": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "1170",
-                        "endColumns": "72",
-                        "endOffsets": "1238"
+                        "endOffsets": "666,736,807,879,937,995,1101,1165,1228,1410"
                     }
                 }
             ]

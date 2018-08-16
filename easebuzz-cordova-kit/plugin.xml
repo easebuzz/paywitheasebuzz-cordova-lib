@@ -59,7 +59,6 @@
         <framework src="com.github.bumptech.glide:glide:3.5.2"/>
         <framework src="com.squareup.okhttp:okhttp:2.0.0"/>
         <framework src="com.squareup.okhttp:okhttp-urlconnection:1.6.0"/>
-        <framework src="com.google.android.gms:play-services:8.3.0"/>
          <framework src="com.android.support:multidex:1.0.1"/>
         <source-file src="src/android/PayWithEasebuzz.java" target-dir="src"/>
         

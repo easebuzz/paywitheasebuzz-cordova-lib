@@ -5,9 +5,6 @@ INJECTED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWit
 INJECTED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
 INJECTED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
 MERGED from [com.android.support:design:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6f337e505a60248ec4fcc1b096de2f0a/AndroidManifest.xml:17:1-31:12
-MERGED from [com.google.android.gms:play-services:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-8.3.0.aar/7753e7c07c3aac764c724c8ac593a896/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-cast:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.3.0.aar/af29383f90b084feb54b7639c4282d46/AndroidManifest.xml:16:1-20:12
-MERGED from [com.android.support:mediarouter-v7:22.2.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:cardview-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78867e4645e84959ffad634649a7680c/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4684cac5a3a1b990806f5afb59759737/AndroidManifest.xml:17:1-28:12
@@ -15,36 +12,13 @@ MERGED from [com.android.support:multidex:1.0.2] /home/srvmedia/.gradle/caches/t
 MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/AndroidManifest.xml:2:1-107:12
 MERGED from [:CordovaLib] /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:16:1-33:12
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:16:1-25:12
-MERGED from [com.google.android.gms:play-services-appindexing:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.3.0.aar/76025c128bfc3c680ebd1df74a30f76d/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.3.0.aar/e331605db7855deb8f05afa9b6c7473c/AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-appstate:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.3.0.aar/8d47800b1c9e5ed678dff0faf355f015/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:16:1-26:12
-MERGED from [com.google.android.gms:play-services-games:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-games-8.3.0.aar/7d5b0606a5bc2431ff35dfc14286d0b5/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-drive:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.3.0.aar/b7130206e8fe8843463801cfe82ec883/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-fitness:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.3.0.aar/9f13ba82e9f4d4da7c697df1ffdf471a/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:16:1-25:12
-MERGED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-identity:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.3.0.aar/f7ef526a9e480c3083ed85c676ece9ab/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-location:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-location-8.3.0.aar/36bd69e51b46a61dc4f0baa8b5d5bc33/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:16:1-28:12
-MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.3.0.aar/78b8bc2a33f29f1914195c7689618393/AndroidManifest.xml:16:1-21:12
-MERGED from [com.google.android.gms:play-services-panorama:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.3.0.aar/f975df5ba6c233f8f54a6291642b7e5f/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-plus:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.3.0.aar/0d4d79b644fee378f1a4a54deb72c39e/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-vision:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.3.0.aar/eeff8070c16fb87da0b73e90ddd4b69f/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.3.0.aar/85c5d76c8d0553b0ade6bcabdb1e9479/AndroidManifest.xml:16:1-20:12
-MERGED from [com.google.android.gms:play-services-base:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-base-8.3.0.aar/40c213c73d4788f94288e45b3aa8e58c/AndroidManifest.xml:16:1-19:12
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:16:1-47:12
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c848553870f6ebdf1ba3304353fda12a/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1d0ac784c08611a118dc67372236553f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1aa0b8c1cb674f06cfec468fbdb81739/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/013cccaa023c9c656b824a5e11981d12/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/51862d2868b06205db80dade0e6acd68/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a61deff5a083efede80d1139c0efc58e/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4362a92b565660acb7de90b4beac9c01/AndroidManifest.xml:17:1-30:12
 INJECTED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:2:1-16:12
@@ -84,32 +58,12 @@ uses-permission#android.permission.INTERNET
 ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/AndroidManifest.xml:11:5-67
 MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.3.0.aar/e331605db7855deb8f05afa9b6c7473c/AndroidManifest.xml:19:5-67
-MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.3.0.aar/e331605db7855deb8f05afa9b6c7473c/AndroidManifest.xml:19:5-67
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:21:5-67
 	android:name
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:5:5-14:19
 MERGED from [com.android.support:design:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6f337e505a60248ec4fcc1b096de2f0a/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6f337e505a60248ec4fcc1b096de2f0a/AndroidManifest.xml:25:5-29:19
-MERGED from [com.google.android.gms:play-services:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-8.3.0.aar/7753e7c07c3aac764c724c8ac593a896/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-8.3.0.aar/7753e7c07c3aac764c724c8ac593a896/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-cast:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.3.0.aar/af29383f90b084feb54b7639c4282d46/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-cast:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.3.0.aar/af29383f90b084feb54b7639c4282d46/AndroidManifest.xml:19:5-20
-MERGED from [com.android.support:mediarouter-v7:22.2.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:mediarouter-v7:22.2.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:cardview-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78867e4645e84959ffad634649a7680c/AndroidManifest.xml:22:5-26:19
@@ -120,62 +74,20 @@ MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb
 MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/AndroidManifest.xml:21:5-105:19
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:24:5-32:19
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.3.0.aar/76025c128bfc3c680ebd1df74a30f76d/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.3.0.aar/76025c128bfc3c680ebd1df74a30f76d/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.3.0.aar/e331605db7855deb8f05afa9b6c7473c/AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.3.0.aar/e331605db7855deb8f05afa9b6c7473c/AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-appstate:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.3.0.aar/8d47800b1c9e5ed678dff0faf355f015/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-appstate:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.3.0.aar/8d47800b1c9e5ed678dff0faf355f015/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:20:5-25:19
-MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:20:5-25:19
-MERGED from [com.google.android.gms:play-services-games:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-games-8.3.0.aar/7d5b0606a5bc2431ff35dfc14286d0b5/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-games:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-games-8.3.0.aar/7d5b0606a5bc2431ff35dfc14286d0b5/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-drive:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.3.0.aar/b7130206e8fe8843463801cfe82ec883/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-drive:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.3.0.aar/b7130206e8fe8843463801cfe82ec883/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-fitness:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.3.0.aar/9f13ba82e9f4d4da7c697df1ffdf471a/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-fitness:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.3.0.aar/9f13ba82e9f4d4da7c697df1ffdf471a/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-identity:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.3.0.aar/f7ef526a9e480c3083ed85c676ece9ab/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-identity:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.3.0.aar/f7ef526a9e480c3083ed85c676ece9ab/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-location:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-location-8.3.0.aar/36bd69e51b46a61dc4f0baa8b5d5bc33/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-location:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-location-8.3.0.aar/36bd69e51b46a61dc4f0baa8b5d5bc33/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:27:5-20
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:27:5-20
-MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.3.0.aar/78b8bc2a33f29f1914195c7689618393/AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.3.0.aar/78b8bc2a33f29f1914195c7689618393/AndroidManifest.xml:20:5-20
-MERGED from [com.google.android.gms:play-services-panorama:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.3.0.aar/f975df5ba6c233f8f54a6291642b7e5f/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-panorama:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.3.0.aar/f975df5ba6c233f8f54a6291642b7e5f/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-plus:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.3.0.aar/0d4d79b644fee378f1a4a54deb72c39e/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-plus:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.3.0.aar/0d4d79b644fee378f1a4a54deb72c39e/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-vision:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.3.0.aar/eeff8070c16fb87da0b73e90ddd4b69f/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-vision:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.3.0.aar/eeff8070c16fb87da0b73e90ddd4b69f/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.3.0.aar/85c5d76c8d0553b0ade6bcabdb1e9479/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.3.0.aar/85c5d76c8d0553b0ade6bcabdb1e9479/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:26:5-46:19
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:26:5-46:19
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c848553870f6ebdf1ba3304353fda12a/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c848553870f6ebdf1ba3304353fda12a/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1d0ac784c08611a118dc67372236553f/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1d0ac784c08611a118dc67372236553f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1aa0b8c1cb674f06cfec468fbdb81739/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1aa0b8c1cb674f06cfec468fbdb81739/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/013cccaa023c9c656b824a5e11981d12/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/013cccaa023c9c656b824a5e11981d12/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/51862d2868b06205db80dade0e6acd68/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/51862d2868b06205db80dade0e6acd68/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a61deff5a083efede80d1139c0efc58e/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a61deff5a083efede80d1139c0efc58e/AndroidManifest.xml:25:5-29:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4362a92b565660acb7de90b4beac9c01/AndroidManifest.xml:24:5-28:19
@@ -249,12 +161,6 @@ ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEa
 INJECTED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
 MERGED from [com.android.support:design:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6f337e505a60248ec4fcc1b096de2f0a/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6f337e505a60248ec4fcc1b096de2f0a/AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-8.3.0.aar/7753e7c07c3aac764c724c8ac593a896/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-8.3.0.aar/7753e7c07c3aac764c724c8ac593a896/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-cast:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.3.0.aar/af29383f90b084feb54b7639c4282d46/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-cast:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-cast-8.3.0.aar/af29383f90b084feb54b7639c4282d46/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:mediarouter-v7:22.2.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:mediarouter-v7:22.2.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:cardview-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/78867e4645e84959ffad634649a7680c/AndroidManifest.xml:20:5-44
@@ -269,66 +175,20 @@ MERGED from [:CordovaLib] /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordov
 MERGED from [:CordovaLib] /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-appindexing:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.3.0.aar/76025c128bfc3c680ebd1df74a30f76d/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-appindexing:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.3.0.aar/76025c128bfc3c680ebd1df74a30f76d/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.3.0.aar/e331605db7855deb8f05afa9b6c7473c/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-appinvite:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-8.3.0.aar/e331605db7855deb8f05afa9b6c7473c/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-appstate:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.3.0.aar/8d47800b1c9e5ed678dff0faf355f015/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-appstate:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-appstate-8.3.0.aar/8d47800b1c9e5ed678dff0faf355f015/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-games:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-games-8.3.0.aar/7d5b0606a5bc2431ff35dfc14286d0b5/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-games:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-games-8.3.0.aar/7d5b0606a5bc2431ff35dfc14286d0b5/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-drive:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.3.0.aar/b7130206e8fe8843463801cfe82ec883/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-drive:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-drive-8.3.0.aar/b7130206e8fe8843463801cfe82ec883/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-fitness:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.3.0.aar/9f13ba82e9f4d4da7c697df1ffdf471a/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-fitness:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-fitness-8.3.0.aar/9f13ba82e9f4d4da7c697df1ffdf471a/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:19:5-42
-MERGED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:19:5-42
-MERGED from [com.google.android.gms:play-services-identity:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.3.0.aar/f7ef526a9e480c3083ed85c676ece9ab/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-identity:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-identity-8.3.0.aar/f7ef526a9e480c3083ed85c676ece9ab/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-location:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-location-8.3.0.aar/36bd69e51b46a61dc4f0baa8b5d5bc33/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-location:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-location-8.3.0.aar/36bd69e51b46a61dc4f0baa8b5d5bc33/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:26:5-42
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:26:5-42
-MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.3.0.aar/78b8bc2a33f29f1914195c7689618393/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.3.0.aar/78b8bc2a33f29f1914195c7689618393/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-panorama:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.3.0.aar/f975df5ba6c233f8f54a6291642b7e5f/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-panorama:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-panorama-8.3.0.aar/f975df5ba6c233f8f54a6291642b7e5f/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-plus:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.3.0.aar/0d4d79b644fee378f1a4a54deb72c39e/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-plus:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-plus-8.3.0.aar/0d4d79b644fee378f1a4a54deb72c39e/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-vision:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.3.0.aar/eeff8070c16fb87da0b73e90ddd4b69f/AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-vision:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-vision-8.3.0.aar/eeff8070c16fb87da0b73e90ddd4b69f/AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.3.0.aar/85c5d76c8d0553b0ade6bcabdb1e9479/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-wearable:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wearable-8.3.0.aar/85c5d76c8d0553b0ade6bcabdb1e9479/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-base-8.3.0.aar/40c213c73d4788f94288e45b3aa8e58c/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-base-8.3.0.aar/40c213c73d4788f94288e45b3aa8e58c/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c848553870f6ebdf1ba3304353fda12a/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c848553870f6ebdf1ba3304353fda12a/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1d0ac784c08611a118dc67372236553f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1d0ac784c08611a118dc67372236553f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1aa0b8c1cb674f06cfec468fbdb81739/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1aa0b8c1cb674f06cfec468fbdb81739/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/013cccaa023c9c656b824a5e11981d12/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/013cccaa023c9c656b824a5e11981d12/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/51862d2868b06205db80dade0e6acd68/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/51862d2868b06205db80dade0e6acd68/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a61deff5a083efede80d1139c0efc58e/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a61deff5a083efede80d1139c0efc58e/AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4362a92b565660acb7de90b4beac9c01/AndroidManifest.xml:20:5-22:41
@@ -354,18 +214,18 @@ MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/cache
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c848553870f6ebdf1ba3304353fda12a/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c848553870f6ebdf1ba3304353fda12a/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1d0ac784c08611a118dc67372236553f/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/1d0ac784c08611a118dc67372236553f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c803323048b94b438d4f1c67f9856b40/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1aa0b8c1cb674f06cfec468fbdb81739/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/1aa0b8c1cb674f06cfec468fbdb81739/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/013cccaa023c9c656b824a5e11981d12/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/013cccaa023c9c656b824a5e11981d12/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/51862d2868b06205db80dade0e6acd68/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-utils:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/51862d2868b06205db80dade0e6acd68/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e6342e24f13b0839d921d41386372e2d/AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a61deff5a083efede80d1139c0efc58e/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a61deff5a083efede80d1139c0efc58e/AndroidManifest.xml:26:9-28:38
 	android:value
@@ -374,16 +234,6 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/c
 		ADDED from [com.android.support:design:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6f337e505a60248ec4fcc1b096de2f0a/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-8.3.0.aar/6f40a1146a87d797b7b6c8d7567538a6/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.3.0.aar/78b8bc2a33f29f1914195c7689618393/AndroidManifest.xml:19:5-79
-MERGED from [com.google.android.gms:play-services-nearby:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-nearby-8.3.0.aar/78b8bc2a33f29f1914195c7689618393/AndroidManifest.xml:19:5-79
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:22:5-79
 	android:name
 		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/AndroidManifest.xml:12:22-76
 uses-permission#com.android.alarm.permission.SET_ALARM
@@ -542,86 +392,6 @@ action#android.net.conn.CONNECTIVITY_CHANGE
 ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/AndroidManifest.xml:102:17-79
 	android:name
 		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/004a2ce87e878aa289863649e25bd337/AndroidManifest.xml:102:25-76
-activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:26:9-29:64
-	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:28:13-122
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:29:13-61
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:27:13-65
-activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:30:9-31:52
-	android:theme
-		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:31:13-50
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-ads-8.3.0.aar/a7a1a34340ba47483a9b6fe8f0172231/AndroidManifest.xml:30:19-91
-activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:21:9-24:46
-	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:23:19-52
-	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:24:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:22:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-auth:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-auth-8.3.0.aar/cfd3d8200a8183991f2071f0abe9c903/AndroidManifest.xml:21:19-72
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:21:5-82
-	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-gcm-8.3.0.aar/b9bf63dbc64904c5e09e5bb7a8a9ad36/AndroidManifest.xml:21:22-79
-uses-permission#android.permission.GET_ACCOUNTS
-ADDED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:21:5-70
-	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:21:22-68
-uses-permission#android.permission.USE_CREDENTIALS
-ADDED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:22:5-73
-	android:name
-		ADDED from [com.google.android.gms:play-services-wallet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/AndroidManifest.xml:22:22-71
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:22:5-24:33
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:23:8-40
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.3.0.aar/29e403c21c4afa22de2fd69d19c7162b/AndroidManifest.xml:24:8-31
-uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:24:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:24:22-65
-provider#com.google.android.gms.measurement.AppMeasurementContentProvider
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:28:7-31:37
-	android:authorities
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:29:11-76
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:31:11-35
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:30:11-90
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:33:7-39:18
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:35:11-33
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:34:11-83
-intent-filter#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:36:9-38:25
-action#com.google.android.gms.measurement.UPLOAD
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:37:11-77
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:37:19-75
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:41:7-44:37
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:43:11-33
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:44:11-35
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-8.3.0.aar/2e41b883db72481e22654082b7839eae/AndroidManifest.xml:42:11-82
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:23:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:22:13-58
 meta-data#android.arch.lifecycle.VERSION
 ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4362a92b565660acb7de90b4beac9c01/AndroidManifest.xml:25:9-27:47
 	android:value
