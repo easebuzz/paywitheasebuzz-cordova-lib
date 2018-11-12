@@ -59,7 +59,8 @@ proceedToPayment: function () {
             "zipcode": "",
             "is_coupon_enabled": "0",
             "pay_mode": "production",
-                }
+            "unique_id":"CUSTOMER_UNIQUE_ID" //Pass empty string if you dont want to pass customer unique id.  
+            }
 
                     // Please do not change the key names in the parameters.
         window.plugins.PayWithEasebuzz.EasebuzzPay(params, function(payment_response) {
@@ -78,36 +79,37 @@ proceedToPayment: function () {
 
 ```javascript
         public proceedToPayment() {
-             let params = {
-                    "firstname": "Customer Name",
-                    "amount": "1.0",
-                    "email": "customer@email.com",
-                    "phone": "1234567890",
-                    "productinfo": "Product Information",
-                    "udf1": "udf value 1",
-                    "udf2": "udf value 2",
-                    "udf3": "udf value 3",
-                    "udf4": "udf value 4",
-                    "udf5": "udf value 5",
-                    "udf6": "",
-                    "udf7": "",
-                    "udf8": "",
-                    "udf9": "",
-                    "udf10": "",
-                    "surl": "https://your.successurl.in/",
-                    "furl": "https://your.failureurl.in/",
-                    "txnid": "UNIQE_TRANSACTION_ID",
-                    "key": "YOUR_OWN_MERCHANT_KEY",
-                    "salt": "YOUR_OWN_MERCHANT_SALT",
-                    "address1": "address one",
-                    "address2": "address two",
-                    "city": "",
-                    "state": "",
-                    "country": "",
-                    "zipcode": "",
-                    "is_coupon_enabled": "0",
-                    "pay_mode": "production",
-                }
+            let params = {
+                "firstname": "Customer Name",
+                "amount": "1.0",
+                "email": "customer@email.com",
+                "phone": "1234567890",
+                "productinfo": "Product Information",
+                "udf1": "udf value 1",
+                "udf2": "udf value 2",
+                "udf3": "udf value 3",
+                "udf4": "udf value 4",
+                "udf5": "udf value 5",
+                "udf6": "",
+                "udf7": "",
+                "udf8": "",
+                "udf9": "",
+                "udf10": "",
+                "surl": "https://your.successurl.in/",
+                "furl": "https://your.failureurl.in/",
+                "txnid": "UNIQE_TRANSACTION_ID",
+                "key": "YOUR_OWN_MERCHANT_KEY",
+                "salt": "YOUR_OWN_MERCHANT_SALT",
+                "address1": "address one",
+                "address2": "address two",
+                "city": "",
+                "state": "",
+                "country": "",
+                "zipcode": "",
+                "is_coupon_enabled": "0",
+                "pay_mode": "production",
+                "unique_id":"CUSTOMER_UNIQUE_ID" //Pass empty string if you dont want to pass customer unique id.
+            }
 
 
         window['plugins'].PayWithEasebuzz.EasebuzzPay(params, function(payment_response) {

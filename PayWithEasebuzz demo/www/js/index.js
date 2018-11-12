@@ -64,8 +64,8 @@ var app = {
             "surl": "https://your.successurl.in/",
             "furl": "https://your.failureurl.in/",
             "txnid": Math.floor(Math.random()*(800000-100000+1)+100000),
-            "key": "0EWQN0D0U2",
-            "salt": "76TA69WOEW",
+            "key": "YOUR_KEY_HERE",
+            "salt": "YOUR_SALT_HERE",
             "address1": "address one",
             "address2": "address two",
             "city": "",
@@ -74,7 +74,7 @@ var app = {
             "zipcode": "",
             "is_coupon_enabled": "0",
             "pay_mode": "production",
-            "unique_id": "225"
+            "unique_id": "CUSTOMER_UNIQUE_ID" // Pass Empty string if you dont want to pass customer unique id
         }
 
         console.log(params);
