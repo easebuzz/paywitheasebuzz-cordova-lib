@@ -1,4 +1,4 @@
-#Thu Aug 16 18:12:28 IST 2018
+#Mon Nov 12 17:42:34 IST 2018
 base.0=/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.1=classes2.dex
 renamed.0=classes.dex

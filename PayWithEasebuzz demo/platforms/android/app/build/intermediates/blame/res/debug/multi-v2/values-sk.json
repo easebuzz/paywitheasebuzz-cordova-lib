@@ -4,21 +4,6 @@
             "outputFile": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
             "map": [
                 {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/res/values-sk/values-sk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,162,270,393,493,604,690,798,916,997,1078,1162,1267,1376,1475,1581,1692,1801,1925,2023,2111",
-                        "endColumns": "106,107,122,99,110,85,107,117,80,80,83,104,108,98,105,110,108,123,97,87,100",
-                        "endOffsets": "157,265,388,488,599,685,793,911,992,1073,1157,1262,1371,1470,1576,1687,1796,1920,2018,2106,2207"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml",
-            "map": [
-                {
                     "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/res/values-sk/common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
@@ -62,45 +47,11 @@
                         "endOffsets": "157,265,388,488,599,685,793,911,992,1073,1157,1262,1371,1470,1576,1687,1796,1920,2018,2106,2207"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,59,60",
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,53,54",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,212,320,443,543,654,740,848,966,1047,1128,1212,1317,1426,1525,1631,1742,1851,1975,7821,7909",
+                        "startOffsets": "105,212,320,443,543,654,740,848,966,1047,1128,1212,1317,1426,1525,1631,1742,1851,1975,7188,7276",
                         "endColumns": "106,107,122,99,110,85,107,117,80,80,83,104,108,98,105,110,108,123,97,87,100",
-                        "endOffsets": "207,315,438,538,649,735,843,961,1042,1123,1207,1312,1421,1520,1626,1737,1846,1970,2068,7904,8005"
-                    }
-                },
-                {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/res/values-sk/values-sk.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "293,406,530,641,743,829",
-                        "endColumns": "112,123,110,101,85,96",
-                        "endOffsets": "401,525,636,738,824,921"
-                    },
-                    "to": {
-                        "startLines": "53,54,55,56,57,58",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "7188,7301,7425,7536,7638,7724",
-                        "endColumns": "112,123,110,101,85,96",
-                        "endOffsets": "7296,7420,7531,7633,7719,7816"
-                    }
-                },
-                {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/res/values-sk/wallet_strings.xml",
-                    "from": {
-                        "startLines": "5",
-                        "startColumns": "4",
-                        "startOffsets": "230",
-                        "endColumns": "105",
-                        "endOffsets": "331"
-                    },
-                    "to": {
-                        "startLines": "61",
-                        "startColumns": "4",
-                        "startOffsets": "8010",
-                        "endColumns": "105",
-                        "endOffsets": "8111"
+                        "endOffsets": "207,315,438,538,649,735,843,961,1042,1123,1207,1312,1421,1520,1626,1737,1846,1970,2068,7271,7372"
                     }
                 }
             ]

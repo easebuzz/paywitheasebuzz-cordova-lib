@@ -1,57 +1,6 @@
 {
     "logs": [
         {
-            "outputFile": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
-            "map": [
-                {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,124,193,263,337,413,472,543",
-                        "endColumns": "68,68,69,73,75,58,70,67",
-                        "endOffsets": "119,188,258,332,408,467,538,606"
-                    }
-                },
-                {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6f337e505a60248ec4fcc1b096de2f0a/res/values-sw600dp-v13/values-sw600dp-v13.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
-                        "endLines": "2,3,4,5,6,7,8,9,10,14",
-                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
-                    },
-                    "to": {
-                        "startLines": "10,11,12,13,14,15,16,17,19,20",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "611,671,741,812,884,942,1000,1106,1243,1306",
-                        "endLines": "10,11,12,13,14,15,16,17,19,23",
-                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
-                        "endOffsets": "666,736,807,879,937,995,1101,1165,1301,1483"
-                    }
-                },
-                {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/res/values-sw600dp/values-sw600dp.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "297",
-                        "endColumns": "72",
-                        "endOffsets": "365"
-                    },
-                    "to": {
-                        "startLines": "18",
-                        "startColumns": "4",
-                        "startOffsets": "1170",
-                        "endColumns": "72",
-                        "endOffsets": "1238"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {

@@ -4,22 +4,7 @@
             "outputFile": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/3ccde6fb50e822de22a4d4a53664ba62/res/values-w820dp-v13/values-w820dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "57",
-                        "endOffsets": "108"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
-            "map": [
-                {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/c26fa871b589a2c141d491049369156f/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/res/values-w820dp-v13/values-w820dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

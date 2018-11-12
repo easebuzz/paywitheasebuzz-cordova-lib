@@ -24,6 +24,7 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.4.0'
     compile 'com.android.support:recyclerview-v7:26.1.0'
     compile 'com.android.support:multidex:1.0.1'
+    compile 'com.google.android.gms:play-services-safetynet:8.3.0'
     compile(name:'peb-lib', ext:'aar')
     
 }

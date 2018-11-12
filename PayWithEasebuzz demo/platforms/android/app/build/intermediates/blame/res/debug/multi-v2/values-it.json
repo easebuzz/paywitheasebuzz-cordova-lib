@@ -4,21 +4,6 @@
             "outputFile": "/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/res/values-it/values-it.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,164,272,395,495,604,688,797,922,999,1075,1156,1262,1370,1468,1572,1677,1784,1906,2006,2089",
-                        "endColumns": "108,107,122,99,108,83,108,124,76,75,80,105,107,97,103,104,106,121,99,82,100",
-                        "endOffsets": "159,267,390,490,599,683,792,917,994,1070,1151,1257,1365,1463,1567,1672,1779,1901,2001,2084,2185"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/srvmedia/Cordova/Library/PayWithEaseBuzz/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
-            "map": [
-                {
                     "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/res/values-it/common_strings.xml",
                     "from": {
                         "startLines": "5,18,16,30,14,13,12,7,11,9,10,8,24,23,6,22,21,4,3,32,31,25,27,26,28,17,15,20,19,29",
@@ -36,40 +21,6 @@
                     }
                 },
                 {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-wallet-8.3.0.aar/b783858c2ebe71c770dc4844cf31ae73/res/values-it/wallet_strings.xml",
-                    "from": {
-                        "startLines": "5",
-                        "startColumns": "4",
-                        "startOffsets": "230",
-                        "endColumns": "108",
-                        "endOffsets": "334"
-                    },
-                    "to": {
-                        "startLines": "61",
-                        "startColumns": "4",
-                        "startOffsets": "7934",
-                        "endColumns": "108",
-                        "endOffsets": "8038"
-                    }
-                },
-                {
-                    "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/867121aa7ba770d3635179d9d1e70278/res/values-it/values-it.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "293,406,521,632,738,825",
-                        "endColumns": "112,114,110,105,86,97",
-                        "endOffsets": "401,516,627,733,820,918"
-                    },
-                    "to": {
-                        "startLines": "53,54,55,56,57,58",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "7120,7233,7348,7459,7565,7652",
-                        "endColumns": "112,114,110,105,86,97",
-                        "endOffsets": "7228,7343,7454,7560,7647,7745"
-                    }
-                },
-                {
                     "source": "/home/srvmedia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d707e491fd95007e5e30944db100fa19/res/values-it/values-it.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
@@ -79,11 +30,11 @@
                         "endOffsets": "159,267,390,490,599,683,792,917,994,1070,1151,1257,1365,1463,1567,1672,1779,1901,2001,2084,2185"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,59,60",
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,53,54",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,214,322,445,545,654,738,847,972,1049,1125,1206,1312,1420,1518,1622,1727,1834,1956,7750,7833",
+                        "startOffsets": "105,214,322,445,545,654,738,847,972,1049,1125,1206,1312,1420,1518,1622,1727,1834,1956,7120,7203",
                         "endColumns": "108,107,122,99,108,83,108,124,76,75,80,105,107,97,103,104,106,121,99,82,100",
-                        "endOffsets": "209,317,440,540,649,733,842,967,1044,1120,1201,1307,1415,1513,1617,1722,1829,1951,2051,7828,7929"
+                        "endOffsets": "209,317,440,540,649,733,842,967,1044,1120,1201,1307,1415,1513,1617,1722,1829,1951,2051,7198,7299"
                     }
                 },
                 {

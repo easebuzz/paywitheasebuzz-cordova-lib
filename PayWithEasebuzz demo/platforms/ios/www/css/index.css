@@ -21,40 +21,38 @@
 }
 
 body {
-    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
     -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
     -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
     background-color:#E4E4E4;
-    background-image:linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-webkit-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
-    background-image:-ms-linear-gradient(top, #A7A7A7 0%, #E4E4E4 51%);
+    background-image:linear-gradient(top, #E4E4E4 0%, #E4E4E4 51%);
+    background-image:-webkit-linear-gradient(top, #E4E4E4 0%, #E4E4E4 51%);
+    background-image:-ms-linear-gradient(top, #E4E4E4 0%, #E4E4E4 51%);
     background-image:-webkit-gradient(
         linear,
         left top,
         left bottom,
-        color-stop(0, #A7A7A7),
+        color-stop(0, #E4E4E4),
         color-stop(0.51, #E4E4E4)
     );
     background-attachment:fixed;
     font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
     font-size:12px;
     height:100%;
-    margin:0px;
-    padding:0px;
+    margin:10px;
+    padding:5px;
     text-transform:uppercase;
     width:100%;
 }
 
 /* Portrait layout (default) */
 .app {
-    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
     position:absolute;             /* position in the center of the screen */
     left:50%;
     top:50%;
     height:50px;                   /* text area height */
     width:225px;                   /* text area width */
     text-align:center;
-    padding:180px 0px 0px 0px;     /* image height is 200px (bottom 20px are overlapped with text) */
     margin:-115px 0px 0px -112px;  /* offset vertical: half of image height and text area height */
                                    /* offset horizontal: half of text area width */
 }
@@ -112,4 +110,197 @@ h1 {
 .blink {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
+}
+
+body {
+    height: 100%;
+    margin: 0px !important;
+}
+
+body *{
+    font-family: Ubuntu;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto;
+    background-color: #fff;
+    margin:0px;
+    padding:0px;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 35% 65% auto;
+    padding: 8px 25px 0px 25px;
+    background-color:#07275d; 
+    border: 1px solid;
+    border-radius:2px;
+}
+
+.logo{
+    padding:2px;
+}
+
+img{
+    max-width:150px;
+    text-align: left;
+} 
+
+.hedding{
+    color:white;
+    text-align: right;
+}
+
+.hedding > a > h2{
+    font-size:1.2em;
+    margin-top:10px !important;
+    color: #fff;
+}
+
+.hedding > a > h2 > spam{
+    border-bottom: 1px solid;
+}
+
+.hedding > h2{
+    font-size:1.2em;
+    margin-top:10px !important;
+}
+
+.container{
+    display:grid;
+    grid-template-columns: auto;
+    padding: 10px 25px;
+    height:650px;
+}
+
+.card-container{
+    display:grid;
+    grid-template-columns:100% auto;
+    grid-gap: 10px;
+    margin:1px 25%;
+}
+
+.card{
+    height:fit-content;
+    background-color:#565455;
+    color:#fff;
+    padding:10px;
+    margin:10px 15px 10px 0px;
+    border:1px solid;
+    border-radius:10px;
+    z-index:1;
+}
+
+.card > h2{
+    text-align:center;
+    margin:0px;
+    padding:5px;
+}
+
+.card > p{
+    font-size:1.1em;
+}
+
+ul{ 
+    padding-left:20px 
+  }
+  
+ul > li{
+    margin:5px;
+    border:1px solid #487;
+    padding:10px;
+    border-radius:5px;
+    background-color:#fff;
+}
+
+.highlight{
+    color:#fff;
+}
+
+.form-container{
+    display:block;
+    margin:0px 20px;
+}
+
+.form-container > h2{
+    color: #ce042c;
+}
+
+.main-form{
+    border:1px solid #000;
+    border-radius:10px;
+    padding:10px;
+    margin: 25px 10% 100px 10%;
+}
+
+.mandatory-data{
+    display:grid;
+    grid-template-columns:auto auto;
+    grid-gap:10px;
+    padding: 0px 30px;
+}
+
+.optional-data{
+    display:grid;
+    grid-template-columns:auto auto;
+    grid-gap: 10px;
+    padding: 0px 30px;
+}
+
+.form-field input{
+    display: block;
+    margin: 5px 5px 5px 5px;    
+    min-width: 70%;
+}
+
+
+
+
+.main-form button{
+    background: #060919;
+    border: 0px;
+    color: #fff;
+    font-size: 1em;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 15px;
+}
+
+
+
+label{
+    font-size:1.2em;
+}
+
+input{
+    border:1px solid;
+    border-radius:5px;
+    padding:7px 5px;
+    font-size: 1em;
+}
+
+sup{
+    color: red;
+}
+
+#transaction_date, #payout_date{
+    background:#fff url(https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/calendar_2.png)  97% 50% no-repeat;
+}
+
+a{
+    text-decoration: none;
+}
+.text-center{text-align: center;width:100%;}
+.eb-btn {
+    margin: 0px auto;
+    padding: 6px 12px;
+    background-color: #d9435a;
+    border: 1px solid rgba(22,138,250,0.5);
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 14px;
+    float: none;
+    display: inline-block;
 }

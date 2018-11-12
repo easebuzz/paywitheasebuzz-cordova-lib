@@ -93,7 +93,7 @@
             android:label="Cash Card Payment"
             android:screenOrientation="portrait"
             android:theme="@style/NoActionBarTheme"
-            android:windowSoftInputMode="stateAlwaysHidden" />
+            android:windowSoftInputMode="adjustPan" />
         <activity
             android:name="com.easebuzz.payment.kit.PWEDebitAtmPin"
             android:label="Payment"
@@ -114,7 +114,8 @@
         <activity
             android:name="com.easebuzz.payment.kit.SavedCardActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/NoActionBarTheme" />
+            android:theme="@style/NoActionBarTheme"
+            android:windowSoftInputMode="adjustPan" />
         <activity
             android:name="com.easebuzz.payment.kit.PWEErrorActivity"
             android:screenOrientation="portrait"
@@ -134,6 +135,9 @@
             </intent-filter>
         </receiver>
 
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="android.arch.lifecycle.VERSION"
             android:value="27.0.0-SNAPSHOT" />

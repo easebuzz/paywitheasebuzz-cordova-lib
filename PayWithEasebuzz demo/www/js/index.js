@@ -74,10 +74,12 @@ var app = {
             "zipcode": "",
             "is_coupon_enabled": "0",
             "pay_mode": "production",
+            "unique_id": "225"
         }
 
-
-
+        console.log(params);
+        
+    
 
         window.plugins.PayWithEasebuzz.EasebuzzPay(params, function(payment_response) {
            alert(payment_response.result+''+JSON.stringify(payment_response.response));

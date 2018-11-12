@@ -33,16 +33,83 @@
         <meta name="msapplication-tap-highlight" content="no">
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
         <link rel="stylesheet" type="text/css" href="css/index.css">
-        <title>Hello World</title>
+        <title>Easebuzz</title>
     </head>
-    <body>
-        <div class="app">
-            <h1>Apache Cordova</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
+    <body class="body">
+            <h1>Easebuzz Demo</h1>
+            <div id="paymentForm" >
+                    <h3>Mandatory Parameters</h3>
+                    <hr>
+                    <div>
+                        <div class="form-field">
+                            <label for="amount">Amount<sup>(should be float)*</sup></label>
+                            <input id="amount" class="amount" name="amount" value="" placeholder="125.25" required>
+                        </div>  
+
+                        <div class="form-field">
+                            <label for="firstname">First Name<sup>*</sup></label>
+                            <input id="firstname" class="firstname" name="firstname" value="" placeholder="Easebuzz Pvt. Ltd." required>
+                        </div>
+
+                        <div class="form-field">
+                            <label for="email">Email ID<sup>*</sup></label>
+                            <input id="email" class="email" name="email" value=""
+                               placeholder="initiate.payment@easebuzz.in" required>
+                        </div>
+
+                        <div class="form-field">
+                            <label for="phone">Phone<sup>*</sup></label>
+                            <input id="phone" class="phone" name="phone" value=""
+                              placeholder="0123456789" required>
+                        </div>
+
+                        <div class="form-field">
+                            <label for="productinfo">Product Information<sup>*</sup></label>
+                            <input id="productinfo" class="productinfo" name="productinfo" value="" placeholder="Apple Laptop" required>
+                        </div>
+                    </div>
+                    <h3>Optional Parameters</h3>
+                    <hr>
+                    <div>
+
+                        <div class="form-field">
+                            <label for="udf1">UDF1</label>
+                            <input id="udf1" class="udf1" name="udf1" value="" placeholder="User description1">
+                        </div>
+
+
+
+                        <div class="form-field">
+                            <label for="udf2">UDF2</label>
+                            <input id="udf2" class="udf2" name="udf2" value="" placeholder="User description2">
+                        </div>
+
+
+                        <div class="form-field">
+                            <label for="udf3">UDF3</label>
+                            <input id="udf3" class="udf3" name="udf3" value="" placeholder="User description3">
+                        </div>
+
+
+
+                        <div class="form-field">
+                            <label for="udf4">UDF4</label>
+                            <input id="udf4" class="udf4" name="udf4" value="" placeholder="User description4">
+                        </div>
+
+
+                        <div class="form-field">
+                                <label for="udf5">UDF5</label>
+                                <input id="udf5" class="udf5" name="udf5" value="" placeholder="User description5">
+                        </div>
+                    </div>
+                   <div class="form-field text-center">
+                    <button type="submit" class="eb-btn" id="startPayment">Pay with Easebuzz</button>
+                </div>
+                    
             </div>
-        </div>
+
+        <script src="js/jquery-1.11.1.min.js"></script>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
     </body>
