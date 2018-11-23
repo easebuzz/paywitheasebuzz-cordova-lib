@@ -16,10 +16,10 @@
 		3047A5131AB8059700498E2A /* build-release.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3047A5101AB8059700498E2A /* build-release.xcconfig */; };
 		3047A5141AB8059700498E2A /* build.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3047A5111AB8059700498E2A /* build.xcconfig */; };
 		6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */; };
-		96B0B7B5B0134574A52CB033 /* Main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E4822C4B65D4133A7C0673A /* Main.m */; };
-		CC9AF65CD3A14A5DAE5846F6 /* Easebuzz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE959AD22E334E98A836F49A /* Easebuzz.framework */; };
-		82DE81D2FB5F42DF8A07AFB6 /* Easebuzz.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = CE959AD22E334E98A836F49A /* Easebuzz.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
-		5076B2E11F0A4059807B0A78 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BE14DFF8A964D5AA2CA7BFC /* SystemConfiguration.framework */; };
+		B1F1D127A6D046409856C14C /* Main.m in Sources */ = {isa = PBXBuildFile; fileRef = 513B4A5F1D874F879339BC80 /* Main.m */; };
+		129D8C84B5354A6FB8CDFC9D /* Easebuzz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4D521B20B3C4DF89DD8F716 /* Easebuzz.framework */; };
+		5ADA3AC094124ED881C4213B /* Easebuzz.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C4D521B20B3C4DF89DD8F716 /* Easebuzz.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		458CA949110F4B94A79845AC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C07024C2AD5B46CBA13CC840 /* SystemConfiguration.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,10 +60,10 @@
 		EB87FDF41871DAF40020F90C /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = ../../config.xml; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = "PayWithEasebuzz/config.xml"; sourceTree = "<group>"; };
 		ED33DF2A687741AEAF9F8254 /* Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Bridging-Header.h"; path = "Bridging-Header.h"; sourceTree = "<group>"; };
-		1E4822C4B65D4133A7C0673A /* Main.m */ = {isa = PBXFileReference; name = "Main.m"; path = "paywitheasebuzz-cordova-plugin/platforms/ios/Main.m/Main.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		A22F3160C85A42D3ADFB0178 /* Main.h */ = {isa = PBXFileReference; name = "Main.h"; path = "paywitheasebuzz-cordova-plugin/platforms/ios/Main.h/Main.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		CE959AD22E334E98A836F49A /* Easebuzz.framework */ = {isa = PBXFileReference; name = "Easebuzz.framework"; path = "PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin/Easebuzz.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		7BE14DFF8A964D5AA2CA7BFC /* SystemConfiguration.framework */ = {isa = PBXFileReference; name = "SystemConfiguration.framework"; path = "System/Library/Frameworks/SystemConfiguration.framework"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		513B4A5F1D874F879339BC80 /* Main.m */ = {isa = PBXFileReference; name = "Main.m"; path = "paywitheasebuzz-cordova-plugin/platforms/ios/Main.m/Main.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		2016C8A088BD48208A8E8BD7 /* Main.h */ = {isa = PBXFileReference; name = "Main.h"; path = "paywitheasebuzz-cordova-plugin/platforms/ios/Main.h/Main.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		C4D521B20B3C4DF89DD8F716 /* Easebuzz.framework */ = {isa = PBXFileReference; name = "Easebuzz.framework"; path = "PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin/Easebuzz.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		C07024C2AD5B46CBA13CC840 /* SystemConfiguration.framework */ = {isa = PBXFileReference; name = "SystemConfiguration.framework"; path = "System/Library/Frameworks/SystemConfiguration.framework"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +72,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
-				5076B2E11F0A4059807B0A78 /* SystemConfiguration.framework in Frameworks */,
+				458CA949110F4B94A79845AC /* SystemConfiguration.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -143,8 +143,8 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				CE959AD22E334E98A836F49A /* Easebuzz.framework */,
-				7BE14DFF8A964D5AA2CA7BFC /* SystemConfiguration.framework */,
+				C4D521B20B3C4DF89DD8F716 /* Easebuzz.framework */,
+				C07024C2AD5B46CBA13CC840 /* SystemConfiguration.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -170,8 +170,8 @@
 		307C750510C5A3420062BCA9 /* Plugins */ = {
 			isa = PBXGroup;
 			children = (
-				1E4822C4B65D4133A7C0673A /* Main.m */,
-				A22F3160C85A42D3ADFB0178 /* Main.h */,
+				513B4A5F1D874F879339BC80 /* Main.m */,
+				2016C8A088BD48208A8E8BD7 /* Main.h */,
 			);
 			name = Plugins;
 			path = "PayWithEasebuzz/Plugins";
@@ -285,7 +285,7 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
-				96B0B7B5B0134574A52CB033 /* Main.m in Sources */,
+				B1F1D127A6D046409856C14C /* Main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,6 +378,7 @@
 					"\"PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin\"",
 					"\"PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin\"",
 					"\"PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin\"",
+					"\"PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin\"",
 				);
 			};
 			name = Debug;
@@ -403,6 +404,7 @@
 				PRODUCT_NAME = "PayWithEasebuzz";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
+					"\"PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin\"",
 					"\"PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin\"",
 					"\"PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin\"",
 					"\"PayWithEasebuzz/Plugins/paywitheasebuzz-cordova-plugin\"",
@@ -596,6 +598,7 @@
 				D7582415D16B40D9AC75BD23 /* Easebuzz.framework in Embed Frameworks */,
 				0950E76A974849F398CE7055 /* Easebuzz.framework in Embed Frameworks */,
 				82DE81D2FB5F42DF8A07AFB6 /* Easebuzz.framework in Embed Frameworks */,
+				5ADA3AC094124ED881C4213B /* Easebuzz.framework in Embed Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			name = "Embed Frameworks";

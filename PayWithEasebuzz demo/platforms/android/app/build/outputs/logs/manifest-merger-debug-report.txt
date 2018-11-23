@@ -10,7 +10,7 @@ MERGED from [com.android.support:cardview-v7:26.1.0] /home/srvmedia/.gradle/cach
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4684cac5a3a1b990806f5afb59759737/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:multidex:1.0.2] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/3071433b43d7fbf7082df0ae9361c0c2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:16:1-20:12
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:2:1-110:12
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:2:1-103:12
 MERGED from [:CordovaLib] /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-base:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-base-8.3.0.aar/40c213c73d4788f94288e45b3aa8e58c/AndroidManifest.xml:16:1-19:12
@@ -59,8 +59,8 @@ ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEa
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
 ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:13:5-67
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:13:5-67
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:13:5-67
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:13:5-67
 	android:name
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
@@ -75,8 +75,8 @@ MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/srvmedia/.gradle/
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4684cac5a3a1b990806f5afb59759737/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:19:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:19:5-20
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:23:5-108:19
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:23:5-108:19
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:16:5-101:19
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:16:5-101:19
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:20:5-24:19
@@ -106,7 +106,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/srvmedia/.gradle/caches
 	android:hardwareAccelerated
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
 	android:allowBackup
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:24:9-35
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:17:9-35
 	android:icon
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
 activity#com.pwe.paywitheasebuzz.MainActivity
@@ -137,8 +137,8 @@ ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEa
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
 activity#com.easebuzz.payment.kit.PWECouponsActivity
 ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:12:9-213
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:28:9-33:55
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:28:9-33:55
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:21:9-26:55
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:21:9-26:55
 	android:screenOrientation
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:12:134-170
 	android:label
@@ -148,13 +148,13 @@ MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb
 	android:exported
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:12:19-43
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:32:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:25:13-52
 	android:name
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:12:75-133
 activity#com.easebuzz.payment.kit.PWEProcessPaymentActivity
 ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:13:9-189
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:76:9-79:55
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:76:9-79:55
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:69:9-72:55
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:69:9-72:55
 	android:screenOrientation
 		ADDED from /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/src/main/AndroidManifest.xml:13:110-146
 	android:exported
@@ -178,8 +178,8 @@ MERGED from [com.android.support:multidex:1.0.2] /home/srvmedia/.gradle/caches/t
 MERGED from [com.android.support:multidex:1.0.2] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/3071433b43d7fbf7082df0ae9361c0c2/AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-safetynet:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-8.3.0.aar/dfb40507e20332f41dd4f9dab427398b/AndroidManifest.xml:18:5-42
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:8:5-11:73
-MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:8:5-11:73
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:8:5-11:73
+MERGED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:8:5-11:73
 MERGED from [:CordovaLib] /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] /home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [com.android.support:transition:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/66320862e8dbfb9eecadd58555502333/AndroidManifest.xml:20:5-44
@@ -246,167 +246,145 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/srvmedia/.gradle/c
 	android:name
 		ADDED from [com.android.support:design:26.1.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/6f337e505a60248ec4fcc1b096de2f0a/AndroidManifest.xml:27:13-51
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:14:5-79
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:14:22-76
-uses-permission#com.android.alarm.permission.SET_ALARM
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:15:5-78
-	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:15:22-75
-uses-permission#android.permission.WRITE_SMS
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:16:5-68
-	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:16:22-65
-uses-permission#android.permission.RECEIVE_SMS
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:17:5-19:47
-	android:protectionLevel
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:19:9-44
-	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:18:9-54
-uses-permission#android.permission.READ_SMS
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:20:5-67
-	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:20:22-64
-uses-permission#android.permission.SEND_SMS
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:21:5-67
-	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:21:22-64
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:14:22-76
 activity#com.easebuzz.payment.kit.PWEPaymentOptionActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:34:9-39:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:27:9-32:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:37:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:30:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:36:13-43
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:29:13-43
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:39:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:32:13-52
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:38:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:35:13-77
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:28:13-77
 activity#com.easebuzz.payment.kit.PWEDebitCardActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:40:9-45:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:33:9-38:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:43:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:36:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:42:13-36
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:35:13-36
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:45:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:38:13-52
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:44:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:37:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:41:13-73
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:34:13-73
 activity#com.easebuzz.payment.kit.PWECreditCardActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:46:9-51:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:39:9-44:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:49:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:42:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:48:13-36
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:41:13-36
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:51:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:44:13-52
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:50:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:43:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:47:13-74
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:40:13-74
 activity#com.easebuzz.payment.kit.PWENetBankingActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:52:9-57:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:45:9-50:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:55:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:48:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:54:13-40
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:47:13-40
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:57:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:50:13-52
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:56:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:49:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:53:13-74
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:46:13-74
 activity#com.easebuzz.payment.kit.PWEWalletActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:58:9-63:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:51:9-56:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:61:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:54:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:60:13-46
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:53:13-46
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:63:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:56:13-52
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:62:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:55:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:59:13-70
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:52:13-70
 activity#com.easebuzz.payment.kit.PWEDebitAtmPin
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:64:9-69:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:57:9-62:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:67:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:60:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:66:13-36
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:59:13-36
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:69:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:62:13-52
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:68:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:61:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:65:13-67
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:58:13-67
 activity#com.easebuzz.payment.kit.PWECouponsDetailActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:70:9-75:63
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:63:9-68:63
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:73:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:66:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:72:13-47
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:65:13-47
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:75:13-60
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:68:13-60
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:74:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:67:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:71:13-77
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:64:13-77
 activity#com.easebuzz.payment.kit.TransactionTimeOutExpire
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:80:9-84:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:73:9-77:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:83:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:76:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:82:13-48
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:75:13-48
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:84:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:77:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:81:13-77
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:74:13-77
 activity#com.easebuzz.payment.kit.SavedCardActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:85:9-89:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:78:9-82:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:87:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:80:13-49
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:89:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:82:13-52
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:88:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:81:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:86:13-70
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:79:13-70
 activity#com.easebuzz.payment.kit.PWEErrorActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:90:9-93:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:83:9-86:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:92:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:85:13-49
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:93:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:86:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:91:13-69
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:84:13-69
 activity#com.easebuzz.payment.kit.PWEUpiActivity
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:94:9-99:55
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:87:9-92:55
 	android:screenOrientation
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:97:13-49
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:90:13-49
 	android:label
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:96:13-36
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:89:13-36
 	android:windowSoftInputMode
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:99:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:92:13-52
 	android:theme
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:98:13-52
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:91:13-52
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:95:13-67
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:88:13-67
 receiver#receivers.ConnectivityReceiver
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:101:9-107:20
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:94:9-100:20
 	android:enabled
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:103:13-35
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:96:13-35
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:102:13-58
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:95:13-58
 intent-filter#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:104:13-106:29
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:97:13-99:29
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:105:17-79
+ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:98:17-79
 	android:name
-		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/ed1166fd750377e651c6b06631c127f3/AndroidManifest.xml:105:25-76
+		ADDED from [:peb-lib:] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/peb-lib.aar/2a6e6ccf6979910d211549e35d0d4722/AndroidManifest.xml:98:25-76
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:8.3.0] /home/srvmedia/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.3.0.aar/81a95c593c1ed31d887abf64e7c695d1/AndroidManifest.xml:21:9-23:69
 	android:value

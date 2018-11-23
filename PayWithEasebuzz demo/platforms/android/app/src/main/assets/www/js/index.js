@@ -74,7 +74,7 @@ var app = {
             "zipcode": "",
             "is_coupon_enabled": "0",
             "pay_mode": "production",
-            "unique_id": "225"
+            "unique_id": "225" // Pass Empty string if you dont want to pass customer unique id
         }
 
         console.log(params);

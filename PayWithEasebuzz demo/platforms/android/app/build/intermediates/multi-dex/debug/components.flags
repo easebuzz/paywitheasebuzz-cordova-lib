@@ -33,7 +33,7 @@
 -injars '/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/transforms/desugar/debug/32.jar'(**.class)
 -outjars '/home/srvmedia/Cordova/PWE/temp/paywitheasebuzz-cordova-lib/PayWithEasebuzz demo/platforms/android/app/build/intermediates/multi-dex/debug/componentClasses.jar'
 
--libraryjars /home/srvmedia/Android/android-sdk-linux/build-tools/27.0.0/lib/shrinkedAndroid.jar
+-libraryjars /home/srvmedia/Android/android-sdk-linux/build-tools/27.0.3/lib/shrinkedAndroid.jar
 
 -forceprocessing
 -dontoptimize
