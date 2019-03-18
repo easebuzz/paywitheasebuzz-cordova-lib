@@ -49,18 +49,17 @@
         </config-file>
 
         <framework src="src/android/ebgradle.gradle" custom="true" type="gradleReference"/>
-        <framework src="com.android.support:design:26.1.0"/>
-        <framework src="com.android.support:appcompat-v7:26.1.0"/>
+        <framework src="com.android.support:design:28.0.0"/>
+        <framework src="com.android.support:appcompat-v7:28.0.0"/>
         <framework src="com.squareup.retrofit2:retrofit:2.3.0"/>
         <framework src="com.squareup.retrofit2:converter-gson:2.3.0"/>
-        <framework src="com.android.support:cardview-v7:26.1.0"/>
-        <framework src="com.android.support:recyclerview-v7:26.1.0"/>
-
-        <framework src="com.github.bumptech.glide:glide:3.5.2"/>
-        <framework src="com.squareup.okhttp:okhttp:2.0.0"/>
-        <framework src="com.squareup.okhttp:okhttp-urlconnection:1.6.0"/>
+        <framework src="com.android.support:cardview-v7:28.0.0"/>
+        <framework src="com.android.support:recyclerview-v7:28.0.0"/>
+        <framework src="com.squareup.okhttp:okhttp:2.4.0"/>
+        <framework src="com.squareup.picasso:picasso:2.71828"/>
+        <framework src="com.squareup.okhttp:okhttp-urlconnection:2.2.0"/>
          <framework src="com.android.support:multidex:1.0.1"/>
-        <source-file src="src/android/PayWithEasebuzz.java" target-dir="../../libs/peb-lib.aar"/>
+        <source-file src="src/android/PayWithEasebuzz.java" target-dir="../../main/java/PayWithEasebuzz"/>
         
     </platform>
     
