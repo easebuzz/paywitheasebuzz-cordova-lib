@@ -76,8 +76,6 @@ public class PayWithEasebuzz extends CordovaPlugin {
 
   @Override
   public void onActivityResult(int requestCode, int resultCode, Intent intent) {
-            Toast.makeText(this.cordova.getActivity(), "Outside 2", Toast.LENGTH_LONG).show();
-
          if (this.action.equalsIgnoreCase("paywitheasebuzz")) {
                 try{
                       String result = intent.getStringExtra("result");
