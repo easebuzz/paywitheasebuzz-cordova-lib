@@ -128,7 +128,7 @@ proceedToPayment: function () {
   }
 
 ``` 
-Hash generation (sha512): 
+####  Hash generation (sha512): 
 Hash is a mandatory parameter – used specifically to avoid any tampering during the transaction.
 It is sha512 encrypted string. And hash sequence is mentioned below.
 
