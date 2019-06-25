@@ -55,7 +55,7 @@ proceedToPayment: function () {
             "furl": "https://your.failureurl.in/",
             "txnid": Math.floor(Math.random()*(800000-100000+1)+100000),
             "key": "YOUR_OWN_MERCHANT_KEY",
-            "salt": "YOUR_OWN_MERCHANT_SALT",
+            "hash": "Create hash as per below procedure",
             "address1": "address one",
             "address2": "address two",
             "city": "",
@@ -104,7 +104,7 @@ proceedToPayment: function () {
                 "furl": "https://your.failureurl.in/",
                 "txnid": "UNIQE_TRANSACTION_ID",
                 "key": "YOUR_OWN_MERCHANT_KEY",
-                "salt": "YOUR_OWN_MERCHANT_SALT",
+                "hash": "Create hash as per below procedure",
                 "address1": "address one",
                 "address2": "address two",
                 "city": "",
@@ -128,6 +128,14 @@ proceedToPayment: function () {
   }
 
 ``` 
+Hash generation (sha512): 
+Hash is a mandatory parameter – used specifically to avoid any tampering during the transaction.
+It is sha512 encrypted string. And hash sequence is mentioned below.
+
+Hash sequence:
+key|txnid|trxn_amount|productinfo|firstname|email_id|udf1|udf2|udf3|udf4|udf5||||||salt|key
+
+Generate the sha512 of above hash sequence. and pass as a hash parameter.
 
 
 

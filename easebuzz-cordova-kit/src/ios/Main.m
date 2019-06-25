@@ -45,7 +45,7 @@
        @"zipcode": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"zipcode"]]],
        @"isMobile": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"isMobile"]]],
        @"unique_id":  [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"unique_id"]]],
-       @"salt": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"salt"]]],
+       @"hash": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"hash"]]],
        @"pay_mode":[self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"pay_mode"]]]
        };
     
