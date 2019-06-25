@@ -57,7 +57,7 @@ public class PayWithEasebuzz extends CordovaPlugin {
                    intentProceed.putExtra("trxn_country",options.getString("country"));
                    intentProceed.putExtra("trxn_zipcode",options.getString("zipcode"));
                    intentProceed.putExtra("trxn_is_coupon_enabled",options.getString("is_coupon_enabled"));
-                   intentProceed.putExtra("trxn_salt",options.getString("salt"));
+                   intentProceed.putExtra("hash",options.getString("hash"));
                    intentProceed.putExtra("unique_id",options.getString("unique_id"));
                    intentProceed.putExtra("merchant_id","");
                    intentProceed.putExtra("pay_mode",options.getString("pay_mode"));
