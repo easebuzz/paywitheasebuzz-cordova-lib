@@ -111,7 +111,6 @@ proceedToPayment: function () {
                 "state": "",
                 "country": "",
                 "zipcode": "",
-                "is_coupon_enabled": "0",
                 "pay_mode": "production",
                 "unique_id":"CUSTOMER_UNIQUE_ID" //Pass empty string if you dont want to pass customer unique id.
             }
