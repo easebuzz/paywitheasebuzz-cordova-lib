@@ -136,6 +136,15 @@ key|txnid|trxn_amount|productinfo|firstname|email_id|udf1|udf2|udf3|udf4|udf5|||
 
 Generate the sha512 of above hash sequence. and pass as a hash parameter.
 
+####  Note:
+1. Make sure the parameters that you are passing to Easebuzz SDK intent should exactly be the same which has been used to generate the hash.
+For example.
+1. If you used demo@gmail.com to generate the hash and Demo@gmail.com is passed to SDK intent, Then It will throw an error.
+2. If you appended space to any parameter while generating a hash and passed the space appended parameter to SDK intent then It will throw an error.
+3. If you are using amount 1.00, Then It will throw an error. Please use amount like 1.0 (Complete number's amount). The amount like 1.12 will work fine.
+
+####  Suggestion: It would be more secure if the hash generation process is done at back end (Server Side)
+
 
 
 #### Request parameters and Sample payment response/result :
