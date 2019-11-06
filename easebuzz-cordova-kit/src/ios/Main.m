@@ -46,7 +46,8 @@
        @"isMobile": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"isMobile"]]],
        @"unique_id":  [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"unique_id"]]],
        @"hash": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"hash"]]],
-       @"pay_mode":[self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"pay_mode"]]]
+       @"pay_mode":[self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"pay_mode"]]],
+       @"sub_merchant_id":[self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"sub_merchant_id"]]]
        };
     
     payment = [[Payment alloc]initWithCustomerData:orderDetails];
