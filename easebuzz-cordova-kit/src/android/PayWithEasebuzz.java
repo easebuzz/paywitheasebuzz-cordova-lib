@@ -31,7 +31,7 @@ public class PayWithEasebuzz extends CordovaPlugin {
              JSONObject options = new JSONObject(opt);
              Intent intentProceed = new Intent(this.cordova.getActivity(), PWECouponsActivity.class);
                    intentProceed.putExtra("txnid",options.optString("txnid"));
-                   Float amounts = Float.parseFloat(options.optString("amount"));
+                   Double amounts = new Double(options.optString("amount"));
                    intentProceed.putExtra("amount",amounts);
                    intentProceed.putExtra("productinfo",options.optString("productinfo"));
                    intentProceed.putExtra("firstname",options.optString("firstname"));
@@ -78,6 +78,7 @@ public class PayWithEasebuzz extends CordovaPlugin {
 
   @Override
   public void onActivityResult(int requestCode, int resultCode, Intent intent) {
+    if(data != null ) {
          if (this.action.equalsIgnoreCase("paywitheasebuzz")) {
                 try{
                       String result = intent.getStringExtra("result");
@@ -102,6 +103,7 @@ public class PayWithEasebuzz extends CordovaPlugin {
             {
                 cc.error("Invalid Action is passed during initiate payment");
             }  
+        }        
   }
 
   }
