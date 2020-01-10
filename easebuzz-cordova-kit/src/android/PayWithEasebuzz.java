@@ -13,7 +13,7 @@ import android.widget.Toast;
 import android.os.Bundle;
 import android.content.Intent;
 import android.app.Activity;
-import datamodels.StaticDataModel;
+import datamodels.PWEStaticDataModel;
 
 public class PayWithEasebuzz extends CordovaPlugin {
 
@@ -64,7 +64,7 @@ public class PayWithEasebuzz extends CordovaPlugin {
                       intentProceed.putExtra("split_payments",options.optString("split_payments"));
                    }
                    
-                   this.cordova.startActivityForResult((PayWithEasebuzz)this,intentProceed, StaticDataModel.PWE_REQUEST_CODE);
+                   this.cordova.startActivityForResult((PayWithEasebuzz)this,intentProceed, PWEStaticDataModel.PWE_REQUEST_CODE);
            } catch (Exception e){
              Toast.makeText(this.cordova.getActivity(), e.getMessage(), Toast.LENGTH_LONG).show();
            }
