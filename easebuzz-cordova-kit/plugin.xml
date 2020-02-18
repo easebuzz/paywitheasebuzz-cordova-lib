@@ -44,7 +44,7 @@
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
                      <activity android:name="com.easebuzz.payment.kit.PWEProcessPaymentActivity"
                                android:screenOrientation="portrait"
-                               android:theme="@style/NoActionBarTheme"
+                               android:theme="@style/PWENoABar"
                                android:exported="false"/>
         </config-file>
 

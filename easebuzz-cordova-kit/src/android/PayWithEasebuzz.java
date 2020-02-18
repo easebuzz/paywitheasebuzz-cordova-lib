@@ -78,7 +78,7 @@ public class PayWithEasebuzz extends CordovaPlugin {
 
   @Override
   public void onActivityResult(int requestCode, int resultCode, Intent intent) {
-    if(data != null ) {
+    if(intent != null ) {
          if (this.action.equalsIgnoreCase("paywitheasebuzz")) {
                 try{
                       String result = intent.getStringExtra("result");
