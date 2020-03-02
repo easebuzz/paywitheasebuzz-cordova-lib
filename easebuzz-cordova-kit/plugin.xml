@@ -25,13 +25,11 @@
             </feature>
         </config-file>
           
-
-
       <resource-file src="src/android/peb-lib.aar"
                        target="../../libs/peb-lib.aar"/>
 
- 
-
+       <resource-file src="src/android/gpay.aar"
+                       target="../../libs/gpay.aar"/>
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
               <activity android:name="com.easebuzz.payment.kit.PWECouponsActivity" 
@@ -42,10 +40,10 @@
         </config-file>
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
-                     <activity android:name="com.easebuzz.payment.kit.PWEProcessPaymentActivity"
-                               android:screenOrientation="portrait"
-                               android:theme="@style/PWENoABar"
-                               android:exported="false"/>
+             <activity android:name="com.easebuzz.payment.kit.PWEProcessPaymentActivity"
+               android:screenOrientation="portrait"
+               android:theme="@style/PWENoABar"
+               android:exported="false"/>
         </config-file>
 
         <framework src="src/android/ebgradle.gradle" custom="true" type="gradleReference"/>
@@ -56,9 +54,9 @@
         <framework src="com.android.support:cardview-v7:28.0.0"/>
         <framework src="com.android.support:recyclerview-v7:28.0.0"/>
         <framework src="com.squareup.okhttp:okhttp:2.4.0"/>
-        <framework src="com.squareup.picasso:picasso:2.71828"/>
         <framework src="com.squareup.okhttp:okhttp-urlconnection:2.2.0"/>
-         <framework src="com.android.support:multidex:1.0.1"/>
+        <framework src="com.android.support:multidex:1.0.1"/>
+        <framework src="com.google.android.gms:play-services-tasks:15.0.1"/>
         <source-file src="src/android/PayWithEasebuzz.java" target-dir="../../main/java/PayWithEasebuzz"/>
         
     </platform>
