@@ -14,6 +14,7 @@ import android.os.Bundle;
 import android.content.Intent;
 import android.app.Activity;
 import datamodels.PWEStaticDataModel;
+import java.util.Iterator;
 
 public class PayWithEasebuzz extends CordovaPlugin {
 
@@ -30,40 +31,20 @@ public class PayWithEasebuzz extends CordovaPlugin {
              String opt = args.getString(0);
              JSONObject options = new JSONObject(opt);
              Intent intentProceed = new Intent(this.cordova.getActivity(), PWECouponsActivity.class);
-                   intentProceed.putExtra("txnid",options.optString("txnid"));
-                   Double amounts = new Double(options.optString("amount"));
-                   intentProceed.putExtra("amount",amounts);
-                   intentProceed.putExtra("productinfo",options.optString("productinfo"));
-                   intentProceed.putExtra("firstname",options.optString("firstname"));
-                   intentProceed.putExtra("email",options.optString("email"));
-                   intentProceed.putExtra("phone",options.optString("phone"));
-                   intentProceed.putExtra("key",options.optString("key"));
-                   intentProceed.putExtra("udf1",options.optString("udf1"));
-                   intentProceed.putExtra("udf2",options.optString("udf2"));
-                   intentProceed.putExtra("udf3",options.optString("udf3"));
-                   intentProceed.putExtra("udf4",options.optString("udf4"));
-                   intentProceed.putExtra("udf5",options.optString("udf5"));
-                   intentProceed.putExtra("udf6",options.optString("udf6"));
-                   intentProceed.putExtra("udf7",options.optString("udf7"));
-                   intentProceed.putExtra("udf8",options.optString("udf8"));
-                   intentProceed.putExtra("udf9",options.optString("udf9"));
-                   intentProceed.putExtra("udf10",options.optString("udf10"));
-                   intentProceed.putExtra("address1",options.optString("address1"));
-                   intentProceed.putExtra("address2",options.optString("address2"));
-                   intentProceed.putExtra("city",options.optString("city"));
-                   intentProceed.putExtra("state",options.optString("state"));
-                   intentProceed.putExtra("country",options.optString("country"));
-                   intentProceed.putExtra("zipcode",options.optString("zipcode"));
-                   intentProceed.putExtra("hash",options.optString("hash"));
-                   intentProceed.putExtra("unique_id",options.optString("unique_id"));
-                   intentProceed.putExtra("merchant_id","");
-                   intentProceed.putExtra("pay_mode",options.optString("pay_mode"));
-                   intentProceed.putExtra("sub_merchant_id",options.optString("sub_merchant_id"));
-                   if(options.has("split_payments"))
-                   {
-                      intentProceed.putExtra("split_payments",options.optString("split_payments"));
-                   }
-                   
+             Iterator<?> keys = options.keys();
+             while(keys.hasNext() ) {
+                 String value = "";
+                 String key = (String) keys.next();
+                 value = options.optString(key);
+
+                 if (key.equals("amount")){
+                     Double amount = new Double(options.optString("amount"));
+                     intentProceed.putExtra(key,amount);
+                 }
+                 else {
+                     intentProceed.putExtra(key,value);
+                 }
+             }
                    this.cordova.startActivityForResult((PayWithEasebuzz)this,intentProceed, PWEStaticDataModel.PWE_REQUEST_CODE);
            } catch (Exception e){
              Toast.makeText(this.cordova.getActivity(), e.getMessage(), Toast.LENGTH_LONG).show();
