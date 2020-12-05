@@ -19,7 +19,10 @@ Android
 
 #### Note :For iOS
     Note: This release is meant for Xcode 9.4 and above as it uses a framework compiled in Swift 4.1.This will not work in Xcode 9.2 as  you will get a "dlyd error : framework not found error".
-    Note: The iOS framework is shipped with simulator architectures , you have to remove them before you archive.
+    Note: The existing plugin not work on simulator.The iOS framework is shipped with simulator architectures ,so you have to replace simulator Easebuzz.framework (from iOS Frameworks folder) with device Easebuzz.framework.
+          Please find the below folder path for replacing framework.
+     replace path: easebuzz-cordova-kit -> src -> ios -> Easebuzz.framework
+     Note: Make sure at the time of uploading app to APPStore, use existing framework - iOS device framework
 
 #### Note :For Android
     Note: Make sure your android platforms build.gradle file and project.properties files are cofigured properly. Eg: If your defaultBuildToolsVersion is "28.0.3", defaultTargetSdkVersion is 28 and defaultCompileSdkVersion is 28 in build.gradle file then value of target in project.properties file should be android-28.

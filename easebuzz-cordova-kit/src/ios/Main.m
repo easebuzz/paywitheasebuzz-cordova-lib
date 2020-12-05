@@ -23,34 +23,7 @@
 }
     
 - (void)initiatePaymentAction:(NSDictionary*)options {
-    
-    NSDictionary *orderDetails =
-    @{ @"txnid": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"txnid"]]],
-       @"amount":[self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"amount"]]],
-       @"productinfo": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"productinfo"]]],
-       @"firstname": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"firstname"]]],
-       @"email": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"email"]]],
-       @"phone": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"phone"]]],
-       @"key": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"key"]]],
-       @"udf1": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"udf1"]]],
-       @"udf2": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"udf2"]]],
-       @"udf3": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"udf3"]]],
-       @"udf4": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"udf4"]]],
-       @"udf5": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"udf5"]]],
-       @"address1": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"address1"]]],
-       @"address2": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"address2"]]],
-       @"city": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"city"]]],
-       @"state": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"state"]]],
-       @"country": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"country"]]],
-       @"zipcode": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"zipcode"]]],
-       @"isMobile": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"isMobile"]]],
-       @"unique_id":  [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"unique_id"]]],
-       @"hash": [self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"hash"]]],
-       @"pay_mode":[self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"pay_mode"]]],
-       @"sub_merchant_id":[self isEmpty:[NSString stringWithFormat:@"%@",[options valueForKey:@"sub_merchant_id"]]]
-       };
-    
-    payment = [[Payment alloc]initWithCustomerData:orderDetails];
+    payment = [[Payment alloc]initWithCustomerData:options];
     
     BOOL paymentValid = payment.isValid;
     if (!paymentValid) {
@@ -79,7 +52,7 @@
     [CDVPluginResult resultWithStatus:CDVCommandStatus_OK
                   messageAsDictionary:[NSDictionary dictionaryWithObjectsAndKeys:
                                        responseDict,
-                                       @"payment_response",resultStr, @"result", nil]];
+                                       @"response",resultStr, @"result", nil]];
     [self.commandDelegate sendPluginResult:result callbackId:self.callbackId];
 }
     
