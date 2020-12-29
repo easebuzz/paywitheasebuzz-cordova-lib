@@ -28,9 +28,6 @@
       <resource-file src="src/android/peb-lib.aar"
                        target="../../libs/peb-lib.aar"/>
 
-       <resource-file src="src/android/gpay.aar"
-                       target="../../libs/gpay.aar"/>
-
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
               <activity android:name="com.easebuzz.payment.kit.PWECouponsActivity" 
                 android:label="Select Coupons"
@@ -47,7 +44,6 @@
         <framework src="com.squareup.okhttp:okhttp:2.4.0"/>
         <framework src="com.squareup.okhttp:okhttp-urlconnection:2.2.0"/>
         <framework src="com.android.support:multidex:1.0.1"/>
-        <framework src="com.google.android.gms:play-services-tasks:15.0.1"/>
         <source-file src="src/android/PayWithEasebuzz.java" target-dir="../../main/java/PayWithEasebuzz"/>
         
     </platform>

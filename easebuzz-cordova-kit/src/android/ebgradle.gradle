@@ -22,8 +22,6 @@ dependencies {
     compile 'com.squareup.okhttp:okhttp-urlconnection:2.2.0'
     compile 'com.android.support:multidex:1.0.1'
     compile(name:'peb-lib', ext:'aar')
-    compile (name:'gpay', ext:'aar')
-    compile 'com.google.android.gms:play-services-tasks:15.0.1'
 }
 
 android {
