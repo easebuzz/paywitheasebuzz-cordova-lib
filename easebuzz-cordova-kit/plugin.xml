@@ -29,11 +29,20 @@
                        target="../../libs/peb-lib.aar"/>
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
-              <activity android:name="com.easebuzz.payment.kit.PWECouponsActivity" 
+              <activity 
+                android:name="com.easebuzz.payment.kit.PWECouponsActivity" 
                 android:label="Select Coupons"
+                android:launchMode="singleTop"
                 android:screenOrientation="portrait"
                 android:windowSoftInputMode="stateUnchanged"
                 android:exported="false" />
+
+                <activity 
+                android:name=".PWEBankPageActivity"
+                android:launchMode="singleTop"
+                android:screenOrientation="portrait"
+                android:exported="false"/>
+
         </config-file>
 
         <framework src="src/android/ebgradle.gradle" custom="true" type="gradleReference"/>
