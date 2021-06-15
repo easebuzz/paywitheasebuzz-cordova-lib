@@ -29,6 +29,7 @@
                        target="../../libs/peb-lib.aar"/>
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
+        
               <activity 
                 android:name="com.easebuzz.payment.kit.PWECouponsActivity" 
                 android:label="Select Coupons"

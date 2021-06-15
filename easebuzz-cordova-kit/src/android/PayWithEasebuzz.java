@@ -36,16 +36,9 @@ public class PayWithEasebuzz extends CordovaPlugin {
                  String value = "";
                  String key = (String) keys.next();
                  value = options.optString(key);
-
-                 if (key.equals("amount")){
-                     Double amount = new Double(options.optString("amount"));
-                     intentProceed.putExtra(key,amount);
-                 }
-                 else {
-                     intentProceed.putExtra(key,value);
-                 }
+                 intentProceed.putExtra(key,value);
              }
-                   this.cordova.startActivityForResult((PayWithEasebuzz)this,intentProceed, PWEStaticDataModel.PWE_REQUEST_CODE);
+             this.cordova.startActivityForResult((PayWithEasebuzz)this,intentProceed, PWEStaticDataModel.PWE_REQUEST_CODE);
            } catch (Exception e){
              Toast.makeText(this.cordova.getActivity(), e.getMessage(), Toast.LENGTH_LONG).show();
            }
@@ -65,7 +58,7 @@ public class PayWithEasebuzz extends CordovaPlugin {
                       String result = intent.getStringExtra("result");
                       String payment_response = intent.getStringExtra("payment_response");
                       JSONObject jResponse = new JSONObject();
-                      JSONObject pay_resp_Obj = new JSONObject(); 
+                      JSONObject pay_resp_Obj = new JSONObject();
                       try{
                         pay_resp_Obj = new JSONObject(payment_response);
                       }catch(JSONException jse)

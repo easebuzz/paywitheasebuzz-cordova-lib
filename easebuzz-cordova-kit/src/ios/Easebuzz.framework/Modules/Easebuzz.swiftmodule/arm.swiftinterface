@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
 // swift-module-flags: -target armv7-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Easebuzz
 import Darwin
 @_exported import Easebuzz
@@ -34,8 +34,8 @@ extension SHA1 : Easebuzz.Updatable {
     case rupay
     case unionpay
     case jcb
-    public typealias RawValue = Swift.Int
     public init?(rawValue: Swift.Int)
+    public typealias RawValue = Swift.Int
     public var rawValue: Swift.Int {
       get
     }
@@ -44,10 +44,10 @@ extension SHA1 : Easebuzz.Updatable {
     case unsupported
     case invalid
     public static func == (a: Easebuzz.CardValidator.CardError, b: Easebuzz.CardValidator.CardError) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   @objc deinit
 }
@@ -95,8 +95,8 @@ extension NSMutableURLRequest {
   @objc public static let TXN_SESSION_CANCELLED_CODE_FALSE: Swift.String
   @objc public static let TXN_BANK_BACK_PRESSED_CODE: Swift.String
   @objc public static let TXN_UPI_CANCELLED_CODE: Swift.String
-  @objc deinit
   @objc override dynamic public init()
+  @objc deinit
 }
 final public class Scrypt {
   public init(password: Swift.Array<Swift.UInt8>, salt: Swift.Array<Swift.UInt8>, dkLen: Swift.Int, N: Swift.Int, r: Swift.Int, p: Swift.Int) throws
@@ -110,12 +110,20 @@ final public class Scrypt {
   @objc override dynamic public func didMoveToSuperview()
   public func show()
   public func hide()
-  @objc deinit
   @objc override dynamic public init(effect: UIKit.UIVisualEffect?)
+  @objc deinit
 }
 public protocol AEAD {
   static var kLen: Swift.Int { get }
   static var ivRange: Swift.Range<Swift.Int> { get }
+}
+extension FixedWidthInteger {
+  @inlinable internal func bytes(totalBytes: Swift.Int = MemoryLayout<Self>.size) -> Swift.Array<Swift.UInt8> {
+    arrayOfBytes(value: self.littleEndian, length: totalBytes)
+    // TODO: adjust bytes order
+    // var value = self.littleEndian
+    // return withUnsafeBytes(of: &value, Array.init).reversed()
+  }
 }
 @available(*, deprecated, renamed: "SwiftyJSONError.errorDomain", message: "ErrorDomain is deprecated. Use `SwiftyJSONError.errorDomain` instead.")
 public let ErrorDomain: Swift.String
@@ -136,8 +144,8 @@ public enum SwiftyJSONError : Swift.Int, Swift.Error {
   case wrongType
   case notExist
   case invalidJSON
-  public typealias RawValue = Swift.Int
   public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
   }
@@ -161,8 +169,8 @@ public enum Type : Swift.Int {
   case dictionary
   case null
   case unknown
-  public typealias RawValue = Swift.Int
   public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
   }
@@ -215,9 +223,9 @@ extension JSON : Swift.Collection {
     get
   }
   public typealias Element = (Swift.String, Easebuzz.JSON)
+  public typealias Indices = Swift.DefaultIndices<Easebuzz.JSON>
   public typealias Iterator = Swift.IndexingIterator<Easebuzz.JSON>
   public typealias SubSequence = Swift.Slice<Easebuzz.JSON>
-  public typealias Indices = Swift.DefaultIndices<Easebuzz.JSON>
 }
 public enum JSONKey {
   case index(Swift.Int)
@@ -250,8 +258,8 @@ extension JSON : Swift.ExpressibleByStringLiteral {
   public init(stringLiteral value: Swift.StringLiteralType)
   public init(extendedGraphemeClusterLiteral value: Easebuzz.JSON.StringLiteralType)
   public init(unicodeScalarLiteral value: Easebuzz.JSON.StringLiteralType)
-  public typealias StringLiteralType = Swift.StringLiteralType
   public typealias ExtendedGraphemeClusterLiteralType = Easebuzz.JSON.StringLiteralType
+  public typealias StringLiteralType = Swift.StringLiteralType
   public typealias UnicodeScalarLiteralType = Easebuzz.JSON.StringLiteralType
 }
 extension JSON : Swift.ExpressibleByIntegerLiteral {
@@ -475,10 +483,10 @@ public enum writingOptionsKeys {
   case maxObjextDepth
   case encoding
   public static func == (a: Easebuzz.writingOptionsKeys, b: Easebuzz.writingOptionsKeys) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {
     get
   }
-  public func hash(into hasher: inout Swift.Hasher)
 }
 extension AES {
   convenience public init(key: Swift.String, iv: Swift.String, padding: Easebuzz.Padding = .pkcs7) throws
@@ -492,10 +500,10 @@ public struct CTR {
   public enum Error : Swift.Error {
     case invalidInitializationVector
     public static func == (a: Easebuzz.CTR.Error, b: Easebuzz.CTR.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public let options: Easebuzz.BlockModeOption
   public init(iv: Swift.Array<Swift.UInt8>, counter: Swift.Int = 0)
@@ -509,10 +517,10 @@ public struct PCBC : Easebuzz.BlockMode {
   public enum Error : Swift.Error {
     case invalidInitializationVector
     public static func == (a: Easebuzz.PCBC.Error, b: Easebuzz.PCBC.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public let options: Easebuzz.BlockModeOption
   public init(iv: Swift.Array<Swift.UInt8>)
@@ -527,10 +535,10 @@ public enum Padding : Easebuzz.PaddingProtocol {
   public func add(to: Swift.Array<Swift.UInt8>, blockSize: Swift.Int) -> Swift.Array<Swift.UInt8>
   public func remove(from: Swift.Array<Swift.UInt8>, blockSize: Swift.Int?) -> Swift.Array<Swift.UInt8>
   public static func == (a: Easebuzz.Padding, b: Easebuzz.Padding) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {
     get
   }
-  public func hash(into hasher: inout Swift.Hasher)
 }
 public enum PKCS5 {
 }
@@ -548,10 +556,10 @@ public struct CFB : Easebuzz.BlockMode {
   public enum Error : Swift.Error {
     case invalidInitializationVector
     public static func == (a: Easebuzz.CFB.Error, b: Easebuzz.CFB.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public let options: Easebuzz.BlockModeOption
   public init(iv: Swift.Array<Swift.UInt8>)
@@ -562,10 +570,10 @@ final public class ChaCha20 {
     case invalidKeyOrInitializationVector
     case notSupported
     public static func == (a: Easebuzz.ChaCha20.Error, b: Easebuzz.ChaCha20.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public static let blockSize: Swift.Int
   final public let keySize: Swift.Int
@@ -596,10 +604,10 @@ final public class Poly1305 : Easebuzz.Authenticator {
   public enum Error : Swift.Error {
     case authenticateError
     public static func == (a: Easebuzz.Poly1305.Error, b: Easebuzz.Poly1305.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public static let blockSize: Swift.Int
   public init(key: Swift.Array<Swift.UInt8>)
@@ -612,15 +620,15 @@ final public class AES {
     case dataPaddingRequired
     case invalidData
     public static func == (a: Easebuzz.AES.Error, b: Easebuzz.AES.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public enum Variant : Swift.Int {
     case aes128, aes192, aes256
-    public typealias RawValue = Swift.Int
     public init?(rawValue: Swift.Int)
+    public typealias RawValue = Swift.Int
     public var rawValue: Swift.Int {
       get
     }
@@ -669,8 +677,8 @@ public struct ECB : Easebuzz.BlockMode {
 public enum Bit : Swift.Int {
   case zero
   case one
-  public typealias RawValue = Swift.Int
   public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
   }
@@ -685,10 +693,10 @@ final public class SHA3 {
       get
     }
     public static func == (a: Easebuzz.SHA3.Variant, b: Easebuzz.SHA3.Variant) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public init(variant: Easebuzz.SHA3.Variant)
   final public func calculate(for bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
@@ -725,20 +733,20 @@ final public class GCM : Easebuzz.BlockMode {
     case combined
     case detached
     public static func == (a: Easebuzz.GCM.Mode, b: Easebuzz.GCM.Mode) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   final public let options: Easebuzz.BlockModeOption
   public enum Error : Swift.Error {
     case invalidInitializationVector
     case fail
     public static func == (a: Easebuzz.GCM.Error, b: Easebuzz.GCM.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   final public var authenticationTag: Swift.Array<Swift.UInt8>?
   public init(iv: Swift.Array<Swift.UInt8>, additionalAuthenticatedData: Swift.Array<Swift.UInt8>? = nil, tagLength: Swift.Int = 16, mode: Easebuzz.GCM.Mode = .detached)
@@ -764,17 +772,17 @@ extension UIViewController {
   @objc public class func setUp(pebCallback: Easebuzz.PayWithEasebuzzCallback)
   @objc public class func initiliazed() -> Swift.Bool
   @objc public class func invokePaymentOptionsView(paymentObj: Easebuzz.Payment, isFrom: Any)
-  @objc deinit
   @objc override dynamic public init()
+  @objc deinit
 }
 public struct OFB : Easebuzz.BlockMode {
   public enum Error : Swift.Error {
     case invalidInitializationVector
     public static func == (a: Easebuzz.OFB.Error, b: Easebuzz.OFB.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public let options: Easebuzz.BlockModeOption
   public init(iv: Swift.Array<Swift.UInt8>)
@@ -784,10 +792,10 @@ public enum CipherError : Swift.Error {
   case encrypt
   case decrypt
   public static func == (a: Easebuzz.CipherError, b: Easebuzz.CipherError) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {
     get
   }
-  public func hash(into hasher: inout Swift.Hasher)
 }
 public protocol Cipher : AnyObject {
   var keySize: Swift.Int { get }
@@ -804,10 +812,10 @@ final public class Rabbit {
   public enum Error : Swift.Error {
     case invalidKeyOrInitializationVector
     public static func == (a: Easebuzz.Rabbit.Error, b: Easebuzz.Rabbit.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public static let ivSize: Swift.Int
   public static let keySize: Swift.Int
@@ -870,10 +878,10 @@ extension PKCS5 {
       case invalidInput
       case derivedKeyTooLong
       public static func == (a: Easebuzz.PKCS5.PBKDF2.Error, b: Easebuzz.PKCS5.PBKDF2.Error) -> Swift.Bool
+      public func hash(into hasher: inout Swift.Hasher)
       public var hashValue: Swift.Int {
         get
       }
-      public func hash(into hasher: inout Swift.Hasher)
     }
     public init(password: Swift.Array<Swift.UInt8>, salt: Swift.Array<Swift.UInt8>, iterations: Swift.Int = 4096, keyLength: Swift.Int? = nil, variant: Easebuzz.HMAC.Variant = .sha256) throws
     public func calculate() throws -> Swift.Array<Swift.UInt8>
@@ -885,10 +893,10 @@ public struct CCM {
     case invalidParameter
     case fail
     public static func == (a: Easebuzz.CCM.Error, b: Easebuzz.CCM.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public let options: Easebuzz.BlockModeOption
   public var authenticationTag: Swift.Array<Swift.UInt8>?
@@ -902,18 +910,18 @@ extension PKCS5 {
       case invalidInput
       case derivedKeyTooLong
       public static func == (a: Easebuzz.PKCS5.PBKDF1.Error, b: Easebuzz.PKCS5.PBKDF1.Error) -> Swift.Bool
+      public func hash(into hasher: inout Swift.Hasher)
       public var hashValue: Swift.Int {
         get
       }
-      public func hash(into hasher: inout Swift.Hasher)
     }
     public enum Variant {
       case md5, sha1
       public static func == (a: Easebuzz.PKCS5.PBKDF1.Variant, b: Easebuzz.PKCS5.PBKDF1.Variant) -> Swift.Bool
+      public func hash(into hasher: inout Swift.Hasher)
       public var hashValue: Swift.Int {
         get
       }
-      public func hash(into hasher: inout Swift.Hasher)
     }
     public init(password: Swift.Array<Swift.UInt8>, salt: Swift.Array<Swift.UInt8>, variant: Easebuzz.PKCS5.PBKDF1.Variant = .sha1, iterations: Swift.Int = 4096, keyLength: Swift.Int? = nil) throws
     public func calculate() -> Swift.Array<Swift.UInt8>
@@ -930,8 +938,8 @@ extension PKCS5 {
   public static func encryptWithRSAPublicKey(_ data: Foundation.Data, pubkeyBase64: Swift.String, keychainTag: Swift.String) -> Foundation.Data?
   public static func decryptWithRSAPrivateKey(_ encryptedData: Foundation.Data, privkeyBase64: Swift.String, keychainTag: Swift.String) -> Foundation.Data?
   public static func decryptWithRSAPublicKey(_ encryptedData: Foundation.Data, pubkeyBase64: Swift.String, keychainTag: Swift.String) -> Foundation.Data?
-  @objc deinit
   @objc override dynamic public init()
+  @objc deinit
 }
 extension ChaCha20 {
   convenience public init(key: Swift.String, iv: Swift.String) throws
@@ -941,18 +949,18 @@ final public class HMAC : Easebuzz.Authenticator {
     case authenticateError
     case invalidInput
     public static func == (a: Easebuzz.HMAC.Error, b: Easebuzz.HMAC.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public enum Variant {
     case sha1, sha256, sha384, sha512, md5
     public static func == (a: Easebuzz.HMAC.Variant, b: Easebuzz.HMAC.Variant) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public init(key: Swift.Array<Swift.UInt8>, variant: Easebuzz.HMAC.Variant = .md5)
   final public func authenticate(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
@@ -1012,8 +1020,8 @@ public protocol FinalizingDecryptModeWorker : Easebuzz.CipherModeWorker {
 public struct BlockModeOption : Swift.OptionSet {
   public let rawValue: Swift.Int
   public init(rawValue: Swift.Int)
-  public typealias Element = Easebuzz.BlockModeOption
   public typealias ArrayLiteralElement = Easebuzz.BlockModeOption
+  public typealias Element = Easebuzz.BlockModeOption
   public typealias RawValue = Swift.Int
 }
 final public class Blowfish {
@@ -1023,10 +1031,10 @@ final public class Blowfish {
     case invalidInitializationVector
     case invalidBlockMode
     public static func == (a: Easebuzz.Blowfish.Error, b: Easebuzz.Blowfish.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public static let blockSize: Swift.Int
   final public let keySize: Swift.Int
@@ -1042,17 +1050,17 @@ public struct HKDF {
     case invalidInput
     case derivedKeyTooLong
     public static func == (a: Easebuzz.HKDF.Error, b: Easebuzz.HKDF.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public init(password: Swift.Array<Swift.UInt8>, salt: Swift.Array<Swift.UInt8>? = nil, info: Swift.Array<Swift.UInt8>? = nil, keyLength: Swift.Int? = nil, variant: Easebuzz.HMAC.Variant = .sha256) throws
   public func calculate() throws -> Swift.Array<Swift.UInt8>
 }
 @_inheritsConvenienceInitializers final public class CMAC : Easebuzz.CBCMAC {
-  @objc deinit
   override public init(key: Swift.Array<Swift.UInt8>) throws
+  @objc deinit
 }
 final public class SHA2 {
   public enum Variant : Swift.RawRepresentable {
@@ -1100,6 +1108,24 @@ extension Array where Element == Swift.UInt8 {
   public func encrypt(cipher: Easebuzz.Cipher) throws -> [Element]
   public func decrypt(cipher: Easebuzz.Cipher) throws -> [Element]
   public func authenticate<A>(with authenticator: A) throws -> [Element] where A : Easebuzz.Authenticator
+}
+extension UInt32 {
+  @_specialize(exported: false, kind: full, where T == Swift.ArraySlice<Swift.UInt8>)
+  @inlinable internal init<T>(bytes: T, fromIndex index: T.Index) where T : Swift.Collection, T.Element == Swift.UInt8, T.Index == Swift.Int {
+    if bytes.isEmpty {
+      self = 0
+      return
+    }
+
+    let count = bytes.count
+
+    let val0 = count > 0 ? UInt32(bytes[index.advanced(by: 0)]) << 24 : 0
+    let val1 = count > 1 ? UInt32(bytes[index.advanced(by: 1)]) << 16 : 0
+    let val2 = count > 2 ? UInt32(bytes[index.advanced(by: 2)]) << 8 : 0
+    let val3 = count > 3 ? UInt32(bytes[index.advanced(by: 3)]) : 0
+
+    self = val0 | val1 | val2 | val3
+  }
 }
 extension UIView {
   public func makeToast(_ message: Swift.String?, duration: Foundation.TimeInterval = ToastManager.shared.duration, position: Easebuzz.ToastPosition = ToastManager.shared.position, title: Swift.String? = nil, image: UIKit.UIImage? = nil, style: Easebuzz.ToastStyle = ToastManager.shared.style, completion: ((Swift.Bool) -> Swift.Void)? = nil)
@@ -1165,10 +1191,10 @@ public enum ToastPosition {
   case center
   case bottom
   public static func == (a: Easebuzz.ToastPosition, b: Easebuzz.ToastPosition) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {
     get
   }
-  public func hash(into hasher: inout Swift.Hasher)
 }
 @objc public class Payment : ObjectiveC.NSObject {
   @objc public init(customerData: Swift.Dictionary<Swift.String, Any>)
@@ -1186,17 +1212,39 @@ public enum ToastPosition {
   public func isValidProductInfo() -> Foundation.NSDictionary
   public func isValidEmail() -> (validity: Swift.Bool, error: Swift.String)
   public func isValidEmail() -> Foundation.NSDictionary
-  @objc deinit
   @objc override dynamic public init()
+  @objc deinit
+}
+extension UInt64 {
+  @_specialize(exported: false, kind: full, where T == Swift.ArraySlice<Swift.UInt8>)
+  @inlinable internal init<T>(bytes: T, fromIndex index: T.Index) where T : Swift.Collection, T.Element == Swift.UInt8, T.Index == Swift.Int {
+    if bytes.isEmpty {
+      self = 0
+      return
+    }
+
+    let count = bytes.count
+
+    let val0 = count > 0 ? UInt64(bytes[index.advanced(by: 0)]) << 56 : 0
+    let val1 = count > 1 ? UInt64(bytes[index.advanced(by: 1)]) << 48 : 0
+    let val2 = count > 2 ? UInt64(bytes[index.advanced(by: 2)]) << 40 : 0
+    let val3 = count > 3 ? UInt64(bytes[index.advanced(by: 3)]) << 32 : 0
+    let val4 = count > 4 ? UInt64(bytes[index.advanced(by: 4)]) << 24 : 0
+    let val5 = count > 5 ? UInt64(bytes[index.advanced(by: 5)]) << 16 : 0
+    let val6 = count > 6 ? UInt64(bytes[index.advanced(by: 6)]) << 8 : 0
+    let val7 = count > 7 ? UInt64(bytes[index.advanced(by: 7)]) : 0
+
+    self = val0 | val1 | val2 | val3 | val4 | val5 | val6 | val7
+  }
 }
 public class CBCMAC : Easebuzz.Authenticator {
   public enum Error : Swift.Error {
     case wrongKeyLength
     public static func == (a: Easebuzz.CBCMAC.Error, b: Easebuzz.CBCMAC.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public init(key: Swift.Array<Swift.UInt8>) throws
   public func authenticate(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
@@ -1230,14 +1278,35 @@ public struct Digest {
   public static func sha2(_ bytes: Swift.Array<Swift.UInt8>, variant: Easebuzz.SHA2.Variant) -> Swift.Array<Swift.UInt8>
   public static func sha3(_ bytes: Swift.Array<Swift.UInt8>, variant: Easebuzz.SHA3.Variant) -> Swift.Array<Swift.UInt8>
 }
+@_specialize(exported: false, kind: full, where T == Swift.Int)
+@_specialize(exported: false, kind: full, where T == Swift.UInt)
+@_specialize(exported: false, kind: full, where T == Swift.UInt8)
+@_specialize(exported: false, kind: full, where T == Swift.UInt16)
+@_specialize(exported: false, kind: full, where T == Swift.UInt32)
+@_specialize(exported: false, kind: full, where T == Swift.UInt64)
+@inlinable internal func arrayOfBytes<T>(value: T, length totalBytes: Swift.Int = MemoryLayout<T>.size) -> Swift.Array<Swift.UInt8> where T : Swift.FixedWidthInteger {
+  let valuePointer = UnsafeMutablePointer<T>.allocate(capacity: 1)
+  valuePointer.pointee = value
+
+  let bytesPointer = UnsafeMutablePointer<UInt8>(OpaquePointer(valuePointer))
+  var bytes = Array<UInt8>(repeating: 0, count: totalBytes)
+  for j in 0..<min(MemoryLayout<T>.size, totalBytes) {
+    bytes[totalBytes - 1 - j] = (bytesPointer + j).pointee
+  }
+
+  valuePointer.deinitialize(count: 1)
+  valuePointer.deallocate()
+
+  return bytes
+}
 public struct CBC : Easebuzz.BlockMode {
   public enum Error : Swift.Error {
     case invalidInitializationVector
     public static func == (a: Easebuzz.CBC.Error, b: Easebuzz.CBC.Error) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
     public var hashValue: Swift.Int {
       get
     }
-    public func hash(into hasher: inout Swift.Hasher)
   }
   public let options: Easebuzz.BlockModeOption
   public init(iv: Swift.Array<Swift.UInt8>)
