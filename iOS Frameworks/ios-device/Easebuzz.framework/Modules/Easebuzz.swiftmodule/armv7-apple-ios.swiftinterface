@@ -513,6 +513,82 @@ extension Array where Element == Swift.UInt8 {
   public func toBase64() -> Swift.String?
   public init(base64: Swift.String)
 }
+@_inheritsConvenienceInitializers @objc(EBZDropDown) open class EBZDropDown : UIKit.UITextField {
+  public var selectedIndex: Swift.Int?
+  @objc @IBInspectable public var rowHeight: CoreGraphics.CGFloat
+  @objc @IBInspectable public var rowBackgroundColor: UIKit.UIColor
+  @objc @IBInspectable public var selectedRowColor: UIKit.UIColor
+  @objc @IBInspectable public var hideOptionsWhenSelect: Swift.Bool
+  @objc @IBInspectable public var isSearchEnable: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable public var borderColor: UIKit.UIColor {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable public var listHeight: CoreGraphics.CGFloat {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable public var borderWidth: CoreGraphics.CGFloat {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable public var cornerRadius: CoreGraphics.CGFloat {
+    @objc get
+    @objc set
+  }
+  public var optionArray: [Swift.String] {
+    get
+    set
+  }
+  public var optionImageArray: [Swift.String] {
+    get
+    set
+  }
+  public var optionIds: [Swift.Int]?
+  @objc @IBInspectable public var arrowSize: CoreGraphics.CGFloat {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable public var arrowColor: UIKit.UIColor {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable public var checkMarkEnabled: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable public var handleKeyboard: Swift.Bool {
+    @objc get
+    @objc set
+  }
+  @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @objc required dynamic public init(coder aDecoder: Foundation.NSCoder)
+  @objc deinit
+  public func showList()
+  public func hideList()
+  @objc public func touchAction()
+  public func didSelect(completion: @escaping (Swift.String, Swift.Int, Swift.Int) -> ())
+  public func listWillAppear(completion: @escaping () -> ())
+  public func listDidAppear(completion: @escaping () -> ())
+  public func listWillDisappear(completion: @escaping () -> ())
+  public func listDidDisappear(completion: @escaping () -> ())
+}
+extension EBZDropDown : UIKit.UITextFieldDelegate {
+  @objc dynamic public func textFieldShouldReturn(_ textField: UIKit.UITextField) -> Swift.Bool
+  @objc dynamic public func textFieldDidBeginEditing(_ textField: UIKit.UITextField)
+  @objc dynamic public func textFieldShouldBeginEditing(_ textField: UIKit.UITextField) -> Swift.Bool
+  @objc dynamic public func textField(_ textField: UIKit.UITextField, shouldChangeCharactersIn range: Foundation.NSRange, replacementString string: Swift.String) -> Swift.Bool
+}
+extension EBZDropDown : UIKit.UITableViewDataSource {
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+}
+extension EBZDropDown : UIKit.UITableViewDelegate {
+  @objc dynamic public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+}
 public struct PCBC : Easebuzz.BlockMode {
   public enum Error : Swift.Error {
     case invalidInitializationVector

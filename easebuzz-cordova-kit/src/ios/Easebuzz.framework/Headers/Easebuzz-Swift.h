@@ -212,9 +212,53 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
-@class NSCoder;
 @class NSNumber;
+@class UIColor;
+@class NSCoder;
+
+SWIFT_CLASS_NAMED("EBZDropDown")
+@interface EBZDropDown : UITextField
+@property (nonatomic) IBInspectable CGFloat rowHeight;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull rowBackgroundColor;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull selectedRowColor;
+@property (nonatomic) IBInspectable BOOL hideOptionsWhenSelect;
+@property (nonatomic) IBInspectable BOOL isSearchEnable;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull borderColor;
+@property (nonatomic) IBInspectable CGFloat listHeight;
+@property (nonatomic) IBInspectable CGFloat borderWidth;
+@property (nonatomic) IBInspectable CGFloat cornerRadius;
+@property (nonatomic) IBInspectable CGFloat arrowSize;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull arrowColor;
+@property (nonatomic) IBInspectable BOOL checkMarkEnabled;
+@property (nonatomic) IBInspectable BOOL handleKeyboard;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)touchAction;
+@end
+
+@class UITableView;
+@class NSIndexPath;
+
+@interface EBZDropDown (SWIFT_EXTENSION(Easebuzz)) <UITableViewDelegate>
+- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
+@end
+
+@class UITableViewCell;
+
+@interface EBZDropDown (SWIFT_EXTENSION(Easebuzz)) <UITableViewDataSource>
+- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+@end
+
 @class NSString;
+
+@interface EBZDropDown (SWIFT_EXTENSION(Easebuzz)) <UITextFieldDelegate>
+- (BOOL)textFieldShouldReturn:(UITextField * _Nonnull)textField SWIFT_WARN_UNUSED_RESULT;
+- (void)textFieldDidBeginEditing:(UITextField * _Nonnull)textField;
+- (BOOL)textFieldShouldBeginEditing:(UITextField * _Nonnull)textField SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)textField:(UITextField * _Nonnull)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString * _Nonnull)string SWIFT_WARN_UNUSED_RESULT;
+@end
+
 @class NSAttributedString;
 
 SWIFT_CLASS("_TtC8Easebuzz19MonthYearPickerView")
@@ -321,6 +365,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _No
 @property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
 @property (nonatomic, readonly) BOOL shouldAutorotate;
 @end
+
 
 
 
@@ -552,9 +597,53 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
-@class NSCoder;
 @class NSNumber;
+@class UIColor;
+@class NSCoder;
+
+SWIFT_CLASS_NAMED("EBZDropDown")
+@interface EBZDropDown : UITextField
+@property (nonatomic) IBInspectable CGFloat rowHeight;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull rowBackgroundColor;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull selectedRowColor;
+@property (nonatomic) IBInspectable BOOL hideOptionsWhenSelect;
+@property (nonatomic) IBInspectable BOOL isSearchEnable;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull borderColor;
+@property (nonatomic) IBInspectable CGFloat listHeight;
+@property (nonatomic) IBInspectable CGFloat borderWidth;
+@property (nonatomic) IBInspectable CGFloat cornerRadius;
+@property (nonatomic) IBInspectable CGFloat arrowSize;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull arrowColor;
+@property (nonatomic) IBInspectable BOOL checkMarkEnabled;
+@property (nonatomic) IBInspectable BOOL handleKeyboard;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)touchAction;
+@end
+
+@class UITableView;
+@class NSIndexPath;
+
+@interface EBZDropDown (SWIFT_EXTENSION(Easebuzz)) <UITableViewDelegate>
+- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
+@end
+
+@class UITableViewCell;
+
+@interface EBZDropDown (SWIFT_EXTENSION(Easebuzz)) <UITableViewDataSource>
+- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
+- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+@end
+
 @class NSString;
+
+@interface EBZDropDown (SWIFT_EXTENSION(Easebuzz)) <UITextFieldDelegate>
+- (BOOL)textFieldShouldReturn:(UITextField * _Nonnull)textField SWIFT_WARN_UNUSED_RESULT;
+- (void)textFieldDidBeginEditing:(UITextField * _Nonnull)textField;
+- (BOOL)textFieldShouldBeginEditing:(UITextField * _Nonnull)textField SWIFT_WARN_UNUSED_RESULT;
+- (BOOL)textField:(UITextField * _Nonnull)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString * _Nonnull)string SWIFT_WARN_UNUSED_RESULT;
+@end
+
 @class NSAttributedString;
 
 SWIFT_CLASS("_TtC8Easebuzz19MonthYearPickerView")
@@ -661,6 +750,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _No
 @property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
 @property (nonatomic, readonly) BOOL shouldAutorotate;
 @end
+
 
 
 
