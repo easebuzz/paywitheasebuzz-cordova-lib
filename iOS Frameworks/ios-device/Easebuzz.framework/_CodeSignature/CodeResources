@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm.swiftmodule</key>
 		<data>
-		St4/Z3uMWq8UC3koplkabMMGvCY=
+		bQT0CfrmLbnOZfOiKZ2MX2kfDkE=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		p+GqQWecV3bdy5l3i9jL6DojuJk=
+		FOnOUF9/2MEMBy7KIUZ4+44wZ1o=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		p+GqQWecV3bdy5l3i9jL6DojuJk=
+		FOnOUF9/2MEMBy7KIUZ4+44wZ1o=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		St4/Z3uMWq8UC3koplkabMMGvCY=
+		bQT0CfrmLbnOZfOiKZ2MX2kfDkE=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		St4/Z3uMWq8UC3koplkabMMGvCY=
+		bQT0CfrmLbnOZfOiKZ2MX2kfDkE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -462,15 +462,15 @@
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/objects-11.0+.nib</key>
 		<data>
-		84dlgx8hVklaH+L4Yxsk1Y/WhWQ=
+		t4oJauHFTYd7AJnWeF8Wn82IYRw=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/objects-12.3+.nib</key>
 		<data>
-		84dlgx8hVklaH+L4Yxsk1Y/WhWQ=
+		t4oJauHFTYd7AJnWeF8Wn82IYRw=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/runtime.nib</key>
 		<data>
-		E2DQnT0vvYU4oM7AOuUvPzcBYJY=
+		nUg2+yhOPGpldbOA0BHypTb59vQ=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bzc-gL-nME-view-ogv-Hu-CVd.nib/objects-11.0+.nib</key>
 		<data>
@@ -804,11 +804,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			St4/Z3uMWq8UC3koplkabMMGvCY=
+			bQT0CfrmLbnOZfOiKZ2MX2kfDkE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pk4cpn15BWkQsERerXuatrXhUjD1IisFICf9/DqFSs8=
+			ojOFD8q/UgfTNA8sKJKRgkkqWqpMsplYHGPGCNPKKx0=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -837,11 +837,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p+GqQWecV3bdy5l3i9jL6DojuJk=
+			FOnOUF9/2MEMBy7KIUZ4+44wZ1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			EJaOoEJDc+mXYtRQtjHbic8rQzE4gLa7hzDFiXeTlkA=
+			bNsrNPlTGcsolpBbNY1iYlWO78kw/osuGkrg6b/Mx1M=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64.swiftdoc</key>
@@ -870,11 +870,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			p+GqQWecV3bdy5l3i9jL6DojuJk=
+			FOnOUF9/2MEMBy7KIUZ4+44wZ1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			EJaOoEJDc+mXYtRQtjHbic8rQzE4gLa7hzDFiXeTlkA=
+			bNsrNPlTGcsolpBbNY1iYlWO78kw/osuGkrg6b/Mx1M=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -903,11 +903,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			St4/Z3uMWq8UC3koplkabMMGvCY=
+			bQT0CfrmLbnOZfOiKZ2MX2kfDkE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pk4cpn15BWkQsERerXuatrXhUjD1IisFICf9/DqFSs8=
+			ojOFD8q/UgfTNA8sKJKRgkkqWqpMsplYHGPGCNPKKx0=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/armv7.swiftdoc</key>
@@ -936,11 +936,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			St4/Z3uMWq8UC3koplkabMMGvCY=
+			bQT0CfrmLbnOZfOiKZ2MX2kfDkE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pk4cpn15BWkQsERerXuatrXhUjD1IisFICf9/DqFSs8=
+			ojOFD8q/UgfTNA8sKJKRgkkqWqpMsplYHGPGCNPKKx0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1926,33 +1926,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			84dlgx8hVklaH+L4Yxsk1Y/WhWQ=
+			t4oJauHFTYd7AJnWeF8Wn82IYRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bYudoDs2wpjqi6ySSKVbVA/6gYmNMvbESMUeF53KzaA=
+			y1RnrQEYTietnSlW1TfZiOrasD4qKohcvNbpiGVGr64=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			84dlgx8hVklaH+L4Yxsk1Y/WhWQ=
+			t4oJauHFTYd7AJnWeF8Wn82IYRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			bYudoDs2wpjqi6ySSKVbVA/6gYmNMvbESMUeF53KzaA=
+			y1RnrQEYTietnSlW1TfZiOrasD4qKohcvNbpiGVGr64=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E2DQnT0vvYU4oM7AOuUvPzcBYJY=
+			nUg2+yhOPGpldbOA0BHypTb59vQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			fgqemQaWiSr8qxSriZ/2lRCgH1r/Msjh1fOe/DLsMjY=
+			hx3cpEFcqKpAPiV1hV29eWsxKenbsRjW/fUQIFalzCk=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bzc-gL-nME-view-ogv-Hu-CVd.nib/objects-11.0+.nib</key>
