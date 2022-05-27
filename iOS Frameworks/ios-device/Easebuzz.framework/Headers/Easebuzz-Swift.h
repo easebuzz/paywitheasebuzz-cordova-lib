@@ -323,6 +323,8 @@ SWIFT_CLASS("_TtC8Easebuzz15StaticDataModel")
 @interface StaticDataModel : NSObject
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull TXN_SUCCESS_CODE;)
 + (NSString * _Nonnull)TXN_SUCCESS_CODE SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull TXN_PENDING_CODE;)
++ (NSString * _Nonnull)TXN_PENDING_CODE SWIFT_WARN_UNUSED_RESULT;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull TXN_FAILED_CODE;)
 + (NSString * _Nonnull)TXN_FAILED_CODE SWIFT_WARN_UNUSED_RESULT;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull TXN_TIMEOUT_CODE;)
@@ -708,6 +710,8 @@ SWIFT_CLASS("_TtC8Easebuzz15StaticDataModel")
 @interface StaticDataModel : NSObject
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull TXN_SUCCESS_CODE;)
 + (NSString * _Nonnull)TXN_SUCCESS_CODE SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull TXN_PENDING_CODE;)
++ (NSString * _Nonnull)TXN_PENDING_CODE SWIFT_WARN_UNUSED_RESULT;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull TXN_FAILED_CODE;)
 + (NSString * _Nonnull)TXN_FAILED_CODE SWIFT_WARN_UNUSED_RESULT;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull TXN_TIMEOUT_CODE;)

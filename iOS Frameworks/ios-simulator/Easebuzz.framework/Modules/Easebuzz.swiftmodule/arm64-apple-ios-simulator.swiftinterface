@@ -80,6 +80,7 @@ extension Foundation.NSMutableURLRequest {
 }
 @_inheritsConvenienceInitializers @objc public class StaticDataModel : ObjectiveC.NSObject {
   @objc public static let TXN_SUCCESS_CODE: Swift.String
+  @objc public static let TXN_PENDING_CODE: Swift.String
   @objc public static let TXN_FAILED_CODE: Swift.String
   @objc public static let TXN_TIMEOUT_CODE: Swift.String
   @objc public static let TXN_BACKPRESSED_CODE: Swift.String
