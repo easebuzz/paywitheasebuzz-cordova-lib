@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
 // swift-module-flags: -target arm64-apple-ios10.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Easebuzz
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import Darwin
 @_exported import Easebuzz
 import Foundation
@@ -11,6 +12,7 @@ import SystemConfiguration
 import UIKit
 import WebKit
 import _Concurrency
+import _StringProcessing
 final public class SHA1 {
   public init()
   final public func calculate(for bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
@@ -257,11 +259,11 @@ extension Easebuzz.JSON {
 }
 extension Easebuzz.JSON : Swift.ExpressibleByStringLiteral {
   public init(stringLiteral value: Swift.StringLiteralType)
-  public init(extendedGraphemeClusterLiteral value: Easebuzz.JSON.StringLiteralType)
-  public init(unicodeScalarLiteral value: Easebuzz.JSON.StringLiteralType)
-  public typealias ExtendedGraphemeClusterLiteralType = Easebuzz.JSON.StringLiteralType
+  public init(extendedGraphemeClusterLiteral value: Swift.StringLiteralType)
+  public init(unicodeScalarLiteral value: Swift.StringLiteralType)
+  public typealias ExtendedGraphemeClusterLiteralType = Swift.StringLiteralType
   public typealias StringLiteralType = Swift.StringLiteralType
-  public typealias UnicodeScalarLiteralType = Easebuzz.JSON.StringLiteralType
+  public typealias UnicodeScalarLiteralType = Swift.StringLiteralType
 }
 extension Easebuzz.JSON : Swift.ExpressibleByIntegerLiteral {
   public init(integerLiteral value: Swift.IntegerLiteralType)
@@ -516,7 +518,7 @@ extension Swift.Array where Element == Swift.UInt8 {
 }
 @_inheritsConvenienceInitializers @objc(EBZDropDown) @_Concurrency.MainActor(unsafe) open class EBZDropDown : UIKit.UITextField {
   @_Concurrency.MainActor(unsafe) public var selectedIndex: Swift.Int?
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var rowHeight: CoreGraphics.CGFloat
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var rowHeight: CoreFoundation.CGFloat
   @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var rowBackgroundColor: UIKit.UIColor
   @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var selectedRowColor: UIKit.UIColor
   @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var hideOptionsWhenSelect: Swift.Bool
@@ -528,15 +530,15 @@ extension Swift.Array where Element == Swift.UInt8 {
     @objc get
     @objc set
   }
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var listHeight: CoreGraphics.CGFloat {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var listHeight: CoreFoundation.CGFloat {
     @objc get
     @objc set
   }
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var borderWidth: CoreGraphics.CGFloat {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var borderWidth: CoreFoundation.CGFloat {
     @objc get
     @objc set
   }
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var cornerRadius: CoreGraphics.CGFloat {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var cornerRadius: CoreFoundation.CGFloat {
     @objc get
     @objc set
   }
@@ -549,7 +551,7 @@ extension Swift.Array where Element == Swift.UInt8 {
     set
   }
   @_Concurrency.MainActor(unsafe) public var optionIds: [Swift.Int]?
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var arrowSize: CoreGraphics.CGFloat {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var arrowSize: CoreFoundation.CGFloat {
     @objc get
     @objc set
   }
@@ -565,7 +567,7 @@ extension Swift.Array where Element == Swift.UInt8 {
     @objc get
     @objc set
   }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init(coder aDecoder: Foundation.NSCoder)
   @objc deinit
   @_Concurrency.MainActor(unsafe) public func showList()
@@ -833,10 +835,10 @@ final public class GCM : Easebuzz.BlockMode {
 }
 extension UIKit.UINavigationController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
-    @_Concurrency.MainActor(unsafe) @objc get
+    @objc get
   }
   @_Concurrency.MainActor(unsafe) @objc override dynamic open var shouldAutorotate: Swift.Bool {
-    @_Concurrency.MainActor(unsafe) @objc get
+    @objc get
   }
 }
 extension UIKit.UIViewController {
@@ -1206,15 +1208,15 @@ extension Swift.UInt32 {
 }
 extension UIKit.UIView {
   @_Concurrency.MainActor(unsafe) public func makeToast(_ message: Swift.String?, duration: Foundation.TimeInterval = ToastManager.shared.duration, position: Easebuzz.ToastPosition = ToastManager.shared.position, title: Swift.String? = nil, image: UIKit.UIImage? = nil, style: Easebuzz.ToastStyle = ToastManager.shared.style, completion: ((_ didTap: Swift.Bool) -> Swift.Void)? = nil)
-  @_Concurrency.MainActor(unsafe) public func makeToast(_ message: Swift.String?, duration: Foundation.TimeInterval = ToastManager.shared.duration, point: CoreGraphics.CGPoint, title: Swift.String?, image: UIKit.UIImage?, style: Easebuzz.ToastStyle = ToastManager.shared.style, completion: ((_ didTap: Swift.Bool) -> Swift.Void)?)
+  @_Concurrency.MainActor(unsafe) public func makeToast(_ message: Swift.String?, duration: Foundation.TimeInterval = ToastManager.shared.duration, point: CoreFoundation.CGPoint, title: Swift.String?, image: UIKit.UIImage?, style: Easebuzz.ToastStyle = ToastManager.shared.style, completion: ((_ didTap: Swift.Bool) -> Swift.Void)?)
   @_Concurrency.MainActor(unsafe) public func showToast(_ toast: UIKit.UIView, duration: Foundation.TimeInterval = ToastManager.shared.duration, position: Easebuzz.ToastPosition = ToastManager.shared.position, completion: ((_ didTap: Swift.Bool) -> Swift.Void)? = nil)
-  @_Concurrency.MainActor(unsafe) public func showToast(_ toast: UIKit.UIView, duration: Foundation.TimeInterval = ToastManager.shared.duration, point: CoreGraphics.CGPoint, completion: ((_ didTap: Swift.Bool) -> Swift.Void)? = nil)
+  @_Concurrency.MainActor(unsafe) public func showToast(_ toast: UIKit.UIView, duration: Foundation.TimeInterval = ToastManager.shared.duration, point: CoreFoundation.CGPoint, completion: ((_ didTap: Swift.Bool) -> Swift.Void)? = nil)
   @_Concurrency.MainActor(unsafe) public func hideToast()
   @_Concurrency.MainActor(unsafe) public func hideToast(_ toast: UIKit.UIView)
   @_Concurrency.MainActor(unsafe) public func hideAllToasts(includeActivity: Swift.Bool = false, clearQueue: Swift.Bool = true)
   @_Concurrency.MainActor(unsafe) public func clearToastQueue()
   @_Concurrency.MainActor(unsafe) public func makeToastActivity(_ position: Easebuzz.ToastPosition)
-  @_Concurrency.MainActor(unsafe) public func makeToastActivity(_ point: CoreGraphics.CGPoint)
+  @_Concurrency.MainActor(unsafe) public func makeToastActivity(_ point: CoreFoundation.CGPoint)
   @_Concurrency.MainActor(unsafe) public func hideToastActivity()
   @_Concurrency.MainActor(unsafe) public func toastViewForMessage(_ message: Swift.String?, title: Swift.String?, image: UIKit.UIImage?, style: Easebuzz.ToastStyle) throws -> UIKit.UIView
 }
@@ -1223,17 +1225,17 @@ public struct ToastStyle {
   public var backgroundColor: UIKit.UIColor
   public var titleColor: UIKit.UIColor
   public var messageColor: UIKit.UIColor
-  public var maxWidthPercentage: CoreGraphics.CGFloat {
+  public var maxWidthPercentage: CoreFoundation.CGFloat {
     get
     set
   }
-  public var maxHeightPercentage: CoreGraphics.CGFloat {
+  public var maxHeightPercentage: CoreFoundation.CGFloat {
     get
     set
   }
-  public var horizontalPadding: CoreGraphics.CGFloat
-  public var verticalPadding: CoreGraphics.CGFloat
-  public var cornerRadius: CoreGraphics.CGFloat
+  public var horizontalPadding: CoreFoundation.CGFloat
+  public var verticalPadding: CoreFoundation.CGFloat
+  public var cornerRadius: CoreFoundation.CGFloat
   public var titleFont: UIKit.UIFont
   public var messageFont: UIKit.UIFont
   public var titleAlignment: UIKit.NSTextAlignment
@@ -1246,10 +1248,10 @@ public struct ToastStyle {
     get
     set
   }
-  public var shadowRadius: CoreGraphics.CGFloat
-  public var shadowOffset: CoreGraphics.CGSize
-  public var imageSize: CoreGraphics.CGSize
-  public var activitySize: CoreGraphics.CGSize
+  public var shadowRadius: CoreFoundation.CGFloat
+  public var shadowOffset: CoreFoundation.CGSize
+  public var imageSize: CoreFoundation.CGSize
+  public var activitySize: CoreFoundation.CGSize
   public var fadeDuration: Swift.Double
   public var activityIndicatorColor: UIKit.UIColor
   public var activityBackgroundColor: UIKit.UIColor
