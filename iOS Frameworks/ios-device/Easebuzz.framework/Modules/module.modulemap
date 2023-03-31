@@ -6,6 +6,6 @@ framework module Easebuzz {
 }
 
 module Easebuzz.Swift {
-  header "Easebuzz-Swift.h"
-  requires objc
+    header "Easebuzz-Swift.h"
+    requires objc
 }
