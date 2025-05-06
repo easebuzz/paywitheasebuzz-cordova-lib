@@ -6,35 +6,35 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		eSxnUlt39f5SuCxV+JHQdCI/2i8=
+		RC3uij/frYzN5LuxNj0uDr6DLpQ=
 		</data>
 		<key>BannerCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
-		Bs5nXzZ5ksljhb/K+MhRPBTwlAc=
+		Wa6oAb+3D0aS2oyizKOsupJSZFw=
 		</data>
 		<key>BannerCollectionCell.nib/runtime.nib</key>
 		<data>
-		pLR0MlDSRU3Kf5uc+L8W09vwNO0=
+		j3W5+hZvfj6mmVgS4CdTbWeAzuQ=
 		</data>
 		<key>BottomView.nib/objects-11.0+.nib</key>
 		<data>
-		aMHRwc7D+CI91Sk3BCuMfbRGvns=
+		ElBxI1VNykpD7fWMV1KIFicnGNA=
 		</data>
 		<key>BottomView.nib/runtime.nib</key>
 		<data>
-		dIzGLsZkAp0YAqJk8hk28FAMPDs=
+		92rU3eyDOC6bNrY4/7BBrUMlC3I=
 		</data>
 		<key>HeaderView.nib/objects-11.0+.nib</key>
 		<data>
-		Khhmaoyrt/2/tFocWnHXvnB+WNw=
+		R1eqXTwqOdQ+NyM7YVnNEVBV4ZU=
 		</data>
 		<key>HeaderView.nib/runtime.nib</key>
 		<data>
-		FXidE600xaOJO3opyNqETXvxroE=
+		rRuKu1LGjOPB3RTDVBPBy10TMA0=
 		</data>
 		<key>Headers/Easebuzz-Swift.h</key>
 		<data>
-		fnZ1Nt8qSxnBT1vcxjRbzMHUyHg=
+		GZMHy0KHqkU144I/3mjG1cIrf9Y=
 		</data>
 		<key>Headers/Easebuzz.h</key>
 		<data>
@@ -42,119 +42,115 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZnAT8GgUS5EU1KU5/vnHbyouVDE=
+		olEVlaiXpMVwqYxKWCy7WW2GBWY=
+		</data>
+		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		k9/tX/WZCrlfHQlt7uDjNsuPys8=
+		</data>
+		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		pBw7g9gLgZ+kBoKPC9occ/URR1Y=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		IZ0EfrCabv7vT7NtRn8jw9oTJgQ=
+		yY3Cn2d7UdU5HRIgJ/iyNf0StoM=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		HSvEo0jWheBA07ShwFG+gHLYOEE=
+		pBw7g9gLgZ+kBoKPC9occ/URR1Y=
 		</data>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		mFXZQsW9RjbpXxVe1OcwHtLmGU0=
-		</data>
-		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<data>
-		9a6uUlOtAHt8rRq2Lc3CcYAGkzY=
-		</data>
-		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftinterface</key>
-		<data>
-		O/fsRbUcftUONoBCOfSNDeNnufk=
-		</data>
-		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<data>
-		q8M1OQcrVOBwMbZl8T4bZHoCTD4=
+		XxAbyJrv++aIq+Qg9wEXFS5Fisk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		0GlgRiy9JfFxqyWotS5vuU8n1dY=
+		A7+wM+Y8TjUrWWhV5lxbrf7nc2U=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/objects-11.0+.nib</key>
 		<data>
-		6rgvGbYFMHUjEWF+7X8cEYDUJxk=
+		h85bjhiNoq1dFxXwOLgp7SCVidY=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/objects-12.3+.nib</key>
 		<data>
-		6rgvGbYFMHUjEWF+7X8cEYDUJxk=
+		h85bjhiNoq1dFxXwOLgp7SCVidY=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/runtime.nib</key>
 		<data>
-		QyZsl5/XxPmTIaYaOvipA6m3RbQ=
+		qLnxjqvKV3CVWgp144xxUk5KIPU=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/4gl-3j-4rN-view-n0b-ve-Y5w.nib/objects-11.0+.nib</key>
 		<data>
-		bjl6NONXtnUDWVLU3nlWVT455Yg=
+		i4ml82dD8O0fRxhR396X7NiTl4w=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/4gl-3j-4rN-view-n0b-ve-Y5w.nib/objects-12.3+.nib</key>
 		<data>
-		bjl6NONXtnUDWVLU3nlWVT455Yg=
+		i4ml82dD8O0fRxhR396X7NiTl4w=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/4gl-3j-4rN-view-n0b-ve-Y5w.nib/runtime.nib</key>
 		<data>
-		04AyRlWaDe4AzFUuQxHjDzcjumI=
+		mUBeHmT1SfcJSEzg3qw4EhshaMA=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/B0O-Dh-VTI-view-Tug-z7-TTi.nib/objects-11.0+.nib</key>
 		<data>
-		K9Ea2CZEeZE0QoxTmShEhn6gzdw=
+		QOk732HEzyO6UqnfAS3jzYv1HsE=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/B0O-Dh-VTI-view-Tug-z7-TTi.nib/objects-12.3+.nib</key>
 		<data>
-		K9Ea2CZEeZE0QoxTmShEhn6gzdw=
+		QOk732HEzyO6UqnfAS3jzYv1HsE=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/B0O-Dh-VTI-view-Tug-z7-TTi.nib/runtime.nib</key>
 		<data>
-		Vu0hJojFLs+9nWhwqCL5tLFBVXE=
+		MBbUNoudw+IR7kxuMFlxhb+vDiY=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/objects-11.0+.nib</key>
 		<data>
-		9dYMmAjRltpKJEDBBsXKHJXwgXA=
+		Ur42Eo+su7GqJ8IvFzvbNAwyyTE=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/objects-12.3+.nib</key>
 		<data>
-		9dYMmAjRltpKJEDBBsXKHJXwgXA=
+		Ur42Eo+su7GqJ8IvFzvbNAwyyTE=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/runtime.nib</key>
 		<data>
-		jkfZIkaehUtNKqQ9Btz9Ir4iCAo=
+		Dw+rJJfg0wDRDNZSybdQ+li/sF8=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BzI-O3-bl8-view-hU1-rk-f1L.nib/objects-11.0+.nib</key>
 		<data>
-		8BmBNFEnzmuRQviF3rqvOFXk5rk=
+		GXmz0nlTNeQJlHQDC7LUlJL7tcg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BzI-O3-bl8-view-hU1-rk-f1L.nib/objects-12.3+.nib</key>
 		<data>
-		8BmBNFEnzmuRQviF3rqvOFXk5rk=
+		GXmz0nlTNeQJlHQDC7LUlJL7tcg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/BzI-O3-bl8-view-hU1-rk-f1L.nib/runtime.nib</key>
 		<data>
-		KyFHpfxNV9ohYZLt1icgY2Q+Pek=
+		gaXkwbdPy+HVnOfIluVLqJCzu3k=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CardView.nib/objects-11.0+.nib</key>
 		<data>
-		C/lOHXnLRhXwr4YOUmTTer4lbpQ=
+		bPGO+HqIoJVbRmJrF9xDYmpQsiQ=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CardView.nib/objects-12.3+.nib</key>
 		<data>
-		C/lOHXnLRhXwr4YOUmTTer4lbpQ=
+		bPGO+HqIoJVbRmJrF9xDYmpQsiQ=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CardView.nib/runtime.nib</key>
 		<data>
-		C/lOHXnLRhXwr4YOUmTTer4lbpQ=
+		bPGO+HqIoJVbRmJrF9xDYmpQsiQ=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CouponDetails.nib/objects-11.0+.nib</key>
 		<data>
-		1CdeuStruTO9UTa/zh28ycbw140=
+		R89BHOw0t3BB5IfvUFIzAQ1K4nM=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CouponDetails.nib/objects-12.3+.nib</key>
 		<data>
-		1CdeuStruTO9UTa/zh28ycbw140=
+		R89BHOw0t3BB5IfvUFIzAQ1K4nM=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CouponDetails.nib/runtime.nib</key>
 		<data>
-		1CdeuStruTO9UTa/zh28ycbw140=
+		R89BHOw0t3BB5IfvUFIzAQ1K4nM=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CouponViewController.nib/objects-11.0+.nib</key>
 		<data>
@@ -170,39 +166,39 @@
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CustomAlertViewController.nib/objects-11.0+.nib</key>
 		<data>
-		hTiy4vs5U+RqtXeC+eqyLsi6qIg=
+		L2dsP7Qe+HHEWaF8esFHjAtg148=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CustomAlertViewController.nib/objects-12.3+.nib</key>
 		<data>
-		hTiy4vs5U+RqtXeC+eqyLsi6qIg=
+		L2dsP7Qe+HHEWaF8esFHjAtg148=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/CustomAlertViewController.nib/runtime.nib</key>
 		<data>
-		hTiy4vs5U+RqtXeC+eqyLsi6qIg=
+		L2dsP7Qe+HHEWaF8esFHjAtg148=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/DfZ-ka-9P4-view-uaF-Xx-sEp.nib/objects-11.0+.nib</key>
 		<data>
-		ozOTDjqbmY+yF2o0gtuPXY8FyAE=
+		QNT6DNvJk6M6AGcrjMniwSyVp+g=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/DfZ-ka-9P4-view-uaF-Xx-sEp.nib/objects-12.3+.nib</key>
 		<data>
-		ozOTDjqbmY+yF2o0gtuPXY8FyAE=
+		QNT6DNvJk6M6AGcrjMniwSyVp+g=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/DfZ-ka-9P4-view-uaF-Xx-sEp.nib/runtime.nib</key>
 		<data>
-		7WbzsRiJORnUwckAf5T8t525USs=
+		W5QdhmDhvPAOoML7JXu3v/jcc+g=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/DiscountListViewController.nib/objects-11.0+.nib</key>
 		<data>
-		icEPoJq2Te2dQSv1woflr5gOoQA=
+		uQ0HL4zpr/cogohstW9z9UbyAh4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/DiscountListViewController.nib/objects-12.3+.nib</key>
 		<data>
-		icEPoJq2Te2dQSv1woflr5gOoQA=
+		uQ0HL4zpr/cogohstW9z9UbyAh4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/DiscountListViewController.nib/runtime.nib</key>
 		<data>
-		icEPoJq2Te2dQSv1woflr5gOoQA=
+		uQ0HL4zpr/cogohstW9z9UbyAh4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/DiscountViewController.nib/objects-11.0+.nib</key>
 		<data>
@@ -270,135 +266,135 @@
 		</data>
 		<key>PayWithEasebuzz.storyboardc/LPO-Tn-aog-view-dXv-kS-9Ho.nib/objects-11.0+.nib</key>
 		<data>
-		hQJmG+dqk9dmNtZosvyJf/fRqb8=
+		iTt+GYggn4Sha1Xl1rfVwvNs/yM=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/LPO-Tn-aog-view-dXv-kS-9Ho.nib/objects-12.3+.nib</key>
 		<data>
-		hQJmG+dqk9dmNtZosvyJf/fRqb8=
+		iTt+GYggn4Sha1Xl1rfVwvNs/yM=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/LPO-Tn-aog-view-dXv-kS-9Ho.nib/runtime.nib</key>
 		<data>
-		7g2LR5r6wPfYwn9BTzmfdheTu8c=
+		Dkv0C1YwurE3nUcZQHVYgKF0Xyg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/ListOptionsView.nib/objects-11.0+.nib</key>
 		<data>
-		viRVMd2uGQ7e1D9ZEngGPgFQUFM=
+		5xaExTfuY+Po0LsKnTvNX6btQtk=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/ListOptionsView.nib/objects-12.3+.nib</key>
 		<data>
-		viRVMd2uGQ7e1D9ZEngGPgFQUFM=
+		5xaExTfuY+Po0LsKnTvNX6btQtk=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/ListOptionsView.nib/runtime.nib</key>
 		<data>
-		viRVMd2uGQ7e1D9ZEngGPgFQUFM=
+		5xaExTfuY+Po0LsKnTvNX6btQtk=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/MessageView.nib/objects-11.0+.nib</key>
 		<data>
-		YwFe26apS9+IkPAcM/tBlGHtU2w=
+		C9+xiYKXe/X2Afm/FmXG0/VatMI=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/MessageView.nib/objects-12.3+.nib</key>
 		<data>
-		YwFe26apS9+IkPAcM/tBlGHtU2w=
+		C9+xiYKXe/X2Afm/FmXG0/VatMI=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/MessageView.nib/runtime.nib</key>
 		<data>
-		YwFe26apS9+IkPAcM/tBlGHtU2w=
+		C9+xiYKXe/X2Afm/FmXG0/VatMI=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/OlaView.nib/objects-11.0+.nib</key>
 		<data>
-		nYrhbYiF1hZkDp7vXJRvJlfoaIU=
+		hFsjJ+Ok1rha/r440Z3EIgWvcic=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/OlaView.nib/objects-12.3+.nib</key>
 		<data>
-		nYrhbYiF1hZkDp7vXJRvJlfoaIU=
+		hFsjJ+Ok1rha/r440Z3EIgWvcic=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/OlaView.nib/runtime.nib</key>
 		<data>
-		nYrhbYiF1hZkDp7vXJRvJlfoaIU=
+		hFsjJ+Ok1rha/r440Z3EIgWvcic=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/PEBViewController.nib/objects-11.0+.nib</key>
 		<data>
-		QodxM1MsPZkf90vHEZQeNFZjZLs=
+		O7DHTzdXZp8/7p2A57MlUJExUYg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/PEBViewController.nib/objects-12.3+.nib</key>
 		<data>
-		QodxM1MsPZkf90vHEZQeNFZjZLs=
+		O7DHTzdXZp8/7p2A57MlUJExUYg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/PEBViewController.nib/runtime.nib</key>
 		<data>
-		QodxM1MsPZkf90vHEZQeNFZjZLs=
+		O7DHTzdXZp8/7p2A57MlUJExUYg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/PaymentOptionsView.nib/objects-11.0+.nib</key>
 		<data>
-		BTRLqPaDH99tpdPEohc6LOOPjx8=
+		ZcPUt4ffEXWDjctCVTGJetnokho=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/PaymentOptionsView.nib/objects-12.3+.nib</key>
 		<data>
-		BTRLqPaDH99tpdPEohc6LOOPjx8=
+		ZcPUt4ffEXWDjctCVTGJetnokho=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/PaymentOptionsView.nib/runtime.nib</key>
 		<data>
-		BTRLqPaDH99tpdPEohc6LOOPjx8=
+		ZcPUt4ffEXWDjctCVTGJetnokho=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/SaveCardsViewController.nib/objects-11.0+.nib</key>
 		<data>
-		m7Fkjw3uQ8j8iXuzh38u3LpNo/4=
+		t9a/dNf04M7y8UbceHVYmtiKUPE=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/SaveCardsViewController.nib/objects-12.3+.nib</key>
 		<data>
-		m7Fkjw3uQ8j8iXuzh38u3LpNo/4=
+		t9a/dNf04M7y8UbceHVYmtiKUPE=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/SaveCardsViewController.nib/runtime.nib</key>
 		<data>
-		m7Fkjw3uQ8j8iXuzh38u3LpNo/4=
+		t9a/dNf04M7y8UbceHVYmtiKUPE=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/SimplView.nib/objects-11.0+.nib</key>
 		<data>
-		i7HOrAvJod4JBaARsB7g7h3JkCY=
+		ZD9V2S6IveRF2lEhsKn1xlt8z6A=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/SimplView.nib/objects-12.3+.nib</key>
 		<data>
-		i7HOrAvJod4JBaARsB7g7h3JkCY=
+		ZD9V2S6IveRF2lEhsKn1xlt8z6A=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/SimplView.nib/runtime.nib</key>
 		<data>
-		i7HOrAvJod4JBaARsB7g7h3JkCY=
+		ZD9V2S6IveRF2lEhsKn1xlt8z6A=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/UPIPaymentView.nib/objects-11.0+.nib</key>
 		<data>
-		uM8JdeVm7JDS9eOAQ3xfxJpyQzU=
+		+X04wDg4NUBJb6/XOMZch0/s8qY=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/UPIPaymentView.nib/objects-12.3+.nib</key>
 		<data>
-		uM8JdeVm7JDS9eOAQ3xfxJpyQzU=
+		+X04wDg4NUBJb6/XOMZch0/s8qY=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/UPIPaymentView.nib/runtime.nib</key>
 		<data>
-		uM8JdeVm7JDS9eOAQ3xfxJpyQzU=
+		+X04wDg4NUBJb6/XOMZch0/s8qY=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/UPIView.nib/objects-11.0+.nib</key>
 		<data>
-		OEGdrCQX1Z3UhjlyThsC8rTMUmk=
+		mSxwFrUgNAImjc7xiaor16drKNU=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/UPIView.nib/objects-12.3+.nib</key>
 		<data>
-		OEGdrCQX1Z3UhjlyThsC8rTMUmk=
+		mSxwFrUgNAImjc7xiaor16drKNU=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/UPIView.nib/runtime.nib</key>
 		<data>
-		OEGdrCQX1Z3UhjlyThsC8rTMUmk=
+		mSxwFrUgNAImjc7xiaor16drKNU=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/WLm-x9-20J-view-UrL-QZ-1uD.nib/objects-11.0+.nib</key>
 		<data>
-		jM9GnIx5JAzY5CfqSc03lspC5XE=
+		mt/Vj6EO1X2fZ+vCYV0sydPPKlo=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/WLm-x9-20J-view-UrL-QZ-1uD.nib/objects-12.3+.nib</key>
 		<data>
-		jM9GnIx5JAzY5CfqSc03lspC5XE=
+		mt/Vj6EO1X2fZ+vCYV0sydPPKlo=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/WLm-x9-20J-view-UrL-QZ-1uD.nib/runtime.nib</key>
 		<data>
-		tkqN3HMXJNgCIltkIoFpcw1KuFM=
+		HMrKItwUYBiK2nsKqJKCByezl/s=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/WalletPinViewController.nib/objects-11.0+.nib</key>
 		<data>
@@ -414,207 +410,207 @@
 		</data>
 		<key>PayWithEasebuzz.storyboardc/WebPaymentViewController.nib/objects-11.0+.nib</key>
 		<data>
-		LTE7/n9rVoSFaMmiFTis3LkDokk=
+		lo5jiCqw9ga8tPL6/f/u6rdAOa4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/WebPaymentViewController.nib/objects-12.3+.nib</key>
 		<data>
-		LTE7/n9rVoSFaMmiFTis3LkDokk=
+		lo5jiCqw9ga8tPL6/f/u6rdAOa4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/WebPaymentViewController.nib/runtime.nib</key>
 		<data>
-		LTE7/n9rVoSFaMmiFTis3LkDokk=
+		lo5jiCqw9ga8tPL6/f/u6rdAOa4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/YlX-Iz-ihc-view-TvO-Az-Bg6.nib/objects-11.0+.nib</key>
 		<data>
-		d/iEWTNHDEW3MJNl0712yH8PNgU=
+		ppd0x5l13CJGW+fesFQlQOtcpq8=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/YlX-Iz-ihc-view-TvO-Az-Bg6.nib/objects-12.3+.nib</key>
 		<data>
-		KtFczb2bAH0cR24G7j3vSTxl6Ek=
+		sMniK79ehQ8SPNqA6v8vQuo4TgA=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/YlX-Iz-ihc-view-TvO-Az-Bg6.nib/runtime.nib</key>
 		<data>
-		a7BA7bssBtDiNpBLNv0P8wNyoOU=
+		IbtFoZJOq6fGCD1HaflpDs0Ic4c=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/a1W-f4-QHv-view-Xlp-q7-5ce.nib/objects-11.0+.nib</key>
 		<data>
-		9m+xpOzbs6+/nytK7ruVe4ERK3g=
+		LgFTPCajCKRdRq16WpBtW8h7tFo=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/a1W-f4-QHv-view-Xlp-q7-5ce.nib/objects-12.3+.nib</key>
 		<data>
-		9m+xpOzbs6+/nytK7ruVe4ERK3g=
+		LgFTPCajCKRdRq16WpBtW8h7tFo=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/a1W-f4-QHv-view-Xlp-q7-5ce.nib/runtime.nib</key>
 		<data>
-		USRVkUdoWo9KdQ1w0qYtg7Fr+kU=
+		wyjUubtwmhGF5K34o4FNNbkcJTw=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/objects-11.0+.nib</key>
 		<data>
-		4kex8pA1Z04chFffaYOquE4ff+I=
+		Ekk0bCgSA3pOVbMszy2XwCXmulQ=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/objects-12.3+.nib</key>
 		<data>
-		4kex8pA1Z04chFffaYOquE4ff+I=
+		Ekk0bCgSA3pOVbMszy2XwCXmulQ=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/runtime.nib</key>
 		<data>
-		8rq5MD3Tw999Xmy2a6UerB0tG5I=
+		mpbic118UGakRlaqWsOhgwudvx4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bzc-gL-nME-view-ogv-Hu-CVd.nib/objects-11.0+.nib</key>
 		<data>
-		Frxkl6hYKmUfYjA4cTp0JCmnCM4=
+		LgoRMtxj9ypomp4IFrur5H3jKNs=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bzc-gL-nME-view-ogv-Hu-CVd.nib/objects-12.3+.nib</key>
 		<data>
-		Frxkl6hYKmUfYjA4cTp0JCmnCM4=
+		LgoRMtxj9ypomp4IFrur5H3jKNs=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/bzc-gL-nME-view-ogv-Hu-CVd.nib/runtime.nib</key>
 		<data>
-		X1kRgVnXrN9mqPF0tXSdS/tZsUk=
+		2hspstAfh0ATosnOexosnt7Zodg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/c5T-pb-1D7-view-XEt-lO-lS2.nib/objects-11.0+.nib</key>
 		<data>
-		159VlVn/F1pniqijaUT68de2Q6U=
+		+mS7IAsHPvjiQPxmq4qnEDNEf7Q=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/c5T-pb-1D7-view-XEt-lO-lS2.nib/objects-12.3+.nib</key>
 		<data>
-		159VlVn/F1pniqijaUT68de2Q6U=
+		+mS7IAsHPvjiQPxmq4qnEDNEf7Q=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/c5T-pb-1D7-view-XEt-lO-lS2.nib/runtime.nib</key>
 		<data>
-		rl7y5xxBvGEeeZE6s1cI9CoJ964=
+		nGJaAx+ZCDUFJ7SF6/UWM8aP0p4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/gGQ-o3-zTp-view-WkJ-vW-0TT.nib/objects-11.0+.nib</key>
 		<data>
-		vxejcjk+RDRz7Zh6YtHnZ+BQpgc=
+		+W0i0o04DodhT20Dm0NtCxZz1Pg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/gGQ-o3-zTp-view-WkJ-vW-0TT.nib/objects-12.3+.nib</key>
 		<data>
-		vxejcjk+RDRz7Zh6YtHnZ+BQpgc=
+		+W0i0o04DodhT20Dm0NtCxZz1Pg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/gGQ-o3-zTp-view-WkJ-vW-0TT.nib/runtime.nib</key>
 		<data>
-		Gvf/PlWSW+n+YeeyvkgS6uaL5u0=
+		AcL84qVJTJkKyN+q3kb2jLFJRIc=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/lmc-oX-qF4-view-GvV-wc-LL5.nib/objects-11.0+.nib</key>
 		<data>
-		OrIWqmSUtP/wx6PTSNziIUECrk4=
+		5KKaMQXbw7SaIUICnIW7pUQXBjc=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/lmc-oX-qF4-view-GvV-wc-LL5.nib/objects-12.3+.nib</key>
 		<data>
-		OrIWqmSUtP/wx6PTSNziIUECrk4=
+		5KKaMQXbw7SaIUICnIW7pUQXBjc=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/lmc-oX-qF4-view-GvV-wc-LL5.nib/runtime.nib</key>
 		<data>
-		kAKVw6szHTODevVZFbnc5LYhu8o=
+		/j1dDBLxpYpScCJaOXkWd/ZWlgc=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/mAt-0W-H28-view-vhK-cl-yqc.nib/objects-11.0+.nib</key>
 		<data>
-		CdekqpknFM6bUDKr4bP/qZWgO6A=
+		eNNUZOvN4VD4Yln3gNW+6LvvCoQ=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/mAt-0W-H28-view-vhK-cl-yqc.nib/objects-12.3+.nib</key>
 		<data>
-		CdekqpknFM6bUDKr4bP/qZWgO6A=
+		eNNUZOvN4VD4Yln3gNW+6LvvCoQ=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/mAt-0W-H28-view-vhK-cl-yqc.nib/runtime.nib</key>
 		<data>
-		49EU89D1EOZvgPe4Y5JS1uM6ei0=
+		U3OHhIqULcpnokbFyQIpRDK/O2U=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/nav.nib/objects-11.0+.nib</key>
 		<data>
-		tDQgchEKsEDWNHdVlRPoBXiM62c=
+		e7E8yU8iRCiL8J3zl7KchXrMQ1M=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/nav.nib/objects-12.3+.nib</key>
 		<data>
-		tDQgchEKsEDWNHdVlRPoBXiM62c=
+		e7E8yU8iRCiL8J3zl7KchXrMQ1M=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/nav.nib/runtime.nib</key>
 		<data>
-		tDQgchEKsEDWNHdVlRPoBXiM62c=
+		e7E8yU8iRCiL8J3zl7KchXrMQ1M=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/q5E-kD-obO-view-4VZ-Kx-7xN.nib/objects-11.0+.nib</key>
 		<data>
-		buHXQ0irOJMJ0opKlEQ625Akpfo=
+		BQnVe9T1kzO5AHJ+IR2AmI9tHLg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/q5E-kD-obO-view-4VZ-Kx-7xN.nib/objects-12.3+.nib</key>
 		<data>
-		buHXQ0irOJMJ0opKlEQ625Akpfo=
+		BQnVe9T1kzO5AHJ+IR2AmI9tHLg=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/q5E-kD-obO-view-4VZ-Kx-7xN.nib/runtime.nib</key>
 		<data>
-		8UpRCzaaSxdQwcbXz9hDCxyiq7A=
+		naZxDyRhA5HoMPn2mlJfD8yGONE=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/sessionExpireView.nib/objects-11.0+.nib</key>
 		<data>
-		BAIR4hvK2WiQ81i/1GjxtLA4KF4=
+		9sSdw+JhHWjEpIMuva+YtoLplpI=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/sessionExpireView.nib/objects-12.3+.nib</key>
 		<data>
-		BAIR4hvK2WiQ81i/1GjxtLA4KF4=
+		9sSdw+JhHWjEpIMuva+YtoLplpI=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/sessionExpireView.nib/runtime.nib</key>
 		<data>
-		BAIR4hvK2WiQ81i/1GjxtLA4KF4=
+		9sSdw+JhHWjEpIMuva+YtoLplpI=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/si6-5u-qw0-view-wxQ-eO-4bc.nib/objects-11.0+.nib</key>
 		<data>
-		dM8g5NZDtsxZ+jfQ299lcSeoIv8=
+		YcMzbqGOLI3j5VxzUX8rkZuOsbs=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/si6-5u-qw0-view-wxQ-eO-4bc.nib/objects-12.3+.nib</key>
 		<data>
-		dM8g5NZDtsxZ+jfQ299lcSeoIv8=
+		YcMzbqGOLI3j5VxzUX8rkZuOsbs=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/si6-5u-qw0-view-wxQ-eO-4bc.nib/runtime.nib</key>
 		<data>
-		FjF1vjR8j96jPYyIEZq8cUbNXpU=
+		MFhpWY7QAqyYKZJhV2S+Sj6RGwo=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/v0z-3T-YhL-view-oC7-CZ-NiZ.nib/objects-11.0+.nib</key>
 		<data>
-		CC8GcP1JZXPzlc4yFrSXIqz45gc=
+		VYnLDYmukAGm/4i9jtDmsKAuoL0=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/v0z-3T-YhL-view-oC7-CZ-NiZ.nib/objects-12.3+.nib</key>
 		<data>
-		a0JHUOUQsCXPxD0SF8BVjhX5LUk=
+		pPfPd/Q2ro5PM5M3R9JrHnSbw4c=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/v0z-3T-YhL-view-oC7-CZ-NiZ.nib/runtime.nib</key>
 		<data>
-		NKgrv85Zq4L+zeiVuqOu0lOYaak=
+		Ix+NyDMhtoQSEl++lpTBX9FGmq8=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/z8P-jt-53g-view-9bO-Ha-Vtr.nib/objects-11.0+.nib</key>
 		<data>
-		FcBYOZrYx/WHCLNosduz4AIIzu0=
+		mIZddvvYd6/Ht3Af0SKiqzZN/eY=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/z8P-jt-53g-view-9bO-Ha-Vtr.nib/objects-12.3+.nib</key>
 		<data>
-		FcBYOZrYx/WHCLNosduz4AIIzu0=
+		mIZddvvYd6/Ht3Af0SKiqzZN/eY=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/z8P-jt-53g-view-9bO-Ha-Vtr.nib/runtime.nib</key>
 		<data>
-		7WSJ2pwT4pZ791FsLMHU6KoJLeQ=
+		qvL+FfKpFCyZRSJWZ+t22x6ub7M=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/zaw-1w-8Fm-view-WDW-sB-NcR.nib/objects-11.0+.nib</key>
 		<data>
-		6e1bIuneK5A/WUQwyqCewxeyPaw=
+		m80uFXFlIghQ9eu/gO9vcEMsdh4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/zaw-1w-8Fm-view-WDW-sB-NcR.nib/objects-12.3+.nib</key>
 		<data>
-		6e1bIuneK5A/WUQwyqCewxeyPaw=
+		m80uFXFlIghQ9eu/gO9vcEMsdh4=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/zaw-1w-8Fm-view-WDW-sB-NcR.nib/runtime.nib</key>
 		<data>
-		9nW8bBxe0rv7Wie0s7yfRgUtp1E=
+		kMFsVHFBiLDxZCEAdWGwl6fEpbw=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/zpm-fT-cXF-view-aUe-3P-F9z.nib/objects-11.0+.nib</key>
 		<data>
-		vWOaTWoPgxZZXEkHm6RtPK+b6sY=
+		XuM1GXlsjgkOJ5hDQX5SzYicA1Y=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/zpm-fT-cXF-view-aUe-3P-F9z.nib/objects-12.3+.nib</key>
 		<data>
-		vWOaTWoPgxZZXEkHm6RtPK+b6sY=
+		XuM1GXlsjgkOJ5hDQX5SzYicA1Y=
 		</data>
 		<key>PayWithEasebuzz.storyboardc/zpm-fT-cXF-view-aUe-3P-F9z.nib/runtime.nib</key>
 		<data>
-		KnpVyd5MKcKoSUHbeHinKxlwRmQ=
+		q8EA4AzHNWCoF+z8d7jUeNw5gjk=
 		</data>
 		<key>bit_ssl.jpg</key>
 		<data>
@@ -671,88 +667,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eSxnUlt39f5SuCxV+JHQdCI/2i8=
+			RC3uij/frYzN5LuxNj0uDr6DLpQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			bVSGZlgoS0DXdjuDEOvxEpYoKAgR7eZpAGWl+l9CHVU=
+			m89MNmJZv7VjmQSejrFtXxSSlrwLa3kksMniaUSKml4=
 			</data>
 		</dict>
 		<key>BannerCollectionCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bs5nXzZ5ksljhb/K+MhRPBTwlAc=
+			Wa6oAb+3D0aS2oyizKOsupJSZFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			8Rw4+S3H/RYzOot8hMDxnn6ZQVddmwiGYfkczLnhqmA=
+			ToDCxH3Q9KMoc4tfM9LsIkj8zR3eYXcayuT0QdNciig=
 			</data>
 		</dict>
 		<key>BannerCollectionCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pLR0MlDSRU3Kf5uc+L8W09vwNO0=
+			j3W5+hZvfj6mmVgS4CdTbWeAzuQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			4zjbhG7nglbRz1PlY4JmF9NOKtBFsprtyyQZ6EIKH9o=
+			uCepDH/NqZoGymv/JC5fqdzpS7opwVam2s/AnuJwerA=
 			</data>
 		</dict>
 		<key>BottomView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aMHRwc7D+CI91Sk3BCuMfbRGvns=
+			ElBxI1VNykpD7fWMV1KIFicnGNA=
 			</data>
 			<key>hash2</key>
 			<data>
-			cHqryzGcAWdjp6uzxvKUOO+gBIR2g488Y7L5zUnEa9U=
+			onTabJLtPSe72sJcF3upoM1IiaiSESJN0+iR6CnzgWU=
 			</data>
 		</dict>
 		<key>BottomView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dIzGLsZkAp0YAqJk8hk28FAMPDs=
+			92rU3eyDOC6bNrY4/7BBrUMlC3I=
 			</data>
 			<key>hash2</key>
 			<data>
-			7WRULR2+GjIiJUQtmY6O1U85zF7JQVco4NHnUJwrRiM=
+			qZffGm7M4TgfIoFal3522myR+mVnMqoBO2MkNMed/qo=
 			</data>
 		</dict>
 		<key>HeaderView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Khhmaoyrt/2/tFocWnHXvnB+WNw=
+			R1eqXTwqOdQ+NyM7YVnNEVBV4ZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			2sMom0DinpqAFkNIentqVcAK+ZtpFugCTh6gBA+y0mU=
+			ztxx/yzs0JEzW9Gs2RLuhtrkVV+BIXGzWqvFETERmSk=
 			</data>
 		</dict>
 		<key>HeaderView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FXidE600xaOJO3opyNqETXvxroE=
+			rRuKu1LGjOPB3RTDVBPBy10TMA0=
 			</data>
 			<key>hash2</key>
 			<data>
-			lSJQ+3ckzWoMXlvdWb5nn4nZJdDvjpix31zmJLUzXQI=
+			jbFIXoUG8FLocP2aHW1JWd/wTaX66J5Pxf7hBMyhKIY=
 			</data>
 		</dict>
 		<key>Headers/Easebuzz-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fnZ1Nt8qSxnBT1vcxjRbzMHUyHg=
+			GZMHy0KHqkU144I/3mjG1cIrf9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			ff9SzDR3WLnNxl17liVbF7NyNxBdc8hGj70PagzJzBI=
+			OMF9OwkqILcgLJW09FiIe8wo/73oUwjRkjjrrcbt0t0=
 			</data>
 		</dict>
 		<key>Headers/Easebuzz.h</key>
@@ -766,312 +762,301 @@
 			Jh8oLw8pBiVBgfCxFx0QL2SxWoYqj1ujllGEgkMWvOY=
 			</data>
 		</dict>
+		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k9/tX/WZCrlfHQlt7uDjNsuPys8=
+			</data>
+			<key>hash2</key>
+			<data>
+			btaMatRzQb6IkmCfDG2ZflPJrYiFxIbrsTmAywufGjA=
+			</data>
+		</dict>
+		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pBw7g9gLgZ+kBoKPC9occ/URR1Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			DtcJxzr5P/lzKP3k/ltpTWdBMO+/QXAH7ZBCUneoWtE=
+			</data>
+		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IZ0EfrCabv7vT7NtRn8jw9oTJgQ=
+			yY3Cn2d7UdU5HRIgJ/iyNf0StoM=
 			</data>
 			<key>hash2</key>
 			<data>
-			e9Ic02pIruNjH5obuPj7AgCR0A+mJCOpsxLChW3MTlU=
+			GcwMChCXR1+VsInM/5LYmgQoPPylscHI334LT9/uJr4=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HSvEo0jWheBA07ShwFG+gHLYOEE=
+			pBw7g9gLgZ+kBoKPC9occ/URR1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			ecFBE0IOPPuDsOiZ4pYcfXhhnaLrDMpsefDwD0rOtH8=
+			DtcJxzr5P/lzKP3k/ltpTWdBMO+/QXAH7ZBCUneoWtE=
 			</data>
 		</dict>
 		<key>Modules/Easebuzz.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mFXZQsW9RjbpXxVe1OcwHtLmGU0=
+			XxAbyJrv++aIq+Qg9wEXFS5Fisk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Dr5prYwffcB2U4tTFBZe+UJ5qwNvsHI4gnt6N7JtUIs=
-			</data>
-		</dict>
-		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9a6uUlOtAHt8rRq2Lc3CcYAGkzY=
-			</data>
-			<key>hash2</key>
-			<data>
-			mOjGV4SLC1Ftb1hzXVkNRR91vP4V4AEsVflfbk+xuQw=
-			</data>
-		</dict>
-		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			O/fsRbUcftUONoBCOfSNDeNnufk=
-			</data>
-			<key>hash2</key>
-			<data>
-			crEpU1X6w3VJTSiteG6QhP24hP2heA1IjmmV8L4+Qkw=
-			</data>
-		</dict>
-		<key>Modules/Easebuzz.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q8M1OQcrVOBwMbZl8T4bZHoCTD4=
-			</data>
-			<key>hash2</key>
-			<data>
-			OL2DlD52B1exZ1czKmjZ22O4PhTlP0IKu5o6hp1+NnU=
+			g+n/hpQ9vO8CkPFrzaLisVUoOJiWBbiBDZzjSf3GKzA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0GlgRiy9JfFxqyWotS5vuU8n1dY=
+			A7+wM+Y8TjUrWWhV5lxbrf7nc2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			hqcLEhtpIS2xA6/J2KUHnSHf+6gPPOnAl2VqkkM7TRY=
+			adNMtDYxTBghiE5aujrL0FlSSD5P4fsvBRPogTz8KvA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6rgvGbYFMHUjEWF+7X8cEYDUJxk=
+			h85bjhiNoq1dFxXwOLgp7SCVidY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ak2lI1MCgqGu9+IdP/O4umCZJf5HrfjYQLg+cgKMDmU=
+			SQk7koOEnJUNT/K91lEhg9pBZwdM7L/xDw5snCiu9KE=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6rgvGbYFMHUjEWF+7X8cEYDUJxk=
+			h85bjhiNoq1dFxXwOLgp7SCVidY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ak2lI1MCgqGu9+IdP/O4umCZJf5HrfjYQLg+cgKMDmU=
+			SQk7koOEnJUNT/K91lEhg9pBZwdM7L/xDw5snCiu9KE=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/2Hb-Cz-TTW-view-X2i-VU-FLs.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QyZsl5/XxPmTIaYaOvipA6m3RbQ=
+			qLnxjqvKV3CVWgp144xxUk5KIPU=
 			</data>
 			<key>hash2</key>
 			<data>
-			1RjmPCyaJ++GEuBobyUgB8/AI+OlUuVrSLSvlNPw5sc=
+			mAqN+aQFC1CDiFG528tkWlLSCqWyw5BpJ1NDxKpsLK0=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/4gl-3j-4rN-view-n0b-ve-Y5w.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bjl6NONXtnUDWVLU3nlWVT455Yg=
+			i4ml82dD8O0fRxhR396X7NiTl4w=
 			</data>
 			<key>hash2</key>
 			<data>
-			1QAWiiQaf4WvotzW3fdTin211CGrWvaHUJaBdkGubsM=
+			rQ5Y3Cj59Ak0aCqFctg2KMfJjRUF49ReYgqZ3IARvNI=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/4gl-3j-4rN-view-n0b-ve-Y5w.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bjl6NONXtnUDWVLU3nlWVT455Yg=
+			i4ml82dD8O0fRxhR396X7NiTl4w=
 			</data>
 			<key>hash2</key>
 			<data>
-			1QAWiiQaf4WvotzW3fdTin211CGrWvaHUJaBdkGubsM=
+			rQ5Y3Cj59Ak0aCqFctg2KMfJjRUF49ReYgqZ3IARvNI=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/4gl-3j-4rN-view-n0b-ve-Y5w.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			04AyRlWaDe4AzFUuQxHjDzcjumI=
+			mUBeHmT1SfcJSEzg3qw4EhshaMA=
 			</data>
 			<key>hash2</key>
 			<data>
-			j0lrwzSx0dJy6jUNtXUkA7OWFLhcUrtWFjDfxYNR9uU=
+			KNnchfC8IqngEhoA6PejdZaUZbYV7ix5UgQAj1dKvb8=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/B0O-Dh-VTI-view-Tug-z7-TTi.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K9Ea2CZEeZE0QoxTmShEhn6gzdw=
+			QOk732HEzyO6UqnfAS3jzYv1HsE=
 			</data>
 			<key>hash2</key>
 			<data>
-			0r2/gC8Y1QFBR5U0RvqUsQyfRX2grb4Dxflsf1pi+40=
+			gMo1GGOmt/LeN99DvkrnJE9fXsqMr1isnqyQRt9JDHM=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/B0O-Dh-VTI-view-Tug-z7-TTi.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K9Ea2CZEeZE0QoxTmShEhn6gzdw=
+			QOk732HEzyO6UqnfAS3jzYv1HsE=
 			</data>
 			<key>hash2</key>
 			<data>
-			0r2/gC8Y1QFBR5U0RvqUsQyfRX2grb4Dxflsf1pi+40=
+			gMo1GGOmt/LeN99DvkrnJE9fXsqMr1isnqyQRt9JDHM=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/B0O-Dh-VTI-view-Tug-z7-TTi.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vu0hJojFLs+9nWhwqCL5tLFBVXE=
+			MBbUNoudw+IR7kxuMFlxhb+vDiY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XlJcSwIhSX7MyiqdVnfzJGtybWZV+qtU0v+7AfQ9DZc=
+			nDMC/Ent+Tl7Fd/nTibgBB5FTa94VTYLulcI2A29eJ4=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9dYMmAjRltpKJEDBBsXKHJXwgXA=
+			Ur42Eo+su7GqJ8IvFzvbNAwyyTE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UYmkIsPoYKehgJMkQuP7qMbJ3NkiM64KK9M/v5ltsEY=
+			jKA8R4dE6199vYuVxYUV3jJtDIPXXytZBC2yISdo84w=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9dYMmAjRltpKJEDBBsXKHJXwgXA=
+			Ur42Eo+su7GqJ8IvFzvbNAwyyTE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UYmkIsPoYKehgJMkQuP7qMbJ3NkiM64KK9M/v5ltsEY=
+			jKA8R4dE6199vYuVxYUV3jJtDIPXXytZBC2yISdo84w=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BEl-WK-oeW-view-h9a-N2-DCz.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jkfZIkaehUtNKqQ9Btz9Ir4iCAo=
+			Dw+rJJfg0wDRDNZSybdQ+li/sF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tfw8xMCrN+RwaSN0Bi4YREQJwY5CgCOJtGHMKKEGJ7E=
+			QAGWn4H1xQ1SKJ/NUHqKEbdIONARngmJiKhz4y+vFBA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BzI-O3-bl8-view-hU1-rk-f1L.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8BmBNFEnzmuRQviF3rqvOFXk5rk=
+			GXmz0nlTNeQJlHQDC7LUlJL7tcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			CCGvWYdGKE7VUHnVngyNJEZqytwfEFC4wEC3wOmIaeI=
+			fBn/Gmci02AU25YKR2WBZxdf1PzAgkV052I4FfNHK3Q=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BzI-O3-bl8-view-hU1-rk-f1L.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8BmBNFEnzmuRQviF3rqvOFXk5rk=
+			GXmz0nlTNeQJlHQDC7LUlJL7tcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			CCGvWYdGKE7VUHnVngyNJEZqytwfEFC4wEC3wOmIaeI=
+			fBn/Gmci02AU25YKR2WBZxdf1PzAgkV052I4FfNHK3Q=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/BzI-O3-bl8-view-hU1-rk-f1L.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KyFHpfxNV9ohYZLt1icgY2Q+Pek=
+			gaXkwbdPy+HVnOfIluVLqJCzu3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			aga3en0P0KlIws6sNHalp9I503LUEI6ep2QeSIb3WC0=
+			u+vme3v/ZvCFMWvDRpJEQ3ijfAYiap41kWMMZweJWYc=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CardView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C/lOHXnLRhXwr4YOUmTTer4lbpQ=
+			bPGO+HqIoJVbRmJrF9xDYmpQsiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			z/MnWs+LZBElW9J3cdTS7bdb/BHLswE7//rVpeaZic4=
+			RtpT3fY1DQZ9JfWgofZqA6KJhyLC0hGyUat7b1K+E+I=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CardView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C/lOHXnLRhXwr4YOUmTTer4lbpQ=
+			bPGO+HqIoJVbRmJrF9xDYmpQsiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			z/MnWs+LZBElW9J3cdTS7bdb/BHLswE7//rVpeaZic4=
+			RtpT3fY1DQZ9JfWgofZqA6KJhyLC0hGyUat7b1K+E+I=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CardView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C/lOHXnLRhXwr4YOUmTTer4lbpQ=
+			bPGO+HqIoJVbRmJrF9xDYmpQsiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			z/MnWs+LZBElW9J3cdTS7bdb/BHLswE7//rVpeaZic4=
+			RtpT3fY1DQZ9JfWgofZqA6KJhyLC0hGyUat7b1K+E+I=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CouponDetails.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1CdeuStruTO9UTa/zh28ycbw140=
+			R89BHOw0t3BB5IfvUFIzAQ1K4nM=
 			</data>
 			<key>hash2</key>
 			<data>
-			0jEfvygS4yS4lXkPlDyz7crL4Dqy1kxcYVzYNCYXmnQ=
+			zkXmFGegPNEtI0zPX4oqalRubG2DL/JbuFzgRgYVOGk=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CouponDetails.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1CdeuStruTO9UTa/zh28ycbw140=
+			R89BHOw0t3BB5IfvUFIzAQ1K4nM=
 			</data>
 			<key>hash2</key>
 			<data>
-			0jEfvygS4yS4lXkPlDyz7crL4Dqy1kxcYVzYNCYXmnQ=
+			zkXmFGegPNEtI0zPX4oqalRubG2DL/JbuFzgRgYVOGk=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CouponDetails.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1CdeuStruTO9UTa/zh28ycbw140=
+			R89BHOw0t3BB5IfvUFIzAQ1K4nM=
 			</data>
 			<key>hash2</key>
 			<data>
-			0jEfvygS4yS4lXkPlDyz7crL4Dqy1kxcYVzYNCYXmnQ=
+			zkXmFGegPNEtI0zPX4oqalRubG2DL/JbuFzgRgYVOGk=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CouponViewController.nib/objects-11.0+.nib</key>
@@ -1111,99 +1096,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hTiy4vs5U+RqtXeC+eqyLsi6qIg=
+			L2dsP7Qe+HHEWaF8esFHjAtg148=
 			</data>
 			<key>hash2</key>
 			<data>
-			gavOZQ0r9phGToVKq0PfSEYDt4MtnDiXWq1mX0y1tVU=
+			1pgdw22zBqQZDSoaQggB0lzBj43FNuODkV6tcyhjfXA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CustomAlertViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hTiy4vs5U+RqtXeC+eqyLsi6qIg=
+			L2dsP7Qe+HHEWaF8esFHjAtg148=
 			</data>
 			<key>hash2</key>
 			<data>
-			gavOZQ0r9phGToVKq0PfSEYDt4MtnDiXWq1mX0y1tVU=
+			1pgdw22zBqQZDSoaQggB0lzBj43FNuODkV6tcyhjfXA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/CustomAlertViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hTiy4vs5U+RqtXeC+eqyLsi6qIg=
+			L2dsP7Qe+HHEWaF8esFHjAtg148=
 			</data>
 			<key>hash2</key>
 			<data>
-			gavOZQ0r9phGToVKq0PfSEYDt4MtnDiXWq1mX0y1tVU=
+			1pgdw22zBqQZDSoaQggB0lzBj43FNuODkV6tcyhjfXA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/DfZ-ka-9P4-view-uaF-Xx-sEp.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ozOTDjqbmY+yF2o0gtuPXY8FyAE=
+			QNT6DNvJk6M6AGcrjMniwSyVp+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			wA1sy/M8LWc4YhoBBum+8oF6GjbRfgePB2fuNvVw2Ds=
+			senokxzzY6ZxythXaYGVqPnuuk2QXkxc4BErbX9pwJU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/DfZ-ka-9P4-view-uaF-Xx-sEp.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ozOTDjqbmY+yF2o0gtuPXY8FyAE=
+			QNT6DNvJk6M6AGcrjMniwSyVp+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			wA1sy/M8LWc4YhoBBum+8oF6GjbRfgePB2fuNvVw2Ds=
+			senokxzzY6ZxythXaYGVqPnuuk2QXkxc4BErbX9pwJU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/DfZ-ka-9P4-view-uaF-Xx-sEp.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7WbzsRiJORnUwckAf5T8t525USs=
+			W5QdhmDhvPAOoML7JXu3v/jcc+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			dyLTtU26mEDxTzFz/NN4KvLz7di8WS/teKJ8udzoNmg=
+			vm/00BrTBdPWMrH46Z3kE6njsUsrHNRC4Nlq5mARHJ8=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/DiscountListViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			icEPoJq2Te2dQSv1woflr5gOoQA=
+			uQ0HL4zpr/cogohstW9z9UbyAh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			K8GCCNKFcjDxK7VPaSHPc+iITpSh6oHRHHHpsYme3Ak=
+			nviOVYIMpSZR8bYR3CEWblcqQTl2yPxyoZ0tBj9dXQw=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/DiscountListViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			icEPoJq2Te2dQSv1woflr5gOoQA=
+			uQ0HL4zpr/cogohstW9z9UbyAh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			K8GCCNKFcjDxK7VPaSHPc+iITpSh6oHRHHHpsYme3Ak=
+			nviOVYIMpSZR8bYR3CEWblcqQTl2yPxyoZ0tBj9dXQw=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/DiscountListViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			icEPoJq2Te2dQSv1woflr5gOoQA=
+			uQ0HL4zpr/cogohstW9z9UbyAh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			K8GCCNKFcjDxK7VPaSHPc+iITpSh6oHRHHHpsYme3Ak=
+			nviOVYIMpSZR8bYR3CEWblcqQTl2yPxyoZ0tBj9dXQw=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/DiscountViewController.nib/objects-11.0+.nib</key>
@@ -1386,363 +1371,363 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hQJmG+dqk9dmNtZosvyJf/fRqb8=
+			iTt+GYggn4Sha1Xl1rfVwvNs/yM=
 			</data>
 			<key>hash2</key>
 			<data>
-			MF09karZcnGyt9HuVu5hTSEtSnjn0Nqm6M93kydgwo4=
+			Ge8TuQxc7kwH/aPnlE0D28ooF8uv8aimy5FYI9y6D9w=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/LPO-Tn-aog-view-dXv-kS-9Ho.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hQJmG+dqk9dmNtZosvyJf/fRqb8=
+			iTt+GYggn4Sha1Xl1rfVwvNs/yM=
 			</data>
 			<key>hash2</key>
 			<data>
-			MF09karZcnGyt9HuVu5hTSEtSnjn0Nqm6M93kydgwo4=
+			Ge8TuQxc7kwH/aPnlE0D28ooF8uv8aimy5FYI9y6D9w=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/LPO-Tn-aog-view-dXv-kS-9Ho.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7g2LR5r6wPfYwn9BTzmfdheTu8c=
+			Dkv0C1YwurE3nUcZQHVYgKF0Xyg=
 			</data>
 			<key>hash2</key>
 			<data>
-			rkHkWgIw3X0JC/93uFGHWdhFljD4uYAxQqmCehvDipw=
+			Hq+DEgQbCI53SfByfr32wkediDnBAGzo4VmnzuNeo+4=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/ListOptionsView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			viRVMd2uGQ7e1D9ZEngGPgFQUFM=
+			5xaExTfuY+Po0LsKnTvNX6btQtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y8ZNbv1yBCChgB9EAFEPDDtPTXbWrG29h3hZZFG9O1Q=
+			9AYoyVt5YgmYMneC5L42bXZicXO4X5ijbXMVxjG21Tc=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/ListOptionsView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			viRVMd2uGQ7e1D9ZEngGPgFQUFM=
+			5xaExTfuY+Po0LsKnTvNX6btQtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y8ZNbv1yBCChgB9EAFEPDDtPTXbWrG29h3hZZFG9O1Q=
+			9AYoyVt5YgmYMneC5L42bXZicXO4X5ijbXMVxjG21Tc=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/ListOptionsView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			viRVMd2uGQ7e1D9ZEngGPgFQUFM=
+			5xaExTfuY+Po0LsKnTvNX6btQtk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y8ZNbv1yBCChgB9EAFEPDDtPTXbWrG29h3hZZFG9O1Q=
+			9AYoyVt5YgmYMneC5L42bXZicXO4X5ijbXMVxjG21Tc=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/MessageView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YwFe26apS9+IkPAcM/tBlGHtU2w=
+			C9+xiYKXe/X2Afm/FmXG0/VatMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HKAeyg2K0hVXHFdMz5VwI38AkeH13RT+OSbEw+G92ok=
+			xoXzmtLBQQ0ovtwjxcZGbY+KtmOJpz+E4bcqZb5iJ9c=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/MessageView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YwFe26apS9+IkPAcM/tBlGHtU2w=
+			C9+xiYKXe/X2Afm/FmXG0/VatMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HKAeyg2K0hVXHFdMz5VwI38AkeH13RT+OSbEw+G92ok=
+			xoXzmtLBQQ0ovtwjxcZGbY+KtmOJpz+E4bcqZb5iJ9c=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/MessageView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YwFe26apS9+IkPAcM/tBlGHtU2w=
+			C9+xiYKXe/X2Afm/FmXG0/VatMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HKAeyg2K0hVXHFdMz5VwI38AkeH13RT+OSbEw+G92ok=
+			xoXzmtLBQQ0ovtwjxcZGbY+KtmOJpz+E4bcqZb5iJ9c=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/OlaView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nYrhbYiF1hZkDp7vXJRvJlfoaIU=
+			hFsjJ+Ok1rha/r440Z3EIgWvcic=
 			</data>
 			<key>hash2</key>
 			<data>
-			IaUDmRq7vOwgD6QaywiQmIBOdpO9A434hEJVNddCLqI=
+			4sFBfZotIEnf34Ro+SVDsr/d+4XX7MFspVAPTS1syGA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/OlaView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nYrhbYiF1hZkDp7vXJRvJlfoaIU=
+			hFsjJ+Ok1rha/r440Z3EIgWvcic=
 			</data>
 			<key>hash2</key>
 			<data>
-			IaUDmRq7vOwgD6QaywiQmIBOdpO9A434hEJVNddCLqI=
+			4sFBfZotIEnf34Ro+SVDsr/d+4XX7MFspVAPTS1syGA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/OlaView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nYrhbYiF1hZkDp7vXJRvJlfoaIU=
+			hFsjJ+Ok1rha/r440Z3EIgWvcic=
 			</data>
 			<key>hash2</key>
 			<data>
-			IaUDmRq7vOwgD6QaywiQmIBOdpO9A434hEJVNddCLqI=
+			4sFBfZotIEnf34Ro+SVDsr/d+4XX7MFspVAPTS1syGA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/PEBViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QodxM1MsPZkf90vHEZQeNFZjZLs=
+			O7DHTzdXZp8/7p2A57MlUJExUYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			uydpT3M6eNotsP7sUYK38729qeuKaqfh4KeWZDX7AFY=
+			2BuU7PAVk7EqxioFGWsobNTCH4SZ6xVXmwwlr4/9txM=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/PEBViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QodxM1MsPZkf90vHEZQeNFZjZLs=
+			O7DHTzdXZp8/7p2A57MlUJExUYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			uydpT3M6eNotsP7sUYK38729qeuKaqfh4KeWZDX7AFY=
+			2BuU7PAVk7EqxioFGWsobNTCH4SZ6xVXmwwlr4/9txM=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/PEBViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QodxM1MsPZkf90vHEZQeNFZjZLs=
+			O7DHTzdXZp8/7p2A57MlUJExUYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			uydpT3M6eNotsP7sUYK38729qeuKaqfh4KeWZDX7AFY=
+			2BuU7PAVk7EqxioFGWsobNTCH4SZ6xVXmwwlr4/9txM=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/PaymentOptionsView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BTRLqPaDH99tpdPEohc6LOOPjx8=
+			ZcPUt4ffEXWDjctCVTGJetnokho=
 			</data>
 			<key>hash2</key>
 			<data>
-			2v5B2JAozoipCphIbYJttv/4i760bNLPsG3Is61C3fw=
+			IoEgG6eFWUeIkvcCQUO/HHOfAS+yNMEIxb5ex4C2xI8=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/PaymentOptionsView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BTRLqPaDH99tpdPEohc6LOOPjx8=
+			ZcPUt4ffEXWDjctCVTGJetnokho=
 			</data>
 			<key>hash2</key>
 			<data>
-			2v5B2JAozoipCphIbYJttv/4i760bNLPsG3Is61C3fw=
+			IoEgG6eFWUeIkvcCQUO/HHOfAS+yNMEIxb5ex4C2xI8=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/PaymentOptionsView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BTRLqPaDH99tpdPEohc6LOOPjx8=
+			ZcPUt4ffEXWDjctCVTGJetnokho=
 			</data>
 			<key>hash2</key>
 			<data>
-			2v5B2JAozoipCphIbYJttv/4i760bNLPsG3Is61C3fw=
+			IoEgG6eFWUeIkvcCQUO/HHOfAS+yNMEIxb5ex4C2xI8=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/SaveCardsViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m7Fkjw3uQ8j8iXuzh38u3LpNo/4=
+			t9a/dNf04M7y8UbceHVYmtiKUPE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tv0Eb5vx786s8fkzJE9GRKYMzE/WIPwpaqTHZo3V7YA=
+			FQ7uZ7QiNt7YsK5VQrDg36iQD3SS0892alE6+MBJufQ=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/SaveCardsViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m7Fkjw3uQ8j8iXuzh38u3LpNo/4=
+			t9a/dNf04M7y8UbceHVYmtiKUPE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tv0Eb5vx786s8fkzJE9GRKYMzE/WIPwpaqTHZo3V7YA=
+			FQ7uZ7QiNt7YsK5VQrDg36iQD3SS0892alE6+MBJufQ=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/SaveCardsViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m7Fkjw3uQ8j8iXuzh38u3LpNo/4=
+			t9a/dNf04M7y8UbceHVYmtiKUPE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Tv0Eb5vx786s8fkzJE9GRKYMzE/WIPwpaqTHZo3V7YA=
+			FQ7uZ7QiNt7YsK5VQrDg36iQD3SS0892alE6+MBJufQ=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/SimplView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i7HOrAvJod4JBaARsB7g7h3JkCY=
+			ZD9V2S6IveRF2lEhsKn1xlt8z6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			DgyxDMKt8qhPZq+hz/hpUr1tOETMbCb04CAbmvXgb4U=
+			yjFvTWJzfY9TXzb9uo0BMlFdbpn0Evf0q0Au71bS/+o=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/SimplView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i7HOrAvJod4JBaARsB7g7h3JkCY=
+			ZD9V2S6IveRF2lEhsKn1xlt8z6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			DgyxDMKt8qhPZq+hz/hpUr1tOETMbCb04CAbmvXgb4U=
+			yjFvTWJzfY9TXzb9uo0BMlFdbpn0Evf0q0Au71bS/+o=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/SimplView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i7HOrAvJod4JBaARsB7g7h3JkCY=
+			ZD9V2S6IveRF2lEhsKn1xlt8z6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			DgyxDMKt8qhPZq+hz/hpUr1tOETMbCb04CAbmvXgb4U=
+			yjFvTWJzfY9TXzb9uo0BMlFdbpn0Evf0q0Au71bS/+o=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/UPIPaymentView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uM8JdeVm7JDS9eOAQ3xfxJpyQzU=
+			+X04wDg4NUBJb6/XOMZch0/s8qY=
 			</data>
 			<key>hash2</key>
 			<data>
-			gLZlpRyA9eHU/hA2BuYXonUblrXDYSqhwyhTPercvJ4=
+			lH8f/Lj+FaRSnCWkMe+a4AeYISuKt1GG1sip4iahTsA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/UPIPaymentView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uM8JdeVm7JDS9eOAQ3xfxJpyQzU=
+			+X04wDg4NUBJb6/XOMZch0/s8qY=
 			</data>
 			<key>hash2</key>
 			<data>
-			gLZlpRyA9eHU/hA2BuYXonUblrXDYSqhwyhTPercvJ4=
+			lH8f/Lj+FaRSnCWkMe+a4AeYISuKt1GG1sip4iahTsA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/UPIPaymentView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uM8JdeVm7JDS9eOAQ3xfxJpyQzU=
+			+X04wDg4NUBJb6/XOMZch0/s8qY=
 			</data>
 			<key>hash2</key>
 			<data>
-			gLZlpRyA9eHU/hA2BuYXonUblrXDYSqhwyhTPercvJ4=
+			lH8f/Lj+FaRSnCWkMe+a4AeYISuKt1GG1sip4iahTsA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/UPIView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OEGdrCQX1Z3UhjlyThsC8rTMUmk=
+			mSxwFrUgNAImjc7xiaor16drKNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			fTIeDiLuKYk3VVTDie27BNmtulKYWmbmPX8/+yJ+thg=
+			30jD3QMmdk+CynnNOoe+GveOViMOuSHfWO+vNznMgkg=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/UPIView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OEGdrCQX1Z3UhjlyThsC8rTMUmk=
+			mSxwFrUgNAImjc7xiaor16drKNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			fTIeDiLuKYk3VVTDie27BNmtulKYWmbmPX8/+yJ+thg=
+			30jD3QMmdk+CynnNOoe+GveOViMOuSHfWO+vNznMgkg=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/UPIView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OEGdrCQX1Z3UhjlyThsC8rTMUmk=
+			mSxwFrUgNAImjc7xiaor16drKNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			fTIeDiLuKYk3VVTDie27BNmtulKYWmbmPX8/+yJ+thg=
+			30jD3QMmdk+CynnNOoe+GveOViMOuSHfWO+vNznMgkg=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/WLm-x9-20J-view-UrL-QZ-1uD.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jM9GnIx5JAzY5CfqSc03lspC5XE=
+			mt/Vj6EO1X2fZ+vCYV0sydPPKlo=
 			</data>
 			<key>hash2</key>
 			<data>
-			jma3e0bB2eNP2w/R1Ccr/gfvZuPWYF/+yxGewepkGA4=
+			S9yF8GgqE19bvwPtlCVwRPv6eHLkjwfwMbJNTTDRhzU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/WLm-x9-20J-view-UrL-QZ-1uD.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jM9GnIx5JAzY5CfqSc03lspC5XE=
+			mt/Vj6EO1X2fZ+vCYV0sydPPKlo=
 			</data>
 			<key>hash2</key>
 			<data>
-			jma3e0bB2eNP2w/R1Ccr/gfvZuPWYF/+yxGewepkGA4=
+			S9yF8GgqE19bvwPtlCVwRPv6eHLkjwfwMbJNTTDRhzU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/WLm-x9-20J-view-UrL-QZ-1uD.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tkqN3HMXJNgCIltkIoFpcw1KuFM=
+			HMrKItwUYBiK2nsKqJKCByezl/s=
 			</data>
 			<key>hash2</key>
 			<data>
-			96mbVRcsMikWo0efr386AYxdv78JgJyASe6HrkY0070=
+			NqZ9YNaTGyzi5wKx3YZdzn88b7fKOja6jZusqtWnYQ4=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/WalletPinViewController.nib/objects-11.0+.nib</key>
@@ -1782,561 +1767,561 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LTE7/n9rVoSFaMmiFTis3LkDokk=
+			lo5jiCqw9ga8tPL6/f/u6rdAOa4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xN9Lb0X477tgtNpetWLmLJ63/X/dzqvDAEGSlnHi2Fc=
+			Q6YKS2lI9XBUEwx9u1Q2wEN2cKcPlV0JKJjCGMTJWME=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/WebPaymentViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LTE7/n9rVoSFaMmiFTis3LkDokk=
+			lo5jiCqw9ga8tPL6/f/u6rdAOa4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xN9Lb0X477tgtNpetWLmLJ63/X/dzqvDAEGSlnHi2Fc=
+			Q6YKS2lI9XBUEwx9u1Q2wEN2cKcPlV0JKJjCGMTJWME=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/WebPaymentViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LTE7/n9rVoSFaMmiFTis3LkDokk=
+			lo5jiCqw9ga8tPL6/f/u6rdAOa4=
 			</data>
 			<key>hash2</key>
 			<data>
-			xN9Lb0X477tgtNpetWLmLJ63/X/dzqvDAEGSlnHi2Fc=
+			Q6YKS2lI9XBUEwx9u1Q2wEN2cKcPlV0JKJjCGMTJWME=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/YlX-Iz-ihc-view-TvO-Az-Bg6.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d/iEWTNHDEW3MJNl0712yH8PNgU=
+			ppd0x5l13CJGW+fesFQlQOtcpq8=
 			</data>
 			<key>hash2</key>
 			<data>
-			iyRuuj1Stuhpd3slmpz6EcopWtpAH83Pu6CvjJ7EDP8=
+			vRe1N+ckzZE/+w13YtJ4QPUv0Xi0MPmVAzxbQv09YIA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/YlX-Iz-ihc-view-TvO-Az-Bg6.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KtFczb2bAH0cR24G7j3vSTxl6Ek=
+			sMniK79ehQ8SPNqA6v8vQuo4TgA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pJZaHP6HWFs3cifajXYoIXBoJrD15Sti6TQGGhV5Io8=
+			5J/rp0sod5LzKw72IJ9/wD144ZZkgJ69KlvXXfiYXIY=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/YlX-Iz-ihc-view-TvO-Az-Bg6.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a7BA7bssBtDiNpBLNv0P8wNyoOU=
+			IbtFoZJOq6fGCD1HaflpDs0Ic4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			fExbZJ5MdwrDlP1shdwLD7GhYqt9KGKTVJZ6dTyNMDM=
+			1klXM9iNOXuDiyF2HiumjIgUpJHPrCtw/s11iuotsq0=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/a1W-f4-QHv-view-Xlp-q7-5ce.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9m+xpOzbs6+/nytK7ruVe4ERK3g=
+			LgFTPCajCKRdRq16WpBtW8h7tFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			gkpvzDwjqPQccRIEZXwfmGwQcA0fJQUQvj9H5ESLDq8=
+			/q2ShiPGWqlGvseXO6yAKkbdp8QC4t+C2cDP1yVZDGw=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/a1W-f4-QHv-view-Xlp-q7-5ce.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9m+xpOzbs6+/nytK7ruVe4ERK3g=
+			LgFTPCajCKRdRq16WpBtW8h7tFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			gkpvzDwjqPQccRIEZXwfmGwQcA0fJQUQvj9H5ESLDq8=
+			/q2ShiPGWqlGvseXO6yAKkbdp8QC4t+C2cDP1yVZDGw=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/a1W-f4-QHv-view-Xlp-q7-5ce.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			USRVkUdoWo9KdQ1w0qYtg7Fr+kU=
+			wyjUubtwmhGF5K34o4FNNbkcJTw=
 			</data>
 			<key>hash2</key>
 			<data>
-			mRwGOCbhRPcJemSf44BpaE93Dsz4ym40s3q5xeznhsU=
+			E8BdwwfH2GCsNuhbv2TxhOnNdXruKEf1SgtFCCljP78=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4kex8pA1Z04chFffaYOquE4ff+I=
+			Ekk0bCgSA3pOVbMszy2XwCXmulQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			yCPkc/V81ToNCfdp/k0Tc5YGqnEfVves2k+NPmWXWT4=
+			zBo93/QK+9JRB7EHGBD33bYD0SPDfzkNHE58NjeLFoE=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4kex8pA1Z04chFffaYOquE4ff+I=
+			Ekk0bCgSA3pOVbMszy2XwCXmulQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			yCPkc/V81ToNCfdp/k0Tc5YGqnEfVves2k+NPmWXWT4=
+			zBo93/QK+9JRB7EHGBD33bYD0SPDfzkNHE58NjeLFoE=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bIM-j8-X1r-view-mOS-75-9QT.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8rq5MD3Tw999Xmy2a6UerB0tG5I=
+			mpbic118UGakRlaqWsOhgwudvx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zz8bQZl2Uoew/fb1abPbrz62NNRQzcyuONN76iERyqg=
+			qAyNO11N8llCp61hBkpiunf4tEi+srVSQHaDuvIw8OU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bzc-gL-nME-view-ogv-Hu-CVd.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Frxkl6hYKmUfYjA4cTp0JCmnCM4=
+			LgoRMtxj9ypomp4IFrur5H3jKNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			iop8TQWjqk7seIimgV5hHgRUKpxsxI78XBKizSFu718=
+			Suk7gfh5UNyoTFmPq86InI91XFsDzUWraf5MrbihJvs=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bzc-gL-nME-view-ogv-Hu-CVd.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Frxkl6hYKmUfYjA4cTp0JCmnCM4=
+			LgoRMtxj9ypomp4IFrur5H3jKNs=
 			</data>
 			<key>hash2</key>
 			<data>
-			iop8TQWjqk7seIimgV5hHgRUKpxsxI78XBKizSFu718=
+			Suk7gfh5UNyoTFmPq86InI91XFsDzUWraf5MrbihJvs=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/bzc-gL-nME-view-ogv-Hu-CVd.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X1kRgVnXrN9mqPF0tXSdS/tZsUk=
+			2hspstAfh0ATosnOexosnt7Zodg=
 			</data>
 			<key>hash2</key>
 			<data>
-			SkhvcsGnCumjbUuGrV1oB9HjEqm2qBjo4+A0gHOqMb4=
+			2MsUrBLyRZZpoDqbnHuoIW4p7figInyHJqhmBThBmFk=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/c5T-pb-1D7-view-XEt-lO-lS2.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			159VlVn/F1pniqijaUT68de2Q6U=
+			+mS7IAsHPvjiQPxmq4qnEDNEf7Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			79I0iVQZ7nWImso3dz0T2DhpYU5DKpHcoAmZkHzIDCA=
+			VHXHqq0WXy8MC2SLX0WVM52fn8hIq/INwnR1HvglBEA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/c5T-pb-1D7-view-XEt-lO-lS2.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			159VlVn/F1pniqijaUT68de2Q6U=
+			+mS7IAsHPvjiQPxmq4qnEDNEf7Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			79I0iVQZ7nWImso3dz0T2DhpYU5DKpHcoAmZkHzIDCA=
+			VHXHqq0WXy8MC2SLX0WVM52fn8hIq/INwnR1HvglBEA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/c5T-pb-1D7-view-XEt-lO-lS2.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rl7y5xxBvGEeeZE6s1cI9CoJ964=
+			nGJaAx+ZCDUFJ7SF6/UWM8aP0p4=
 			</data>
 			<key>hash2</key>
 			<data>
-			nJTzf+CnTQzEePBgnqfQ8TAbgtUHXy0F3ToMvSyv8Io=
+			TIL+A5lRHyKtEYaB2eYmdqrYDNMfzteATMrFyWIyLEs=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/gGQ-o3-zTp-view-WkJ-vW-0TT.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vxejcjk+RDRz7Zh6YtHnZ+BQpgc=
+			+W0i0o04DodhT20Dm0NtCxZz1Pg=
 			</data>
 			<key>hash2</key>
 			<data>
-			FwGeErVJjJiDcioT5bWIh10eM1cHYsl+5SA4/F+1U+Q=
+			Jt7jsY+Kwz85lpN0T57+uK0evNtScjaQaBocsnjC38s=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/gGQ-o3-zTp-view-WkJ-vW-0TT.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vxejcjk+RDRz7Zh6YtHnZ+BQpgc=
+			+W0i0o04DodhT20Dm0NtCxZz1Pg=
 			</data>
 			<key>hash2</key>
 			<data>
-			FwGeErVJjJiDcioT5bWIh10eM1cHYsl+5SA4/F+1U+Q=
+			Jt7jsY+Kwz85lpN0T57+uK0evNtScjaQaBocsnjC38s=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/gGQ-o3-zTp-view-WkJ-vW-0TT.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gvf/PlWSW+n+YeeyvkgS6uaL5u0=
+			AcL84qVJTJkKyN+q3kb2jLFJRIc=
 			</data>
 			<key>hash2</key>
 			<data>
-			TRBR1T6DHJt6eTPmU5E6M1DmPWcuq6Lb2ynMT1CqdBo=
+			Ly6/B3h8YTIxGftNlfXj27DwMB53jwkUIJUtI1IR+lo=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/lmc-oX-qF4-view-GvV-wc-LL5.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OrIWqmSUtP/wx6PTSNziIUECrk4=
+			5KKaMQXbw7SaIUICnIW7pUQXBjc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y9KT4DhlYZAnwJ5MTKKHls3puMvNN5BJ5toDzwS6woU=
+			82n9qd7v4aE+6JpJqfDK7so/GmB67nqbpv89ZzYfkRg=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/lmc-oX-qF4-view-GvV-wc-LL5.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OrIWqmSUtP/wx6PTSNziIUECrk4=
+			5KKaMQXbw7SaIUICnIW7pUQXBjc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y9KT4DhlYZAnwJ5MTKKHls3puMvNN5BJ5toDzwS6woU=
+			82n9qd7v4aE+6JpJqfDK7so/GmB67nqbpv89ZzYfkRg=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/lmc-oX-qF4-view-GvV-wc-LL5.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kAKVw6szHTODevVZFbnc5LYhu8o=
+			/j1dDBLxpYpScCJaOXkWd/ZWlgc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JIV1oi7MBFZwkAStxRJWZhKlEPzEHyp3Jxb6BZVnEp4=
+			xkbYoxDZNhqmNYeT6V8fqWRbEbAjrEIMe/9AEqRcv6c=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/mAt-0W-H28-view-vhK-cl-yqc.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CdekqpknFM6bUDKr4bP/qZWgO6A=
+			eNNUZOvN4VD4Yln3gNW+6LvvCoQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			TpEE0uD8lv2C5MVlYjsNjftoqPTmCilxXivkbrHBTO4=
+			vf+9YSAusV+6w0xAPHyrXnl+81yTanjRv1iQuozZU3U=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/mAt-0W-H28-view-vhK-cl-yqc.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CdekqpknFM6bUDKr4bP/qZWgO6A=
+			eNNUZOvN4VD4Yln3gNW+6LvvCoQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			TpEE0uD8lv2C5MVlYjsNjftoqPTmCilxXivkbrHBTO4=
+			vf+9YSAusV+6w0xAPHyrXnl+81yTanjRv1iQuozZU3U=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/mAt-0W-H28-view-vhK-cl-yqc.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			49EU89D1EOZvgPe4Y5JS1uM6ei0=
+			U3OHhIqULcpnokbFyQIpRDK/O2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ny2D7jKr6PYLOaMFbWnIifnaK3fOBwpXDwgwmN6uEIE=
+			Y0ot4grIneKDaybAGStcvkz91bJCRoUIH3WGR0EpFWc=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/nav.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tDQgchEKsEDWNHdVlRPoBXiM62c=
+			e7E8yU8iRCiL8J3zl7KchXrMQ1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			76zAE7DBLH549gBEFrGajMgAHNiTotCwWU6tbL57Hbg=
+			m5uyWPNw/Uby2T2E8AoZAOYLOzk2ybNSD/KaotrTdlA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/nav.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tDQgchEKsEDWNHdVlRPoBXiM62c=
+			e7E8yU8iRCiL8J3zl7KchXrMQ1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			76zAE7DBLH549gBEFrGajMgAHNiTotCwWU6tbL57Hbg=
+			m5uyWPNw/Uby2T2E8AoZAOYLOzk2ybNSD/KaotrTdlA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/nav.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tDQgchEKsEDWNHdVlRPoBXiM62c=
+			e7E8yU8iRCiL8J3zl7KchXrMQ1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			76zAE7DBLH549gBEFrGajMgAHNiTotCwWU6tbL57Hbg=
+			m5uyWPNw/Uby2T2E8AoZAOYLOzk2ybNSD/KaotrTdlA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/q5E-kD-obO-view-4VZ-Kx-7xN.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			buHXQ0irOJMJ0opKlEQ625Akpfo=
+			BQnVe9T1kzO5AHJ+IR2AmI9tHLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ESZ/DJUY02e1WJ2M4xQZ6XEzQjRBcH9mey8SHmyHNNQ=
+			DkHvRqFAJ8w7sMBwncY7Vu/reWXSGELhl7Ny07Dz2XA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/q5E-kD-obO-view-4VZ-Kx-7xN.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			buHXQ0irOJMJ0opKlEQ625Akpfo=
+			BQnVe9T1kzO5AHJ+IR2AmI9tHLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ESZ/DJUY02e1WJ2M4xQZ6XEzQjRBcH9mey8SHmyHNNQ=
+			DkHvRqFAJ8w7sMBwncY7Vu/reWXSGELhl7Ny07Dz2XA=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/q5E-kD-obO-view-4VZ-Kx-7xN.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8UpRCzaaSxdQwcbXz9hDCxyiq7A=
+			naZxDyRhA5HoMPn2mlJfD8yGONE=
 			</data>
 			<key>hash2</key>
 			<data>
-			GWVCqkr94M9ASOAv3qOwXBXMinuZwxyoADebE8IvQuc=
+			BKQWxSIoQyOnKLbfvLy5wGDB+ZgaqPfUwI6FX8Nv3Fg=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/sessionExpireView.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BAIR4hvK2WiQ81i/1GjxtLA4KF4=
+			9sSdw+JhHWjEpIMuva+YtoLplpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			RYAClvEPJtTY9SIx3YzxIJDEiE9nRlxWOE1HnJKFTpk=
+			193m+Z8f6LOHPL32MoNSQNhOKk1TbrJIVhEyyqcASMc=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/sessionExpireView.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BAIR4hvK2WiQ81i/1GjxtLA4KF4=
+			9sSdw+JhHWjEpIMuva+YtoLplpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			RYAClvEPJtTY9SIx3YzxIJDEiE9nRlxWOE1HnJKFTpk=
+			193m+Z8f6LOHPL32MoNSQNhOKk1TbrJIVhEyyqcASMc=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/sessionExpireView.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BAIR4hvK2WiQ81i/1GjxtLA4KF4=
+			9sSdw+JhHWjEpIMuva+YtoLplpI=
 			</data>
 			<key>hash2</key>
 			<data>
-			RYAClvEPJtTY9SIx3YzxIJDEiE9nRlxWOE1HnJKFTpk=
+			193m+Z8f6LOHPL32MoNSQNhOKk1TbrJIVhEyyqcASMc=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/si6-5u-qw0-view-wxQ-eO-4bc.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dM8g5NZDtsxZ+jfQ299lcSeoIv8=
+			YcMzbqGOLI3j5VxzUX8rkZuOsbs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bllaL16y4xeixaXN6P0IApmBgzGndmZja3o3NLdg5PY=
+			1o0sgdW1xyrizihdWwTE1ukpeyUiIpspm8y6Gujn0h4=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/si6-5u-qw0-view-wxQ-eO-4bc.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dM8g5NZDtsxZ+jfQ299lcSeoIv8=
+			YcMzbqGOLI3j5VxzUX8rkZuOsbs=
 			</data>
 			<key>hash2</key>
 			<data>
-			bllaL16y4xeixaXN6P0IApmBgzGndmZja3o3NLdg5PY=
+			1o0sgdW1xyrizihdWwTE1ukpeyUiIpspm8y6Gujn0h4=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/si6-5u-qw0-view-wxQ-eO-4bc.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FjF1vjR8j96jPYyIEZq8cUbNXpU=
+			MFhpWY7QAqyYKZJhV2S+Sj6RGwo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hd5qLjMUPd76ZCMZ2jq5Hy1JHdFl5tY9fZf5KmVb7Po=
+			wYGSNEkMeBUdik2Mo42hkvfguo4Ro/LE90PxxhV2O8o=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/v0z-3T-YhL-view-oC7-CZ-NiZ.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CC8GcP1JZXPzlc4yFrSXIqz45gc=
+			VYnLDYmukAGm/4i9jtDmsKAuoL0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bTnC7yniTy5ciAS1YCBVwSQ7w9i9lTlazYVlPVd5LYE=
+			TYm8r6zHcyCdotdGtJB5pZR4SfsT4l//wxBPsIWAA58=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/v0z-3T-YhL-view-oC7-CZ-NiZ.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a0JHUOUQsCXPxD0SF8BVjhX5LUk=
+			pPfPd/Q2ro5PM5M3R9JrHnSbw4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			zfxPsojTJRmlG71jmQcIiMcqY/SvonhQ81cHMLokml4=
+			8LbHKecJWJ8ETkpEGJzBpBKAPwXXpWWz8QSd16xrMf0=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/v0z-3T-YhL-view-oC7-CZ-NiZ.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NKgrv85Zq4L+zeiVuqOu0lOYaak=
+			Ix+NyDMhtoQSEl++lpTBX9FGmq8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1sxDqRe1md3daewgAcRuvEUHAZKL0oS6llFRN1qsZgI=
+			iQacJJR31/n2m6D4jG0ACtUOyX5EFT8Low+LSzdcUpk=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/z8P-jt-53g-view-9bO-Ha-Vtr.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FcBYOZrYx/WHCLNosduz4AIIzu0=
+			mIZddvvYd6/Ht3Af0SKiqzZN/eY=
 			</data>
 			<key>hash2</key>
 			<data>
-			UDrh29nfHjQb4gqHW3bt6tRjJ/XbGVQpxjp1EYii5HE=
+			40Zzljm0efbsUaJX4Gersg1tyCgBJ5tCEzAVGWqq9YU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/z8P-jt-53g-view-9bO-Ha-Vtr.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FcBYOZrYx/WHCLNosduz4AIIzu0=
+			mIZddvvYd6/Ht3Af0SKiqzZN/eY=
 			</data>
 			<key>hash2</key>
 			<data>
-			UDrh29nfHjQb4gqHW3bt6tRjJ/XbGVQpxjp1EYii5HE=
+			40Zzljm0efbsUaJX4Gersg1tyCgBJ5tCEzAVGWqq9YU=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/z8P-jt-53g-view-9bO-Ha-Vtr.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7WSJ2pwT4pZ791FsLMHU6KoJLeQ=
+			qvL+FfKpFCyZRSJWZ+t22x6ub7M=
 			</data>
 			<key>hash2</key>
 			<data>
-			2oM3IftB39h9OP+oxXZLTxRLFOLBJAVGTVMcAKi8Vww=
+			/rHr7BkOeS0Gx75bvNfaWAsTmmyTS5uOsvCtfm8rLWk=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/zaw-1w-8Fm-view-WDW-sB-NcR.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6e1bIuneK5A/WUQwyqCewxeyPaw=
+			m80uFXFlIghQ9eu/gO9vcEMsdh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			x1P1fIA8DOKUK6rkj8HThdDyS7zYMWv+wK09w/sAHaM=
+			2QqvJ+7ZH+keTHWiJCqA83n7Ju7C7KEUAGZ4Ib6/qWY=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/zaw-1w-8Fm-view-WDW-sB-NcR.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6e1bIuneK5A/WUQwyqCewxeyPaw=
+			m80uFXFlIghQ9eu/gO9vcEMsdh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			x1P1fIA8DOKUK6rkj8HThdDyS7zYMWv+wK09w/sAHaM=
+			2QqvJ+7ZH+keTHWiJCqA83n7Ju7C7KEUAGZ4Ib6/qWY=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/zaw-1w-8Fm-view-WDW-sB-NcR.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9nW8bBxe0rv7Wie0s7yfRgUtp1E=
+			kMFsVHFBiLDxZCEAdWGwl6fEpbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0RnrNYJXVf+yYCfuQhhg0FijoAZNnCsdx4irxWXQdZg=
+			yyws2yQlPlLd2MdYRlB/tXI7wfzDm2m7uoJcI9zBX9w=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/zpm-fT-cXF-view-aUe-3P-F9z.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vWOaTWoPgxZZXEkHm6RtPK+b6sY=
+			XuM1GXlsjgkOJ5hDQX5SzYicA1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			dE2q8lxl6vdlv9JH3xva7SNQgH3ai8beuxfCd6XB35I=
+			/4QCJXO+M28BC3JBkF4alMh0IjDfcmmPgNHILR/y1WI=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/zpm-fT-cXF-view-aUe-3P-F9z.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vWOaTWoPgxZZXEkHm6RtPK+b6sY=
+			XuM1GXlsjgkOJ5hDQX5SzYicA1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			dE2q8lxl6vdlv9JH3xva7SNQgH3ai8beuxfCd6XB35I=
+			/4QCJXO+M28BC3JBkF4alMh0IjDfcmmPgNHILR/y1WI=
 			</data>
 		</dict>
 		<key>PayWithEasebuzz.storyboardc/zpm-fT-cXF-view-aUe-3P-F9z.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KnpVyd5MKcKoSUHbeHinKxlwRmQ=
+			q8EA4AzHNWCoF+z8d7jUeNw5gjk=
 			</data>
 			<key>hash2</key>
 			<data>
-			djhrwK4EofAFvVaX517GHkoDRqFbgODS68mcg7q5CLU=
+			DRUPpkEZ3Umi6oGJkj8ZRzvzPUhdQfnL8rRfGXF6Ntk=
 			</data>
 		</dict>
 		<key>bit_ssl.jpg</key>
